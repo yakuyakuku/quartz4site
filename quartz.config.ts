@@ -1,11 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Noktic",
@@ -40,14 +35,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0b0e14",     // Deepest background
+          lightgray: "#1a1f29", // Surface/Sidebar background
+          gray: "#5d6b82",      // UI borders/lines
+          darkgray: "#d1d5db",  // Primary body text
+          dark: "#ffffff",      // Headers/Bold text
+          secondary: "#7aa2f7", // Accent 1 (Links/Icons) - Tokyo Night Blue
+          tertiary: "#bb9af7",  // Accent 2 (Hover/Active) - Tokyo Night Purple
+          highlight: "rgba(122, 162, 247, 0.1)", // Text highlight
           textHighlight: "#b3aa0288",
         },
       },
@@ -88,8 +83,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Commented out to speed up build time since generating OG images is slow
+      // Plugin.CustomOgImages(), 
     ],
   },
 }

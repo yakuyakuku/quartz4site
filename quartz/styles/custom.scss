@@ -1,3 +1,22 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// quartz/styles/custom.scss
+a.internal {
+    color: var(--secondary);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+
+    &:hover {
+        color: var(--tertiary);
+        border-bottom: 1px solid var(--tertiary);
+        background-color: var(--highlight);
+    }
+}
+
+.explorer {
+    button {
+        color: var(--secondary) !important;
+    }
+}
