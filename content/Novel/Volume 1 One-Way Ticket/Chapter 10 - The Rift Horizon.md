@@ -210,7 +210,7 @@ Hestia let out a low whistle. "Damn. good batch i take? it's been so long since 
 
 "Oof, that's gonna be a headache for the paperwork, which is not my responsibility hahahaha" Hestia chuckled. 
 
-"And the dud? I remember you said there were null flagged one? It's not common these days to get a null especially with the modern serum and all the new equipment"
+"And the dud? I remember you said there were [[NULL]] flagged one? It's not common these days to get a [[NULL]] especially with the modern serum and all the new equipment"
 
 "Subject 785" Elara said. 
 
@@ -294,7 +294,7 @@ Elara felt a chill run down her spine, as she remember the stare of the leviatha
 
 "Oho?? Alright then, we can talk much if you were just asked when we were on the same room" returning to her casual tone. 
 
-"Anyway this Eric dude, since he is a null, and we can't predict what will null do, they could just cause problem so send him to the kitchens, or put him on cleaning duty, should be suffice. We're short on toilet scrubbers in Sector 4 anyway hahahaha, and if he's a dud, he's a dud, unless he bites, then I don't care"
+"Anyway this Eric dude, since he is a [[NULL]], and we can't predict what will [[NULL]] do, they could just cause problem so send him to the kitchens, or put him on cleaning duty, should be suffice. We're short on toilet scrubbers in Sector 4 anyway hahahaha, and if he's a dud, he's a dud, unless he bites, then I don't care"
 
 "Understood" Elara nodded. 
 

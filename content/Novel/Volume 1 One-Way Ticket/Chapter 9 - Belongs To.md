@@ -25,7 +25,7 @@ Arthea has gone through the veil ten seconds ago she just stood there waiting fo
 
 She then open another screen and looked at Arthea’s file, She's not a noble, no noble houses are associated with her, no history of being related to one, she just a normal citizen that lived with a couple that has died before in Endria.
 
-"If there is no serpent. the screen should have not projected any landscape at all, if the case like that she would assign her NULL unit, where the one who not get accepted the serum would go, but a landscape being projected means that she accept the serum, but how? Where is the serpent? What it represent? Don't tell me the serpent were these knights?" said Elara on her mind.
+"If there is no serpent. the screen should have not projected any landscape at all, if the case like that she would assign her [[NULL]] unit, where the one who not get accepted the serum would go, but a landscape being projected means that she accept the serum, but how? Where is the serpent? What it represent? Don't tell me the serpent were these knights?" said Elara on her mind.
 
 "If indeed they were, she also the high potential one... To be able to project something entirely different in one inner domain to be like this... Either she's highly delusional, crazy or insane, but i with what already has happened for today, i would not be surprised of she is. This one is confusing to assign to, which unit that she would fit? Hmm maybe for now i can just assign her to that" she continues.
 
@@ -193,15 +193,15 @@ They did this over 10 times and still nothing, Elara was doing everything she co
 
 "I'm sorry Mr. Rossvolt, but in case of non-detector like this i can't assign you to any normal unit, you instead be going to"
 
-**Unit: NULL**
+**Unit: [[NULL]]**
 
-Eric felt the words null was just perfect, he got his "boring job", but maybe he was expecting something else? He kept his expression blank, accepting the result.
+Eric felt the words [[NULL]] was just perfect, he got his "boring job", but maybe he was expecting something else? He kept his expression blank, accepting the result.
 
 "Well It was better this way" he said to himself in his thought, and then he took steps to walked away.
 
 "Wait" said Elara
 
-"Unit Null can't take normal jobs that other unit had, but you can still earn money and served well in the moon base, don't worry Mr. Rossvolt, it's going to be fine, there are people who were null too before so rest easy"
+"Unit [[NULL]] can't take normal jobs that other unit had, but you can still earn money and served well in the moon base, don't worry Mr. Rossvolt, it's going to be fine, there are people who were [[NULL]] too before so rest easy"
 
 She then walked towards him, she reached out to him, her face full of that warm affection.
 "Having her around was reassuring" said Eric, in his mind.
@@ -276,7 +276,7 @@ In her mind she wondered,
 
 "Just what was that before?".
 
-All one hundred and forty one recruits all done be assigned to, most of them were on Gridra, plenty on Fortzvel, only 10% managed to get into Niddraz and one unlucky person were assigned to Null. Before they departed the recruits were given chance to call their families and loved one, and also to say goodbye to their friends if they were stationed at the base, or finishing their preparation. 
+All one hundred and forty one recruits all done be assigned to, most of them were on Gridra, plenty on Fortzvel, only 10% managed to get into Niddraz and one unlucky person were assigned to [[NULL]]. Before they departed the recruits were given chance to call their families and loved one, and also to say goodbye to their friends if they were stationed at the base, or finishing their preparation. 
 
 
 
