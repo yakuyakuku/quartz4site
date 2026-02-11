@@ -36,7 +36,7 @@ Darius grin and said. "I will crush anything in my way."
 
 "I'm sure you do," she chuckled softly. "Try not to break yourself in the process Strong one“.
 
-**Unit: NIDDRAZ** 
+**Unit: [[NIDDRAZ]]** 
 
 “Go on, shoo."
 
@@ -94,7 +94,7 @@ She pulled back and let go of him, winking at him as he stood there paralyzed an
 
 "You belong with!"
 
-**Unit: NIDDRAZ**
+**Unit: [[NIDDRAZ]]**
 
 Jin stumbled away, holding his chest, looking like he had just fallen in love or had a heart attack.
 
@@ -140,7 +140,7 @@ Violet surprised with her eyes were widen a little bit, Elara just smiled and no
 
 "Yep, Yep, You belong where the sharpest one are kept"
 
- **Unit: NIDDRAZ**
+ **Unit: [[NIDDRAZ]]**
 
 Violet didn't say thank you. She didn't smirk back at her. She simply walked away, none of her steps were made any sound whatsoever it was silent.
 

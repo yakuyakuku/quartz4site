@@ -1,10 +1,10 @@
 Few dozen more people get assigned, most of them go to Gridra or Fortzvel, rarely someone was assigned to Niddraz, this is because of the sorting system that have been design to evaluate candidate based on their ambition and potential, what Elara seen in the hologram was their inner potential awaken from the serum, what is the serpent inside them evolve to, this would then be the barometer for her to decide which unit they would be put into.
 
-**GRIDRA** was the most of the recruits usually be, in Gridra unit most of the time the recruit will be stationed at the bases across the Rift or in the moon itself, and Gridra is just basic starting point for all recruits, once they advance enough they could choose another units in which there are hundreds of them. Characteristic of Gridra unit is that most of the people in here have Support Type Artifact, that's not to say most of them can't do combat, it just say that Support Type Artifact holder usually starts in Gridra, in fact the most powerful support type artifact holder were started in Gridra
+**[[GRIDRA]]** was the most of the recruits usually be, in Gridra unit most of the time the recruit will be stationed at the bases across the Rift or in the moon itself, and Gridra is just basic starting point for all recruits, once they advance enough they could choose another units in which there are hundreds of them. Characteristic of Gridra unit is that most of the people in here have Support Type Artifact, that's not to say most of them can't do combat, it just say that Support Type Artifact holder usually starts in Gridra, in fact the most powerful support type artifact holder were started in Gridra
 
 **FORTZVEL**, is also one of the starting units, people that got into Fortzvel usually have ambition seek something in their life, Fortzvel unit usually not stations at base, they're out there doing research and exploring, making something or even diving to outer layer of the rift with Abyss Walker unit, the unit branch that "dive" to the rift and fight the "Dweller" there that usually the reason behind Rift Leaks or Voiders to spawn, Fortzvel was like balance unit, they have many different kind of artifact holder in here from support to attacker, to defender, unique, unclassified and many others, but most of it were just Balance type artifact, and they usually are the majority of the Fortzvel, that is why this unit is called the middle ground, you can't go wrong if you placed in here, there are mundane and extreme job you could do if you were assign to Fortzvel.
 
-**NIDDRAZ**, is one of the rarest of out the three, Niddraz unit is basically consist of either crazy or insane powerful people, Niddraz unit get selected very few in the recruit assignment phase, because to become a Niddraz you must be have unique inner potential and then have to be powerful enough by the priestess that judged you, this requirement is not mere to just be made up administration that the military made, to be in Niddraz is to be strong enough for them to send you to front line without caring or worrying about your safety, Niddraz is the front line of every conflict and every single problem that require combat power to dealt with, because of this few people actually stays long enough in Niddraz, most of the people that were assign by start were either request transfer not long after or dead, although Niddraz have it rough, people in Niddraz have higher social standing and status than the other unit and they're considered advance unit already and most of the time if people from Niddraz were want to transfer to other unit they got accepted immediately. Because there are only EXTREME job if you're in Niddraz, that means you always dealt with problem that no other unit could handle or they got to have you in their team to handle it.
+**[[NIDDRAZ]]**, is one of the rarest of out the three, Niddraz unit is basically consist of either crazy or insane powerful people, Niddraz unit get selected very few in the recruit assignment phase, because to become a Niddraz you must be have unique inner potential and then have to be powerful enough by the priestess that judged you, this requirement is not mere to just be made up administration that the military made, to be in Niddraz is to be strong enough for them to send you to front line without caring or worrying about your safety, Niddraz is the front line of every conflict and every single problem that require combat power to dealt with, because of this few people actually stays long enough in Niddraz, most of the people that were assign by start were either request transfer not long after or dead, although Niddraz have it rough, people in Niddraz have higher social standing and status than the other unit and they're considered advance unit already and most of the time if people from Niddraz were want to transfer to other unit they got accepted immediately. Because there are only EXTREME job if you're in Niddraz, that means you always dealt with problem that no other unit could handle or they got to have you in their team to handle it.
 
 Arthea approached the archway as if walking down the red carpet of a grand cathedral toward her own coronation. She then smoothed her jacket like it was a royal gown, held her chin high, and also refuse to look the "peasants" around her. As she arrived at the front of the archway she lifted her head up and talked to Elara on the screen.
 
@@ -80,7 +80,7 @@ Elara smiled warmly. 
 
 "E-ehhhh???!!" Lena surprised.
 
-**Unit: GRIDRA**
+**Unit: [[GRIDRA]]**
 
 One few recruits remaining, after Lena ha gone through for some reason Jaxon started to take initiative and move after her as if he was waiting for her turn first before going in.
 
@@ -125,7 +125,7 @@ Jaxon then looked back at her, with his red eyes, Elara notices immediately as s
 
 "Tsk, You're welcome" as she sees him walked away.
 
-**Unit: NIDDRAZ**
+**Unit: [[NIDDRAZ]]**
 
 Finally, the last remaining out of one hundred and forty one recruit, this is Eric turn, he stepped forward, in the empty hall room toward the archway.
 

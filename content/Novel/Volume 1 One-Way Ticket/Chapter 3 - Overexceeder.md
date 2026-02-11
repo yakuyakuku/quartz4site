@@ -104,7 +104,7 @@ The medic in front of her ask her the same question as the one Darius' received.
 
 “Where are you from?” continues the medic asking.
 
-"Endrosia River Coast" she replied the question immediately.
+"[[Endrosia]] River Coast" she replied the question immediately.
 
 "Lay down and we shall proceed" the medic writes on their tablet and then instruct her to lay down on the injection machine's bed.
 
@@ -150,7 +150,7 @@ Jaxon then approach the medic and then as per protocol the medic ask for his inf
 
 "Where are you from?"
 
-"Proxia"
+"[[Proxia]]"
 
 "Ah great another criminal, I'm glad he went first" mutter one of the woman from Jaxon line.
 

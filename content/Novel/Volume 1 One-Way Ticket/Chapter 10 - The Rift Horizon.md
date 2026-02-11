@@ -246,7 +246,7 @@ The chewing sound on the other end stopped.
 
 "Who?"
 
-"**Annyla Fritz**," Hestia said.
+"**[[Annyla Fritz]]**," Hestia said.
 
 "Former noble cast out to serve her punishment on the moon, you know the stories right?"
 

@@ -210,7 +210,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 1. **CEO Rylan Voss** (50s): Charismatic idealist. Wants to “unite the moon through exploration.” Secretly dying of rift-poisoning.  
 2. **Kestrel** (30s): Paragon Captain. Wields *Starbreaker* (Tier 5 plasma glaive). Refuses shady jobs. Mentor figure to recruits.  
 3. **Dr. Elara Valzvein** (40s): Rogue biologist. Secretly sells Abyss Walker tissue to Eclipse Syndicate (her own side hustle).  
-4. **Jinx** (20s): Chaotic freelancer. Uses *Chaos Dice* (Tier 4). Hired for deniable ops. Calls IVO “Space Boy Scouts.”  
+4. **Jin** (20s): Chaotic freelancer. Uses *Chaos Dice* (Tier 4). Hired for deniable ops. Calls IVO “Space Boy Scouts.”  
 5. **The Auditor**: IVO’s AI. Enforces rules but turns a blind eye to *personal* misconduct.  
 
 **Ties**:  
@@ -247,7 +247,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 5. **The Faceless**: Syndicate enforcer. Identity unknown; rumors say they’re a noble.  
 
 **Ties**:  
-- Buys IVO’s leaked data from Jinx.  
+- Buys IVO’s leaked data from Jin.  
 - Supplies **Shattered Hand** mercenaries with rift-weapons.  
 
 ---
@@ -311,7 +311,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 ### **How It All Connects**  
 - IVO’s **Kestrel** hunts Eclipse Syndicate’s **Dr. Vex** for Afflicted trafficking.  
 - **Nyx** (Ascended) allies with **Starless Banner** to sabotage the military.  
-- **Agent Sable (LOD)** blackmails **Jinx** to spy on IVO.  
+- **Agent Sable (LOD)** blackmails **Jin** to spy on IVO.  
 - Your sword (*Ember’s Resolve*) is sought by **The Whispering Tide** for a ritual to free the Weeping Star.  
 
 ---
