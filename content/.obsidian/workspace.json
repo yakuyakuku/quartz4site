@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/Volume 1 One-Way Ticket/Chapter 2 - I Like it When You Smiles.md",
+                "file": "Novel/Database/Character/Jin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - I Like it When You Smiles"
+              "title": "Jin"
+            }
+          },
+          {
+            "id": "0b54f4d2e12bb66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novel/Database/Character/Jin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pink Fox Soldiers\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,20 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "596a6c8f51b3ab49",
+  "active": "be8b1a52ce61ddb8",
   "lastOpenFiles": [
+    "Negi-chan.md",
+    "Novel/Database/Character/Jin.md",
+    "Light of the Soul.md",
+    "Novel/Volume 1 One-Way Ticket/Chapter 2 - I Like it When You Smiles.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 10 - The Rift Horizon.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 7 - There is No Sanctuary.md",
-    "Light of the Soul.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 9 - Belongs To.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 8 - The Shape of Your Soul.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 5 - Will You Accept.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 3 - Overexceeder.md",
     "Novel/private/Lore Stuff/Background.md",
     "Novel/private/Unused and Tips/Chapter 3 Ideas.md",
-    "Jin.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 4 - Fans Assemble!.md",
-    "Novel/Volume 1 One-Way Ticket/Chapter 2 - I Like it When You Smiles.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 6 - Fake-It.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
     "Novel/Database/Character/Eric Rossvolt.md",
@@ -214,7 +229,6 @@
     "Novel/Chapter 7 - There is No Sanctuary.md",
     "Novel/Chapter 6 - Fake-It.md",
     "Novel/Chapter 5 - Will You Accept.md",
-    "Novel/Chapter 4 - Fans Assemble!.md",
     "Novel/private/Unused and Tips/Untitled.base",
     "Novel/private/Unused and Tips",
     "Novel/private/Lore Stuff",
