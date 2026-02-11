@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/Volume 1 One-Way Ticket/Chapter 11 -.md",
+                "file": "Novel/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 -"
+              "title": "index"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "0b54f4d2e12bb66e",
   "lastOpenFiles": [
-    "Novel/Volume 1 One-Way Ticket/index.md",
+    "Volume 1 One Way Ticket.md",
     "Novel/index.md",
+    "Novel/Volume 1 One-Way Ticket/Chapter 11 -.md",
+    "Novel/Volume 1 One-Way Ticket/index.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
     "Novel/Database/Character/Annyla Fritz.md",
     "Asset/Volume 1.png",
@@ -228,8 +230,6 @@
     "Novel/Database/Character/Elliot Raine.md",
     "Novel/Database/Character/Lena Rynalla.md",
     "Novel/Database/Character/Jaxon Pyre.md",
-    "Novel/Database/Character/Eric Rossvolt.md",
-    "Novel/Database/Character/Jin.md",
     "Novel/Database/Character",
     "Novel/Database",
     "Novel/private/Unused and Tips/Untitled.base",
