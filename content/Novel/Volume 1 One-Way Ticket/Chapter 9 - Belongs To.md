@@ -230,7 +230,7 @@ Elara's eyes widened and her face could not fathom, what is this? Is this real? 
 
 It wasn't alone, standing on top of the water, right in front of the Leviathan, was a figure. It was humanoid in shape, composed of shifting dark blue liquid, it was 
 
-The **Void Incarnate**.
+The **[[Void Incarnate]]**.
 
 As seeing this her instinct went feral, voices echoes in hear head.
 
