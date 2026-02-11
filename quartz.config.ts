@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "yakunote.exclusion.cc",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
