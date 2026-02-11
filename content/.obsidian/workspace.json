@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/index.md",
+                "file": "Novel/Volume 1 One-Way Ticket/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be8b1a52ce61ddb8",
+  "active": "f5a57bf0c059f613",
   "lastOpenFiles": [
-    "Novel/Chapter 1 \"",
-    "index.md",
     "Novel/index.md",
+    "Novel/Volume 1 One-Way Ticket/Chapter 1.md",
+    "Novel/Volume 1 One-Way Ticket",
+    "index.md",
     "Novel",
     "Bullshit.md"
   ]
