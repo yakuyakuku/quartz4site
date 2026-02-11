@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Novel/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,9 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a57bf0c059f613",
+  "active": "be8b1a52ce61ddb8",
   "lastOpenFiles": [
-    "Bullshit.md",
-    "index.md"
+    "Novel/Chapter 1 \"",
+    "index.md",
+    "Novel/index.md",
+    "Novel",
+    "Bullshit.md"
   ]
 }
