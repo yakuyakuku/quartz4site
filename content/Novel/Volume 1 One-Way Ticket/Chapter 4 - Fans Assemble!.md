@@ -114,7 +114,7 @@ The movement created shockwaves around them. Within a split second, Jaxon interc
 
 Jaxon, his focus entirely on the creature, didn't respond.
 
-"_My name is Jin,_" the man continued, a hint of admiration in his voice.
+"_My name is [[Jin]],_" the man continued, a hint of admiration in his voice.
 
 "_Glad to make your acquaintance!_" said the man happily towards Jaxon.
 
