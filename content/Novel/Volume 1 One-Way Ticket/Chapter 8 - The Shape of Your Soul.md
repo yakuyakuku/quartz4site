@@ -158,7 +158,7 @@ Tusk then walked through the veil, its color changes to colorful one after he en
 
 Elara was confused with the image and cannot say much to him, once Tusk has gone through. She just look at him and said.
 
- **Unit: FORTZVEL**
+ **Unit: [[FORTZVEL]]**
 
 And then smiles at him with "I Hope you will see Negi-chan" and wave at him.
 Tusk then wave back and smiling nervously while leaving.
@@ -220,7 +220,7 @@ She looked at the serpent in focus, she notices that every each high potential c
 
 "Go climb to the top then, i will wait atop of the heaven" Elara smiles to him with encouraging gesture.
 
-**Unit: FORTZVEL**
+**Unit: [[FORTZVEL]]**
 
 Gion gave a lazy and unstable two-finger salute to Elara and said.
 

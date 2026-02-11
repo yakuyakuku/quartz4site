@@ -54,7 +54,7 @@ Darius, trying to get back on his knees struggle to keep his composure, while th
 
 Darius look at the medic that standing in front of him, he had to tilt his head down to see the medic eye to eye, staring at each other. While the medic googles and the mask hides their expression, Darius let out smiles while looking at the medic and then he let out his word.
 
-"I'm from Westcrust!" shout him confidently now.
+"I'm from [[Westcrust]]!" shout him confidently now.
 
 The medic pull out their device again from the vest and then write something on it.
 
@@ -62,7 +62,7 @@ The medic pull out their device again from the vest and then write something on 
 
 "Got it!" Darius obeys the medic instruction and then walk confidently to the stage. The medic followed after Darius. While this happening, voices could be heard from the crowd again.
 
-"Did that man just said WESTCRUST??!"
+"Did that man just said [[Westcrust]]??!"
 
 "Hell nah they even invited criminal in here??! What the hell? I thought this is supposed to be for a clean and responsible citizen"
 
@@ -74,7 +74,7 @@ The medic pull out their device again from the vest and then write something on 
 
 Eric heard this and also wonder himself.
 
-"Westcrust? I think I remember it somewhere? Well whatever is not that it matters where everyone from anyway at this point" mutter him in his thought.
+"[[Westcrust]]? I think I remember it somewhere? Well whatever is not that it matters where everyone from anyway at this point" mutter him in his thought.
 
 The priestess glance and let out a gentle smiles toward Darius while he tries to lay down on the bed.
 
@@ -91,7 +91,7 @@ The priestess smiles and then puts her hands together to pray.
 “_By the breath of Aztoim, whose form is beyond our knowing, with this prayer I offer nothing but my faith. Darius, May your daughter and your family be blessed. May they find hope in the face of the unknown and conquer it. May our plea be heard, O Aztoim._”
 
 The machine begin moving, then wrapped Darius's left arm with its ring like part, it rotate and then stops, the medic soon followed by pressing the something on their tablet device. Then the sounds of something got released from high pressure air coming from the machine. Darius’s body tensed, his muscles bulging, pupils dilating, he face expression froze. For a moment, it looked like he might resist, but then his body relaxed. The screen above flashed:  
-“PASSED, CONGRATULATIONS, DARIUS KROLL!”
+“PASSED, CONGRATULATIONS, [[Darius Kroll]]!”
 
 Negi-chan appears in the screen and then clapped her hands. “Yay! Another hero for humanity! Nyaa~! Remember everyone!, Keep up your spirit! Don’t give up, because we counting on you!”
   

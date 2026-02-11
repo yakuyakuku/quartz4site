@@ -104,7 +104,7 @@ Standing on the left side of the archway is Commander Gonz, he‘s standing tall
 
 "I would like to express my gratitude for Commander Gonz for this opportunity“ she smiles and bow her head to Commander Gonz, while Commander Gonz also did the same for her.
 
-“My name is Elara, i‘m High-Priestess in charge of handling the assignment of the new recruits, it‘s a pleasure to meet all of you’’
+“My name is [[Elara]], i‘m High-Priestess in charge of handling the assignment of the new recruits, it‘s a pleasure to meet all of you’’
 
 “But before we begin, i would like to present you with an alternative route”
 
@@ -147,19 +147,19 @@ Then he clenches his hand tightly and then said . "I'll make sure to not stray f
 
 Darius hears jean and looked at him from a far, in his mind Jin looks like an idiot. "Optimistic idiot"
 
-Further back, a girl with long purple hair stands still nonchalantly , Her name is Violet, she her eyes looks lifeless and yet sharp. She twirled a small pen around her fingers, this is a habit of her. She seems not interested at the people around her that started leaving toward the back. Her gaze was moving quickly scanning those who stayed, as if she was preparing for something. Her eyes stop and focus on where Jaxon standing for a moment, and focusing her gaze toward him, but breaks it not long after to see to see Darius, it seems she lost interest in him just after a second she glance, dismissing him, she sigh as she averted her gaze back to the front.
+Further back, a girl with long purple hair stands still nonchalantly , Her name is [[Violet]], she her eyes looks lifeless and yet sharp. She twirled a small pen around her fingers, this is a habit of her. She seems not interested at the people around her that started leaving toward the back. Her gaze was moving quickly scanning those who stayed, as if she was preparing for something. Her eyes stop and focus on where Jaxon standing for a moment, and focusing her gaze toward him, but breaks it not long after to see to see Darius, it seems she lost interest in him just after a second she glance, dismissing him, she sigh as she averted her gaze back to the front.
 
 Among them who were stayed, there are the oddballs.
 
 "Hehe... Gotta go to space... Gotta go..." said a figure in the crowd who stayed.
 
-A very short young man, he barely stands five feet tall (152 cm) the man shaking with excitement. His name is Tusk. 
+A very short young man, he barely stands five feet tall (152 cm) the man shaking with excitement. His name is [[Tusk]]. 
 
 "Negi-chan said she's on the Moon. Hehehehe I can't meet her if I stay in this basement! I NEED TO SEE HER WITH MY OWN EYES AGAIN! THIS IS PURE LOVEEE!!!"
 
 "Shut up, short stack. You creeps making my head hurts with the noise." said a man responding to Tusk monologue.
 
-Not too far beside Tusk there was a man who stayed, his name is Gion, a man with dark circles under his eyes, his posture was lean and relax but seems unstable.
+Not too far beside Tusk there was a man who stayed, his name is [[Gion]], a man with dark circles under his eyes, his posture was lean and relax but seems unstable.
 
 "Shut up, i'm not taking any complain from some criminal" Tusk shot back.
 
@@ -169,23 +169,23 @@ Not far from them, there also voiced responding to the banter
 
 "Hmph! To think that I must endure such boorish conversation. How utterly unfitting" with a high-pitched, haughty voice.
 
-Standing perfectly straight, hold her head high and smoothing out her standard-issue grey jacket as if it were a ballgown, was a woman with long slick red elegant hair, seems like she was out of place to be in here, her name is Arthea.
+Standing perfectly straight, hold her head high and smoothing out her standard-issue grey jacket as if it were a ballgown, was a woman with long slick red elegant hair, seems like she was out of place to be in here, her name is [[Arthea]].
 
 She flipped her hair back dramatically, let out a sigh and then said.
 
 "Father had assured me that the trip to the Moon would be grand" she declared, she bows her head down and place her palm hand over her face.
 
-"This... This a _basement_... It is hardly fitting for the Crown Princess of the Lunaris Empire!!" she shout as she she sees straight again to the front.
+"This... This a _basement_... It is hardly fitting for the Crown Princess of the [[Lunaris Empire]]!!" she shout as she she sees straight again to the front.
 
 "But I suppose, a ruler must walk among the commoners to understand their plight, _hmph!_"
 
 Tusk stared at her and blinked, he was flabbergasted and said
 
-"Uh... Lunaris Empire? Is that from a game? Are you Role Playing right now?"
+"Uh... [[Lunaris Empire]]? Is that from a game? Are you Role Playing right now?"
 
 Arthea glared at him with furious and annoyed face, and then shut him down with
 
-"Oh! What do we have here? A poor, uneducated, ill-mannered commoner. To not know the history of The Lunaris Empire such a tragic failure"
+"Oh! What do we have here? A poor, uneducated, ill-mannered commoner. To not know the history of The [[Lunaris Empire]] such a tragic failure"
 
 Eric also couldn't help but take a look at the commotion himself, he just baffled to see that the one left here are either crazy or just insane, but as he glanced to his side. A so called normal looking anxious girl was still there it's Lena. She was trembling, her hands clasped praying, her gaze was directed to the floor as she watched the others leave. She seems afraid of what will happened but despite all of that she still not move an inch of her feet. She stood her ground, her resolve drove her to this point, and what else does she have beside the courage to keep moving.
 
@@ -205,7 +205,7 @@ _THOOM_,
 
 Sealing the remaining recruits inside.
 
-The High Priestess Elara stepped forward again. Her smile was brighter now, tinged with a genuine respect.
+The High Priestess [[Elara]] stepped forward again. Her smile was brighter now, tinged with a genuine respect.
 
 "One hundred and forty one" she said gently, her voice echoing in the sudden silence. 
 

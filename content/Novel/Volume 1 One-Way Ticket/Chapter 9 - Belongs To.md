@@ -10,7 +10,7 @@ Arthea approached the archway as if walking down the red carpet of a grand cathe
 
 "Witness, Oracle," she flips her hair while posing to the the screen "I will show these peasants the true! The crown princess of the Lunaris bloodline! Hmp!"
 
-On the screen, Elara blinked, she was used to arrogance, and pride of someone had like Darius and Violet before, but this was different, she never head something like "Lunaris Empire" and yet alone a noble woman who born from Eearth-1 and got enlisted in the military, she was just flabbergasted with her "entrance", but despite this, Elara knows that she "had" to just play along.
+On the screen, Elara blinked, she was used to arrogance, and pride of someone had like Darius and Violet before, but this was different, she never head something like "[[Lunaris Empire]]" and yet alone a noble woman who born from Eearth-1 and got enlisted in the military, she was just flabbergasted with her "entrance", but despite this, Elara knows that she "had" to just play along.
 
 "Very well, Your Highness" Elara replied, going along with a polite smile. 
 "Let us see your magnificent presence!"
@@ -39,7 +39,7 @@ Arthea puffed out her chest, flipping her hair. "Naturally, a future queen has n
 "Of course, of course!" Elara nodded vigorously. 
 "We must find the place that worthy of your presence immediately!"
 
-**Unit: FORTZVEL** 
+**Unit: [[FORTZVEL]]** 
 
 "May your presence bring your unit to it outmost potential your highness!"
 
