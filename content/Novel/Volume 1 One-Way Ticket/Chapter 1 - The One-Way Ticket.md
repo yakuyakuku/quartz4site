@@ -6,7 +6,7 @@ The hum of moving vehicle filled my ears. Emotions surged through my head, a ten
 
 "Yeah...perhaps, not so bad..."
 
-I am 26 years old. My name is Eric Rossvolt. Never in my life in would I think to be sitting here, crammed in with twenty other people, moving toward a place with little to no hope for return. It seemed like my life flashed before my eyes as I stared blankly at the floor of this vehicle.
+I am 26 years old. My name is [[Eric Rossvolt]]. Never in my life in would I think to be sitting here, crammed in with twenty other people, moving toward a place with little to no hope for return. It seemed like my life flashed before my eyes as I stared blankly at the floor of this vehicle.
 
 I am a mundane man. A failure.
 

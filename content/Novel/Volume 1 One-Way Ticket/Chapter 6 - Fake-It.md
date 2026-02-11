@@ -43,7 +43,7 @@ All of them were looking at me, including Ilsa. I glanced at Ilsa for a second a
 
 "Ohh you should've told us we have more company Hugo" said another one.
 
-"Ohh pardon my immodesty gents, and of course Eric Rossvolt, i didn't know why you still on campus but if you want to join us, come in Hahahahaha" said Hugo while laughing at me.
+"Ohh pardon my immodesty gents, and of course [[Eric Rossvolt]], i didn't know why you still on campus but if you want to join us, come in Hahahahaha" said Hugo while laughing at me.
 
 "FUCK OFF, LET HER GO RIGHT NOW!!"
 
@@ -171,7 +171,7 @@ And then Eric goes to the back of the facility to begin the next phase. After so
 
 The medic lifts their masked and googles, revealing the long tied black hair, tired looking lady, while the priestess also disable their visor and it also open up her face, they started conversation.
 
-“Hey, Ms. Yori, do you think something unusual about recruit number 785, the one named Eric Rossvolt” ask the priestess to the medic.
+“Hey, Ms. Yori, do you think something unusual about recruit number 785, the one named [[Eric Rossvolt]]” ask the priestess to the medic.
 
 “He’s the unusual one, but the serum still works so no protocol needed for any abnormalities” said the medic back to the priestess.
 

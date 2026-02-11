@@ -214,7 +214,7 @@ Hestia let out a low whistle. "Damn. good batch i take? it's been so long since 
 
 "Subject 785" Elara said. 
 
-"His name is Eric Rossvolt"
+"His name is [[Eric Rossvolt]]"
 
 "What's his deal? Did the Serum rejection goes well?"
 
