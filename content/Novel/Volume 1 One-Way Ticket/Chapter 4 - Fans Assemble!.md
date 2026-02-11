@@ -2,7 +2,7 @@ Everyone who is in the lines, focus their attention toward the screen in an inst
 
 Negi-chan’s avatar being to appear again in the screen, now the attention was split between the screen and the scene in the stage, and as she appear her voice turned cold, yet her tone remained cheerful. 
 
-“Oh no! It seems Recruit Elliot Raine has gone overexert his own limit. But don’t worry, everyone! The situation is under control! Safety first, after all! Nyaa~!”
+“Oh no! It seems Recruit [[Elliot Raine]] has gone overexert his own limit. But don’t worry, everyone! The situation is under control! Safety first, after all! Nyaa~!”
 
 The scream from the stage is getting louder, the recruit that lying down in the machine breaks it violently, the medics and priestess beside the machine quickly dodge the after effect of said action.
 The body of the recruit turns to this really dark blue color, soon the recruit body begin to under some sort of transformation, while transforming the recruit screams.
@@ -55,7 +55,7 @@ Amidst everything happening, Negi-chan’s avatar reappeared on the screen. She 
 
 “Go, recruits! Show them your power and resolve!” As she shouted this, light sticks appeared, and she held them, cheering like a cheerleader. 
 
-"This is your chance to prove your worth! Nyaa~!" as she cheers to the man the cheerful songs started playing in the [[Background]].
+"This is your chance to prove your worth! Nyaa~!" as she cheers to the man the cheerful songs started playing in the Background.
 
 The song echoed in the facility. Some recruits were terrified, while others were baffled and muttered things like:
 

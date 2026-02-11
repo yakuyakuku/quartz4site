@@ -100,7 +100,7 @@ While Darius was causing ruckus the other stage in line had a faster process. A 
 The medic in front of her ask her the same question as the one Darius' received.
 "Name?".
 
-"My name is Lena Rynalla" she said to the medic while, her tone was soft you can sense her voice filled with bravery.
+"My name is [[Lena Rynalla]]" she said to the medic while, her tone was soft you can sense her voice filled with bravery.
 
 “Where are you from?” continues the medic asking.
 

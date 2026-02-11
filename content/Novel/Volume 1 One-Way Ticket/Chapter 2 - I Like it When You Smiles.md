@@ -1,11 +1,11 @@
 The group arrived the medical facility, lining up with them are hundreds of other recruits, straight up front to end in a line forward and in horizontal mirroring each other, which makes quite neat and well spaced formation.
 
-A particular man was also in this crowd, his name is Jaxon Pyre, just like Eric, he has his own reason to enlist in here. Within all the sea of anxious faces. He seems to be a calm and collected person, as he scanned all of his surrounding, his gaze moves from one to another, searching…for what, he wasn't sure himself. Maybe just to be cautious or just distracting his mind.
+A particular man was also in this crowd, his name is [[Jaxon Pyre]], just like Eric, he has his own reason to enlist in here. Within all the sea of anxious faces. He seems to be a calm and collected person, as he scanned all of his surrounding, his gaze moves from one to another, searching…for what, he wasn't sure himself. Maybe just to be cautious or just distracting his mind.
 
 Then he saw her, she was standing near the front of the line, her long blonde beautiful hair, her sapphire blue colored eyes, at first glance, he cloud feel that her gaze give this vulnerable yet determined sight, she is looking straight ahead with occasionally turning around to hear the side of her surrounding. She was small, almost fragile looking, out of all the faces of the people around here.  Just like…
 
 Jaxon’s fixated on her, he is frozen, his breathing seems halted for a second. 
-"Annyla?" echoes in his head.
+"[[Annyla Fritz|Annyla]]?" echoes in his head.
 
 The thought hits him, slammed into his head hitting like a nail in a coffin. His heart beating faster, and harder as if it would crush against his ribs, a frantic beating inside against the silence of his controlled exterior. 
 

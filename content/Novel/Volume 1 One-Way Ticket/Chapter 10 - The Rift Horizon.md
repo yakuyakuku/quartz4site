@@ -1,6 +1,6 @@
 The sorting was finished, and the fates who left were sealed. One hundred and forty-one recruits, the number significantly decreased from when the recruitment was opened, most were content to just stayed in the base, some breath their last, the rest persist, the remaining recruits now scattered around the based in underground docking area, they were given time to rest and prepared before departing time.
 
-"Boarding in t-minus 60 minutes, all recruits please move to the the designated time before the boarding" the intercom announced, the voice were seemed robotic and devoid of emotion. 
+"Boarding in t-minus 60 minutes, all recruits please move to the the designated time Abefore the boarding" the intercom announced, the voice were seemed robotic and devoid of emotion. 
 
 "This is the final call for personal communications, Please use the terminals provided near the bay if you wished to called your families and loved one, once we depart, Earth comms will be severed"
 
@@ -214,7 +214,7 @@ Hestia let out a low whistle. "Damn. good batch i take? it's been so long since 
 
 "Subject 785" Elara said. 
 
-"His name is [[Eric Rossvolt]]"
+"His name is Eric Rossvolt"
 
 "What's his deal? Did the Serum rejection goes well?"
 
@@ -268,7 +268,7 @@ The chewing sound on the other end stopped.
 
 Elara frowned in her mind "Ten mountains... that is large. Very large, but what i saw..."
 
-"And then there's **Ilsa Ryzelia**" Hestia continued
+"And then there's **[[Ilsa Ryzelia]]**" Hestia continued
 
 "Commander of the 1st Research Division"
 

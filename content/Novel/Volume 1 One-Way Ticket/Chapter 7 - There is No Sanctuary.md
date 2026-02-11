@@ -59,13 +59,13 @@ The hologram text shifted rapidly.
 _“Device Administered. 
 Subject Identified. 
 Rank Assigned: Recruit. 
-Name: [[Eric Rossvolt]]. 
+Name: Eric Rossvolt. 
 Registration... Complete. 
 Please Eject and Proceed.”_
 
 Eric pulled his arm back. The device is securely to his wrapped around his wrist, looking almost embedded into his skin, was a black metallic bracelet with a crystal at its center. He then flip his hand up, and as he did this, the crystal shines bright, and then a holographic screen appear floated just above his forearm.
 
-*[[Eric Rossvolt]]* 
+*Eric Rossvolt*
 *Rank: Recruit* 
 *Unit: Unassigned 
 0 L-Credits 

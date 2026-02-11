@@ -62,7 +62,7 @@ Batch after batch was processed, and finally, it was Eric’s turn – Batch 7. 
 
 “Name?”
 
-“[[Eric Rossvolt]].”
+“Eric Rossvolt.”
 
 “Where are you from?”
 
@@ -112,7 +112,7 @@ It was an impossibly large body stretching from the sea to the soaring, starry s
 
 You must accept the fate, the voices echoes in Eric's mind, as the time moves slowly, while he’s looking at the scene, then his old life, his past flashed before his eyes.
 
-It was back when I was working as a research assistant at the academy. There was this girl, Ilsa. She had beautiful red hair tied back, and she liked to wear her lab coat—she thought we scholars were supposed to show our identity upfront. She was cheerful, too. Her work on campus was also as an assistant, but she worked under a professor rather than for the campus itself. We often talked and had conversations because we shared the same break time. She often told me interesting things about dreams and the inner mind. She said that on Earth-2, scientists had discovered that you could alter the outcome of mind-bending or mind-affecting phenomena by changing your mindset with your own suggestions and beliefs—that you could literally change everything that happened to you mentally. I argued with her about it.
+It was back when I was working as a research assistant at the academy. There was this girl, [[Ilsa Ryzelia|Ilsa]]. She had beautiful red hair tied back, and she liked to wear her lab coat—she thought we scholars were supposed to show our identity upfront. She was cheerful, too. Her work on campus was also as an assistant, but she worked under a professor rather than for the campus itself. We often talked and had conversations because we shared the same break time. She often told me interesting things about dreams and the inner mind. She said that on Earth-2, scientists had discovered that you could alter the outcome of mind-bending or mind-affecting phenomena by changing your mindset with your own suggestions and beliefs—that you could literally change everything that happened to you mentally. I argued with her about it.
 
 "Well even if we could alter it, what would it be useful for?" I was trying to be skeptical about the idea.
 
@@ -154,7 +154,7 @@ For the next two months, she would try to hypnotize me, and I would succumb and 
 
 "Now that's some gratitude you showing! Hehehe I'll take your offer"
 
-After that, we'd chat here and there again if we met during our break time at the academy. She was in the research department focused on the mind, and I was in the department of philosophy and metaphysics—a field many at the time argued was a waste of money. But hey, I got free money and free knowledge, so I wasn't complaining. Ilsa was usually with her professor, the famous Hugo Kaelion. And yeah, he was a noble. I don't know why a noble would come to Earth-1 just to teach at this planet's university. Ilsa was particularly close with Hugo; she would praise him often when we talked and discuss his research, mentioning how she'd get the Earth-2 papers from him. Now that made sense of how she could obtain those papers in the first place.
+After that, we'd chat here and there again if we met during our break time at the academy. She was in the research department focused on the mind, and I was in the department of philosophy and metaphysics—a field many at the time argued was a waste of money. But hey, I got free money and free knowledge, so I wasn't complaining. Ilsa was usually with her professor, the famous [[Hugo Kaelion]]. And yeah, he was a noble. I don't know why a noble would come to Earth-1 just to teach at this planet's university. Ilsa was particularly close with Hugo; she would praise him often when we talked and discuss his research, mentioning how she'd get the Earth-2 papers from him. Now that made sense of how she could obtain those papers in the first place.
 
 Months after the experiments we did together, I still saw her around, but the frequency was a bit less than usual. Soon after, it started to become rarer. I would only see her passing my department like once a week, her face drawn and tired, like she'd overworked herself. I would try to catch up with her and ask if we could discuss things sometime again, but to no avail; she kept avoiding me. After a while, I finally met her in the campus corridor. It seemed she hadn't expected this encounter either; she seemed surprised to see me, kind of weird, but I didn't think anything of it at the time. So, I approached her and asked...
 
