@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b65f99e85e7a910d",
+            "id": "f5a57bf0c059f613",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "f5a57bf0c059f613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bullshit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bullshit"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +186,7 @@
   },
   "active": "f5a57bf0c059f613",
   "lastOpenFiles": [
-    "index.md",
-    "Bullshit.md"
+    "Bullshit.md",
+    "index.md"
   ]
 }
