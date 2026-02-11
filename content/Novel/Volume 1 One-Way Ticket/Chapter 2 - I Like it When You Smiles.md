@@ -201,7 +201,7 @@ Beside them both there's the bed that attached to some kind of machinery, Eric b
 
 Eric also noticed the big screen behind where the medic and priestess are standing, not long after he noticed that, the screen flickered to life, revealing what it seems to be a holographic avatar, stylized like a cartoonish cat girl with blue colored ears twitching rhythmically. The design of the avatar perfectly matched a the height of a girl around eighteen to twenty years old, the body is what people would describe as a fit, with not too slender but not too much muscles and weight, her oversized eyes yellow eyes are giving this glowing like rift-energy, her tail that swished back and forth, and a voice that sounded like honey poured over static.
 
-"Hiiii, recruits! 🎀 I’m Negi-chan, your favorite Vtuber! Here to guide all of you!!" she chirped, her avatar bouncing in a way that to seems like celebration opening of a show. And then rainbow sparks and gas started to come out below the screen to seems like a celebration mark.
+"Hiiii, recruits! 🎀 I’m [[Negi-chan]], your favorite Vtuber! Here to guide all of you!!" she chirped, her avatar bouncing in a way that to seems like celebration opening of a show. And then rainbow sparks and gas started to come out below the screen to seems like a celebration mark.
 
 "Today’s Negi-chan will guide everyone to finish the medical procedure! Be sure to stays calm and keep your spirit up! And no need worry! The procedure is super safe and super fun! Just lie back, take a deep breath, and let Kaelion Industry’s patented Vita-Serum work its magic!"
 

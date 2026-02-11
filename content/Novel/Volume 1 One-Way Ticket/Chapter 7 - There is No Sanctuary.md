@@ -213,7 +213,7 @@ The High Priestess [[Elara]] stepped forward again. Her smile was brighter now, 
 
 A veil of energy began to fill the archway, thickening until it obscured everything beyond. As the last gap sealed, the high priestess takes a step moving towards it, the recruits watched as she walks through, her silhouette blurred and then disappeared entirely. She was gone, a moment later, her voice echoed from the other side.
 
-"This is the **Mirror of Destiny**. Don't worry It will not hurt you. It just simply going to gaze upon the [[Light of the Soul]], this will determine your potential, so we may find the where you belong, or as the Commander Gonz says this is where you will be assign to your unit"
+"This is the **[[Mirror of Destiny]]**. Don't worry It will not hurt you. It just simply going to gaze upon the [[Light of the Soul]], this will determine your potential, so we may find the where you belong, or as the Commander Gonz says this is where you will be assign to your unit"
 
 A Hologram display shows up atop of the archway, there she is the High priestess, waving her hands looked over the crowd with a gaze that felt like a warm hug.
 

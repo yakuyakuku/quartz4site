@@ -172,7 +172,7 @@ She hovered her hand over the screen, she then press the video feed **OFF**, the
 
 Elara’s eye twitched. Her head and face still looking up onto the sky, she then remember that she hated that tone.
 
-"It's done, **Hestia**" Elara said, her voice sharp and devoid of her usual warmth
+"It's done, **[[Hestia]]**" Elara said, her voice sharp and devoid of her usual warmth
 
 "One hundred and forty-one"
 
