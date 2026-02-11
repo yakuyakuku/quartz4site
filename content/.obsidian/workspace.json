@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/Database/Character/Annyla Fritz.md",
+                "file": "Novel/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annyla Fritz"
+              "title": "index"
             }
           }
         ],
@@ -199,13 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be8b1a52ce61ddb8",
+  "active": "0b54f4d2e12bb66e",
   "lastOpenFiles": [
+    "Novel/Database/Character/Annyla Fritz.md",
     "Asset/Volume 1.png",
     "Asset/Unconfirmed 750703.crdownload",
     "Asset",
     "Novel/Database/Character/Darius Kroll.md",
-    "Novel/Database/Character/Annyla Fritz.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 9 - Belongs To.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 10 - The Rift Horizon.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 3 - Overexceeder.md",
