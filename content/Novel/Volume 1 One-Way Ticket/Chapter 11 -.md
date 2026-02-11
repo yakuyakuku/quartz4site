@@ -157,5 +157,3 @@ He stumbled out onto the landing platform of the Moon Base, dripping and miserab
 "If you can walk, you move to the processing line!" the soldier roared behind them. "If you can't walk, stay down and pray the medics get to you before the cleaning bots do!"
 
 Eric looked up at the miles-high ceiling of the hangar, filled with mechs and war machines. He wiped a streak of Lena’s lunch off his shoulder.
-
-"Welcome to the Moon," he muttered. "I hate it here."
