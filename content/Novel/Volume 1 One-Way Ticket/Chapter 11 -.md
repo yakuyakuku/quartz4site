@@ -2,7 +2,7 @@
 
 The automated voice echoed in the air, it broke the silence lingering in the air.
 
-Eric stood not far by the window, his breath was still he couldn‘t take off his eyes of what he just saw, he had seen pictures of it and also on the videos of documentaries and news. But none of it would even compare to the real one that he was seeing right now in front of him, it is the **Rift**.
+Eric stood not far by the window, his breath was still he couldn't take off his eyes of what he just saw, he had seen pictures of it and also on the videos of documentaries and news. But none of it would even compare to the real one that he was seeing right now in front of him, it is the **Rift**.
 
 It wasn't just “a hole in the sky”, like everyone was narrated it to be, It tearing apart the space itself like a wound, hovering ominously above the moon‘s surface, shimmering with violet, and deep abyssal blues colored. From this  so called “wound”, the "blood" liquid that poured out, filling the what already become massive covering the whole moon itself from the first time this thing was discovered, the **Sea of Void**.
 
