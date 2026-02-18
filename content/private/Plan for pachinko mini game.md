@@ -22,11 +22,56 @@ This triggers the "Gambler’s Fallacy" :
 		- She's a delinquent student from other school who is head of the student gang that control the school, she's bold and strong and hates being dominated (secretly wants to be dominated), same as Alice her route can be bad, good or neutral. She has Slicing Ability that signify by red thread this thread can cut anything she wants and she can control it using her mind or by waving her hand.
 	- Alya (#3)
 		- She's an elf that reside in the forest, she calming and have nurturing nature, she said she's the same age as the MC in term of elf years, she's also earn to learn about human and has curious personality, she has Ability to bend with nature and she can literary shape shift to anything with her magical ability or turn part of her body to anything.
-	- Hellena (#4)
-		- She's the MC Teacher, a mature woman, she hold the title "World Strongest Humanity Soldier" before it was handed to Nina, she's calm and calculated also cunning and above all else she's still haven't married and she's already over her 30s she likes to drink a lot to cope the experience she had before in a wars, but MC view her as wise teacher despite all her teasing personality. Her Power is that
-	- Syla
-	- Nina
-	- Shinji
+	- Hellena (#6)
+		- She's the MC Teacher, a mature woman, she hold the title "World Strongest Humanity Soldier" before it was handed to Nina, she's calm and calculated also cunning and above all else she's still haven't married and she's already over her 30s she likes to drink a lot to cope the experience she had before in a wars, but MC view her as wise teacher despite all her teasing personality. 
+		  Her Power are :
+
+| #   | Power Name             | Simple Explanation                                                              |
+| :-- | :--------------------- | :------------------------------------------------------------------------------ |
+| 1   | **Adjust the Scale**   | Her body and spirit gradually adapt to overcome any threat or damage.           |
+| 2   | **Unerring Strike**    | Any attack she commits to will find its mark, regardless of distance.           |
+| 3   | **Absolute Poise**     | She cannot be moved, knocked down, or forced off balance by any blow.           |
+| 4   | **Immediate Mastery**  | Any weapon or tool she holds functions as an extension of her own body.         |
+| 5   | **Indomitable Spirit** | Her mind is a fortress; no magic or fear can cloud her judgment.                |
+| 6   | **True Perception**    | She sees through all illusions, shadows, and deceptions instantly.              |
+| 7   | **Hallowed Aegis**     | Mundane weapons and low-level spells shatter upon contact with her.             |
+| 8   | **Endless Vitality**   | She never tires, allowing her to fight at full strength for days on end.        |
+| 9   | **Swift Restoration**  | Wounds closed and bones knit back together in the heat of battle.               |
+| 10  | **Heavy Impact**       | Every strike she lands carries the weight of a falling mountain.                |
+| 11  | **Silent Tread**       | She moves without sound, leaving no trace of her passage on the earth.          |
+| 12  | **Prescient Instinct** | She feels the intent of an attacker before they even draw their blade.          |
+| 13  | **Iron Grip**          | Her hold is unbreakable; she cannot be disarmed by force or magic.              |
+| 14  | **Frost Immunity**     | The most bitter cold cannot slow her blood or freeze her skin.                  |
+| 15  | **Flame Sovereignty**  | She walks through raging infernos as if they were a summer breeze.              |
+| 16  | **Toxin Rejection**    | Her blood purges all poisons, venoms, and diseases automatically.               |
+| 17  | **Eternal Vigilance**  | She requires no sleep and is always at peak readiness for combat.               |
+| 18  | **Natural Affinity**   | Wild beasts and monsters recognize her authority and will not attack.           |
+| 19  | **Distant Sight**      | She can observe details miles away as if they were right in front of her.       |
+| 20  | **Fated Fortune**      | In any moment of pure chance, the outcome always favors her.                    |
+| 21  | **Weightless Step**    | She can stand on water, thin branches, or even clouds as if they were solid.    |
+| 22  | **Shatter Point**      | She can see the weakest spot in any armor, wall, or weapon at a glance.         |
+| 23  | **Noble Presence**     | Weak-willed enemies find it physically impossible to draw a weapon against her. |
+| 24  | **Static Aura**        | Projectiles like arrows or spells slow down to a crawl as they get near her.    |
+| 25  | **Total Recall**       | She remembers every face, map, and combat move she has ever seen perfectly.     |
+| 26  | **Blade Reflection**   | Any mundane blade that strikes her skin instantly shatters into pieces.         |
+| 27  | **Natural Breath**     | She can survive underwater or in toxic air without any discomfort.              |
+| 28  | **Boundless Reach**    | The shockwave of her swings can hit enemies many yards away.                    |
+| 29  | **Iron Constitution**  | She never gets sick, and her body never ages past its physical prime.           |
+| 30  | **Swift Reflex**       | Her body moves to dodge a lethal blow before her mind even realizes it.         |
+| 31  | **Commanding Voice**   | When she speaks a command, the world goes quiet so everyone must hear it.       |
+| 32  | **Earthly Anchor**     | Gravity has no effect on her; she cannot be blown away by wind or magic.        |
+| 33  | **Clean Slate**        | Mud, blood, and dirt instantly slide off her skin and clothing.                 |
+| 34  | **Sunlight Vigor**     | She grows significantly faster and stronger while under the sun.                |
+| 35  | **Spirit Sense**       | She can feel the "soul" or energy of anyone hiding nearby, even through walls.  |
+| 36  | **Infinite Sheath**    | She can draw her weapon faster than the human eye can track.                    |
+| 37  | **Merciful Blow**      | She can choose to knock someone out without leaving a single bruise or scratch. |
+| 38  | **Storm Shield**       | Rain, snow, and wind naturally curve around her, leaving her perfectly dry.     |
+| 39  | **Golden Tongue**      | She can understand and speak any human language fluently.                       |
+| 40  | **Final Stand**        | The closer she is to "losing," the faster **Adjust the Scale** works.           |
+- Syla
+- 
+- Nina
+- Shinji
     
 - **The Trap:** The player thinks, _"She's almost at the confession scene! That means the Jackpot probability is higher now!"_ They won't leave because they feel they’ve "built up" the machine's state.
     
