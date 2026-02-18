@@ -15,7 +15,7 @@ This is the same logic used in _Arknights_ or _Genshin_, but applied to a slot m
 Instead of the story being a reward, use it as **Information**. 
 This triggers the "Gambler’s Fallacy" :
 
-- There are 7 of the available heroine and routes player could get in this themed machine, and their number on the reels :
+- There are 7 of the available heroine and routes player could get in this themed machine all these heroine are real characters (except shinji) they just don't interact with player, and their number on the reels :
 	- Alice ( Numbered #1)
 		- Alice is the transfer student that the MC in this story can encounter, she is smart and diligent and her route will ranged from Bad, neutral to Good ending depending on the route of jackpot player take, she has like student council type personality, She has Summoning ability which can summon any weapon she can imagine and strike opponent with them.
 	- Rena (Numbered #2)
@@ -59,19 +59,21 @@ This triggers the "Gambler’s Fallacy" :
 | 29  | **Iron Constitution**  | She never gets sick, and her body never ages past its physical prime.           |
 | 30  | **Swift Reflex**       | Her body moves to dodge a lethal blow before her mind even realizes it.         |
 | 31  | **Commanding Voice**   | When she speaks a command, the world goes quiet so everyone must hear it.       |
-| 32  | **Earthly Anchor**     | Gravity has no effect on her; she cannot be blown away by wind or magic.        |
+| 32  | **Frame Anchor**       | Gravity has no effect on her; she cannot be blown away by wind or magic.        |
 | 33  | **Clean Slate**        | Mud, blood, and dirt instantly slide off her skin and clothing.                 |
-| 34  | **Sunlight Vigor**     | She grows significantly faster and stronger while under the sun.                |
+| 34  | **Star Vigor**         | She grows significantly faster and stronger while under the sun.                |
 | 35  | **Spirit Sense**       | She can feel the "soul" or energy of anyone hiding nearby, even through walls.  |
-| 36  | **Infinite Sheath**    | She can draw her weapon faster than the human eye can track.                    |
+| 36  | **Swift Sheath**       | She can draw her weapon faster than the human eye can track.                    |
 | 37  | **Merciful Blow**      | She can choose to knock someone out without leaving a single bruise or scratch. |
 | 38  | **Storm Shield**       | Rain, snow, and wind naturally curve around her, leaving her perfectly dry.     |
-| 39  | **Golden Tongue**      | She can understand and speak any human language fluently.                       |
+| 39  | **Golden Tongue**      | She can understand and speak any language fluently.                             |
 | 40  | **Final Stand**        | The closer she is to "losing," the faster **Adjust the Scale** works.           |
-- Syla
-- 
-- Nina
-- Shinji
+- Syla (#5)
+	- She's MC care taker and his senior at academy, she has lady like personality gentle yet strict and also nurturing and is close friend to Hellena she also work with her at the Academy but not as teacher she's the Headmaster of the school. Her power is  "Tipping The Scale" she can makes anything happened that would benefit someone be otherwise not beneficial to them or to herself or to anything even an inanimate object or power, this even works against Hellena.
+- Nina (#7)
+	- The current "Strongest Soldier of Humanity" she's a egocentric girl that come from noble big family who has produce strong people in generations, her personality is not arrogant to contrary believe, people often mistaken her as such, but when someone around her she's helpful and playful, most of the time she's cheerful around her close friend she's only formal and strict when it comes to public faces, but it's true that she's still has some big ego to her, because of her genius intellect and skills. Her power is come from inheritance from thousand of year the family magic building up until now, it's not that her power is really powerful is that she's insanely powerful when that power has all the 1000 years foundation, and she also has True Magic God eyes, which can discern everything and any information she would want to gain for if she sees something, this eyes was result of the DNA she got that combination of that 1000 years foundation. when Nina was just born, the gods who usually bless someone just like Hellena got, did not bless her, as the heaven was shaken by her own existence, she's akin more closer to "God" itself rather than to a Godlike man. Her Power is ███████ which can't be translated to any known languages as for the complexity, one would describe her power with the action it can do instead, which is manipulate all forces and power that she "known" to exist.
+- Shinji (#4)
+	- He's protagonist best-friend, who was also in the same class as the protagonist, supporting protagonist and be the best wing-man he can be, he still want to find girlfriend and stills strive to find the idol girl he wants to meet, his power is Idolization which makes him stronger and realizing his vision of stronger version of him, but due to his mindset this power has yet to reach its full potential
     
 - **The Trap:** The player thinks, _"She's almost at the confession scene! That means the Jackpot probability is higher now!"_ They won't leave because they feel they’ve "built up" the machine's state.
     
@@ -85,7 +87,7 @@ Do not let them play with Gold directly. Make them buy **"Love Tokens"** or **"M
 - **The Dissociation:** By converting Gold to a specialized currency, the player loses track of how much real "grind time" they are spending. Losing 1,000 "Tokens" feels less painful than losing 1,000 "Hard-Earned Gold."
     
 - **The Leftover Trap:** Always sell tokens in amounts that don't match the spin cost. If a spin is 30 tokens, sell them 100 tokens. They will always have 10 tokens left over, tempting them to buy "just one more pack" so they don't waste the remaining 10.
-    
+
 
 ### 4. Technical Intervention (The "Me-Oshi" Illusion)
 
@@ -107,24 +109,9 @@ When they finally hit a jackpot, don't just give them a pile of gold. Give them 
 - **The Panic:** Put a physical timer on the screen. The player will spin as fast as humanly possible to "maximize" their lucky window. This high-adrenaline state is what creates the "addiction" loop.
     
 
-### 6. The "Ranking" Leaderboard
-
-Show a leaderboard of other "NPCs" or "Players" who have won millions on this specific machine.
-
-- **The Envy:** If the player sees "X_Slayer69 won 5,000,000 Gold!", they will believe that the machine _can_ pay out that much, making their current 50,000 gold loss seem like a necessary investment for the "Big One."
-    
-
-This is a devious and highly effective system. By framing the "pity" mechanic as a "Building Power-Up" (Burning Stakes) and giving the player "Agency" via the Odd/Even modes, you are effectively gamifying the loss condition.
-
-Here is the structured game design document for the **"Burning Stakes" Pachi-Slot System**.
-
----
-
 ### **System Name: The "Burning Stakes" Protocol**
 
 **Core Philosophy:** "Every loss is just progress toward a massive win." **Goal:** Trap the player in a loop where leaving the machine feels like throwing away money they have already "invested."
-
----
 
 ### **1. The "Agency" Trap: Odd vs. Even Modes**
 
@@ -238,11 +225,7 @@ This creates a "Skinner Box" so perfect that resistance becomes nearly impossibl
 
 To a player, this doesn't feel like gambling anymore; it feels like **farming**. And gamers _love_ efficient farming.
 
-Here is the blueprint for the **"Rise Higher" & "Hype Moment" Contingency Systems**.
-
----
-
-### **1. The "Loser's Economy": The Scrap System**
+### **The "Loser's Economy": The Scrap System**
 
 You asked for a way to reward them even when they lose. We call this **"Recycling."**
 
@@ -259,7 +242,7 @@ You asked for a way to reward them even when they lose. We call this **"Recyclin
 
 ---
 
-### **2. The "Rise Higher" Mechanic (Hidden Pity)**
+### **The "Rise Higher" Mechanic (Hidden Pity)**
 
 This is the hidden safety net. It ensures the player never gets bored by a long string of dry losses.
 
@@ -280,7 +263,7 @@ This is the hidden safety net. It ensures the player never gets bored by a long 
 
 ---
 
-### **3. The "Hype Moment": The Narrative Trap**
+### **The "Hype Moment": The Narrative Trap**
 
 This is your "Bogus Number" exploit. We turn a random loss (1-6-7) into a high-value event.
 
@@ -290,9 +273,9 @@ This is your "Bogus Number" exploit. We turn a random loss (1-6-7) into a high-v
     
     - Normally, this is a loss.
         
-    - **OVERRIDE:** The screen glitches. Character 1 (from slot 1) and Character 6 (from slot 2) appear on screen and argue/flirt.
+    - **OVERRIDE:** The screen glitches. Character 1 (from slot 1) and Character 6 (from slot 2) appear on screen and cut-scene will appear (usually talking or encounter).
         
-    - **Text:** _"SYNC RATE INCREASED! CHARACTERS 1, 6, & 7 LOCKED IN!"_
+    - **Text:** _"RATE INCREASED!"_
         
 - **The "Hype Mode" (5 Spins):**
     
@@ -307,7 +290,7 @@ This is your "Bogus Number" exploit. We turn a random loss (1-6-7) into a high-v
 
 ---
 
-### **4. The "Walk-Away" Interceptor (The Final Contingency)**
+### **The "Walk-Away" Interceptor (The Final Contingency)**
 
 This is aggressive. If the player tries to leave while the machine is "Hot" (or pretending to be), we bribe them.
 
@@ -325,13 +308,9 @@ This is aggressive. If the player tries to leave while the machine is "Hot" (or 
         
 - **The Catch:** They _must_ spin it now. They spin -> they get a Near Miss -> Burning Stakes goes up -> They are now even _more_ invested than before they tried to quit.
 
-This is the **final nail in the coffin** for the player's wallet. You are introducing the two most powerful forces in gambling psychology: **Infinite Scaling** (The Multiplier) and **The Safety Net** (The Refund).
+This is the **final nail in the coffin** for the player's wallet. Introducing the two most powerful forces in gambling psychology: **Infinite Scaling** (The Multiplier) and **The Safety Net** (The Refund).
 
-Here is the structured design for the **"W-Class" (Whale-Class) Update**.
-
----
-
-### **1. The "W" Symbol: The "All Out" Protocol**
+### **The "W" Symbol: The "All Out" Protocol**
 
 The "W" stands for **Wild**, **Win**, or **Whale**. It is the ultimate "Just In Case" mechanic that encourages reckless spending.
 
@@ -363,7 +342,7 @@ The "W" stands for **Wild**, **Win**, or **Whale**. It is the ultimate "Just In 
 
 ---
 
-### **2. The "Escalating Multiplier" (The Sticky Chair)**
+### **The "Escalating Multiplier" (The Sticky Chair)**
 
 This is how we ensure they **never** press the "Exit" button.
 
@@ -395,7 +374,7 @@ This is how we ensure they **never** press the "Exit" button.
 
 ---
 
-### **3. The Synergistic Loop (How it all connects)**
+### **The Synergistic Loop (How it all connects)**
 
 1. **Player Spends:** `Session_Total` goes up. `WWW` value increases.
     
@@ -405,7 +384,7 @@ This is how we ensure they **never** press the "Exit" button.
     
 4. **Result:** The longer they sit, the more "valuable" the seat becomes. Walking away feels like **burning money**.
 
-### **5. The "Walk Away" Prevention (Version 2.0)**
+### **The "Walk Away" Prevention (Version 2.0)**
 
 If they try to leave now, the warning is terrifying.
 
@@ -419,15 +398,13 @@ If they try to leave now, the warning is terrifying.
     
 - **Buttons:**
     
-    - `[ KEEP PLAYING (Recommended) ]` (Green, Pulsing, Huge)
+    - `[ PLAY ]` (Green, Pulsing, Huge)
         
-    - `[ I hate money ]` (Grey, Tiny, hidden in corner)
+    - `[ OUT ]` (Red below the green one)
 
 This is the final piece of the puzzle. We are going to take the classic Pachi-slot mechanics—**Big Bonus (BB)**, **Assist Time (AT)**, and **Me-Oshi (Skill Stop)**—and weaponize them to work with your "Burning Stakes" and "Multiplier" traps.
 
-Here is how we integrate these modes to create a seamless, inescapable loop.
-
-### **1. The Big Bonus (The "Climax" Mode)**
+### **The Big Bonus (The "Climax" Mode)**
 
 The Big Bonus isn't just a payout; it is a **Narrative Event**. It acts as the "Gateway" to the real money modes (AT).
 
@@ -435,16 +412,16 @@ The Big Bonus isn't just a payout; it is a **Narrative Event**. It acts as the "
     
 - **The Reward:**
     
-    - **Instant Payout:** 300 Tokens (A nice chunk of change).
+    - **Instant Payout:** give some good tokens or some shit.
         
-    - **The Cutscene:** The romance character confesses their love or wins the battle.
+    - **The Cutscene:** Nina Story will progress and we will get cutscene.
         
-    - **The "Cliffhanger":** As the cutscene ends, the character says: _"Wait! The energy is still rising! Can you help me control it?"_
+    - **The "Cliffhanger":** As the cutscene ends, the machine would display: _"Will it reach her? will you finally understand her?"_
         
 - **The Trap:** The Big Bonus _always_ transitions directly into **Assist Time**. You never just "win and leave." You "win and enter the next stage."
     
 
-### **2. Assist Time (The "God Mode" Illusion)**
+### **Assist Time (The "God Mode" Illusion)**
 
 In normal play, the player has to guess or time the stops. In **Assist Time (AT)**, the machine "helps" them win. This is where the player feels like a genius.
 
@@ -469,7 +446,7 @@ In normal play, the player has to guess or time the stops. In **Assist Time (AT)
     - **The Fear:** They are terrified of AT ending. They will desperately look for ways to "extend" it.
         
 
-### **3. Me-Oshi (The "Skill" Check)**
+### **Me-Oshi (The "Skill" Check)**
 
 During the Big Bonus or Assist Time, we introduce "Technical Intervention." This gives the player the illusion that their skill matters.
 
@@ -496,7 +473,7 @@ During the Big Bonus or Assist Time, we introduce "Technical Intervention." This
     - If they hit it, they feel like they "earned" the extension.
         
 
-### **4. Free Spins (The "Resurrection" Mechanic)**
+### **Free Spins (The "Resurrection" Mechanic)**
 
 We don't give Free Spins as a reward. We give them as a **Lifeline** when the player is about to lose everything.
 
@@ -521,7 +498,7 @@ We don't give Free Spins as a reward. We give them as a **Lifeline** when the pl
 
 ---
 
-### **The Grand Loop (The Trap Architecture)**
+### The Loop for this
 
 Here is how the player experiences the game loop. Notice there is no "Exit" point.
 
@@ -540,3 +517,6 @@ Here is how the player experiences the game loop. Notice there is no "Exit" poin
     - _If Win:_ Go back to Step 3 (Infinite Loop).
         
     - _If Lose:_ Go back to Step 1 (but with high Multiplier/Stakes, so they can't quit).
+
+
+Lastly player can trade token they get for more spin for reward and each cut-scene they got and trigger also will unlocked more reward and also if they grind hard enough these Character on the slot reels will be able to be recruited as player Operator in the game, and we make sure to include indicator how close the player can be to acquire these characters and make sure all of them are powerful, at least Rank SS with Tier 8-10 Power
