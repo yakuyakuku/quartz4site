@@ -17,12 +17,13 @@ This triggers the "Gambler’s Fallacy" :
 
 - There are 7 of the available heroine and routes player could get in this themed machine, and their number on the reels :
 	- Alice ( Numbered #1)
-		- Alice is the transfer student that the MC in this story can encounter, she is smart and diligent and her route will ranged from Bad, neutral to Good ending depending on the route of jackpot player take, she has like student council type personality
+		- Alice is the transfer student that the MC in this story can encounter, she is smart and diligent and her route will ranged from Bad, neutral to Good ending depending on the route of jackpot player take, she has like student council type personality, She has Summoning ability which can summon any weapon she can imagine and strike opponent with them.
 	- Rena (Numbered #2)
-		- She's a delinquent student from other school who is head of the student gang that control the school, she's bold and strong and hates being dominated (secretly wants to be dominated), same as Alice her route can be bad, good or neutral.
+		- She's a delinquent student from other school who is head of the student gang that control the school, she's bold and strong and hates being dominated (secretly wants to be dominated), same as Alice her route can be bad, good or neutral. She has Slicing Ability that signify by red thread this thread can cut anything she wants and she can control it using her mind or by waving her hand.
 	- Alya (#3)
-		- 
-	- Hellena
+		- She's an elf that reside in the forest, she calming and have nurturing nature, she said she's the same age as the MC in term of elf years, she's also earn to learn about human and has curious personality, she has Ability to bend with nature and she can literary shape shift to anything with her magical ability or turn part of her body to anything.
+	- Hellena (#4)
+		- She's the MC Teacher, a mature woman, she hold the title "World Strongest Humanity Soldier" before it was handed to Nina, she's calm and calculated also cunning and above all else she's still haven't married and she's already over her 30s she likes to drink a lot to cope the experience she had before in a wars, but MC view her as wise teacher despite all her teasing personality. Her Power is that
 	- Syla
 	- Nina
 	- Shinji
