@@ -1,1 +1,1 @@
-now make another section this section is where RIFT General Affair Division execute a Deeper Blue CEO, named Evan Yushong, 10 years ago, he was executed because of the affair he has with Rumia 
+now make another section this section is where RIFT General Affair Division execute a Deeper Blue CEO, named Evan Yushong, 10 years ago, he was executed because of the affair he has with Rumia Valzvein, for inbreeding childern of the void, the case was like they have allegation that evan and rumia were doing breeding for these chi
