@@ -34,6 +34,8 @@ graph TD
 
 subgraph Client Devices
 
+direction TB
+
 PC["Desktop PC (Delta)"]
 
 iPad["iPad (Local Wi-Fi)"]
@@ -45,6 +47,8 @@ end
   
 
 subgraph Battlemage Server
+
+direction TB
 
 TS["Tailscale Exit Node"]
 
@@ -104,6 +108,8 @@ graph TD
 
 subgraph Client Devices
 
+direction TB
+
 PC["Desktop PC (Delta)"]
 
 iPad["iPad (Local Wi-Fi)"]
@@ -115,6 +121,8 @@ end
   
 
 subgraph Battlemage Server
+
+direction TB
 
 TS["Tailscale Exit Node"]
 
