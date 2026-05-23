@@ -411,3 +411,95 @@ Using this architecture introduces a marginal speed penalty (typically a 5% to 1
   
 
 Fortunately, due to the massive scale of Cloudflare's global edge network, latency (ping) increases are practically imperceptible, making this the optimal solution for secure, homelab-wide IP masking.
+
+  
+
+---
+
+  
+
+## 9. How to Completely Revert and Uninstall
+
+  
+
+If you ever decide to tear down this architecture and return your network to its original state (without WARP masking), follow these exact steps on Battlemage to safely remove all configurations.
+
+  
+
+### Step 1: Disable and Delete the Routing Service
+
+First, stop the custom routing service from injecting firewall rules, and delete it from systemd.
+
+  
+
+```bash
+
+sudo systemctl stop warp-routing.service
+
+sudo systemctl disable warp-routing.service
+
+sudo rm /etc/systemd/system/warp-routing.service
+
+sudo systemctl daemon-reload
+
+```
+
+  
+
+### Step 2: Uninstall Cloudflare WARP
+
+Disconnect the tunnel and completely remove the client from the system.
+
+  
+
+```bash
+
+warp-cli disconnect
+
+sudo apt-get purge cloudflare-warp -y
+
+sudo rm -rf /etc/cloudflare-warp/
+
+```
+
+  
+
+### Step 3: Flush the Routing and Firewall Rules
+
+Since Linux firewall rules reside in memory, they will technically clear themselves upon your next system reboot. However, to clear them immediately without rebooting, run the following commands to flush the NAT and FORWARD tables:
+
+  
+
+```bash
+
+# Flush all NAT rules (Removes the MASQUERADE)
+
+sudo iptables -t nat -F POSTROUTING
+
+  
+
+# Delete the specific FORWARD rules we added
+
+sudo iptables -D FORWARD -i tailscale0 -o CloudflareWARP -j ACCEPT
+
+sudo iptables -D FORWARD -i CloudflareWARP -o tailscale0 -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+sudo iptables -D FORWARD -i enx9c69d3198bc0 -o CloudflareWARP -j ACCEPT
+
+sudo iptables -D FORWARD -i CloudflareWARP -o enx9c69d3198bc0 -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+```
+
+  
+
+### Step 4: Revert Tailscale Admin Console (Optional)
+
+If you want to stop using Pi-hole for remote Tailscale devices, go back to the Tailscale Admin Console -> DNS, delete `192.168.18.51` from the Global Nameservers, and turn off "Override local DNS".
+
+  
+
+*(Note: Leaving `192.168.18.51` there is perfectly fine if you still want remote ad-blocking; it just won't be masked by WARP anymore).*
+
+  
+
+Once you complete these steps, your server is officially back to vanilla routing!
