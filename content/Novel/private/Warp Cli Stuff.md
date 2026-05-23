@@ -4,29 +4,15 @@
 
 This guide is a comprehensive, end-to-end walkthrough of how we successfully routed an entire homelab Local Area Network (LAN) and a Tailscale Exit Node through Cloudflare WARP. The ultimate goal was to mask the server's public IP address behind Cloudflare's network while preserving a custom DNS stack consisting of Pi-hole and Cloudflared (Quad9 DNS over HTTPS).
 
-  
-
 This document details every roadblock we encountered, the exact technical mechanisms causing them, and the code used to solve them.
 
-  
-
 ---
-
-  
-
 ## Network Traffic Flow (Visualized)
 
-  
-
 To understand exactly how this magic works, here is a visual breakdown of how traffic flows from your devices to the internet depending on whether WARP is active or disabled.
-
-  
-
 ### State 1: WARP is ON (`warpon`)
 
 When WARP is active, a custom firewall rule intercepts all internet-bound traffic from your LAN and Tailscale clients. It shoves this traffic into a hidden routing table (`Table 65743`) which acts as a funnel directly into the Cloudflare encrypted tunnel. Your true ISP address is completely hidden. All DNS queries bypass WARP and hit Pi-hole directly.
-
-  
 
 ```mermaid
 
@@ -96,13 +82,9 @@ iPad -.->|"Port 53"| Pihole
 
 ```
 
-  
-
 ### State 2: WARP is OFF (`warpoff`)
 
 When WARP is manually disconnected, the `CloudflareWARP` interface disappears. Because the custom routing table (`Table 65743`) empties out, the Linux kernel smartly "falls through" to the default `main` routing table. Traffic routes normally out of your physical ethernet port to your home ISP router. Everything continues to work seamlessly, but your real public IP is exposed.
-
-  
 
 ```mermaid
 
@@ -181,18 +163,11 @@ iPad -.->|"Port 53"| Pihole
   
 
 ---
-
-  
-
 ## 1. Architectural Overview
-
-  
 
 **The Goal:**
 
 All devices on the physical LAN (e.g., an iPad or PC) and any remote devices connected via Tailscale must have their internet traffic encrypted and masked by Cloudflare WARP. Simultaneously, all devices must be forced to use the local Pi-hole for ad-blocking, which in turn securely resolves queries via Quad9.
-
-  
 
 **The Components:**
 
@@ -204,37 +179,22 @@ All devices on the physical LAN (e.g., an iPad or PC) and any remote devices con
 
 * **Pi-hole (Docker):** Local DNS ad-blocker.
 
-* **Cloudflared (Docker):** DNS-over-HTTPS proxy forwarding Pi-hole queries to Quad9.
-
-  
+* **Cloudflared (Docker):** DNS-over-HTTPS proxy forwarding Pi-hole queries to Quad9.  
 
 ---
-
-  
-
 ## 2. Phase 1: Resolving Port 53 Conflicts
 
-  
-
 The first major hurdle was getting Cloudflare WARP and Pi-hole to coexist on the same server.
-
   
-
 When you install Cloudflare WARP on Linux, it runs a local DNS proxy. However, Pi-hole (running in Docker with `network_mode: host`) was aggressively binding to `0.0.0.0:53` (every interface on the machine). Because Pi-hole claimed Port 53 universally, the WARP daemon crashed upon startup because it could not bind its own DNS listener.
-
-  
 
 **The Fix:**
 
 Instead of letting Pi-hole listen universally, we configured its underlying DNS engine (`dnsmasq`) to bind *only* to the specific IP addresses where it was needed: the LAN interface and the Tailscale interface. This freed up `127.0.0.1:53` and `127.0.2.2:53` for WARP and systemd-resolved.
 
-  
-
 We created a custom `dnsmasq` configuration file:
 
 `/home/yaku/pihole/etc-dnsmasq.d/01-bind-specific.conf`
-
-  
 
 ```ini
 
@@ -254,23 +214,12 @@ listen-address=fd7a:115c:a1e0::ba01:4865
 
 ```
 
-  
-
 Once Pi-hole was restarted, port 53 was freed locally, and Cloudflare WARP was able to start successfully.
 
-  
-
 ---
-
-  
-
 ## 3. Phase 2: Installing and Connecting Cloudflare WARP
 
-  
-
 With port conflicts resolved, we proceeded to install and configure the WARP client.
-
-  
 
 ```bash
 
@@ -294,43 +243,24 @@ warp-cli enable-always-on
 
 ```
 
-  
-
 At this point, Battlemage itself was routing its own traffic through WARP, but the LAN devices and Tailscale clients were completely bypassing the tunnel and leaking the real ISP IP address.
 
-  
-
 ---
-
-  
-
 ## 4. Phase 3: Policy-Based Routing & Firewall Rules (The Magic)
-
   
-
 To force external devices (LAN and Tailscale clients) into the WARP tunnel, we had to manipulate Linux's networking stack using `iptables` and `ip rule`.
-
-  
 
 ### The Routing Problem
 
 When a packet from the iPad (LAN) or a remote phone (Tailscale) reaches Battlemage, the Linux kernel looks at its main routing table. By default, the main routing table says: "Send this out the physical ethernet port (`enp12s0`) to the ISP router."
 
-  
-
 Cloudflare WARP operates using Policy-Based Routing. When WARP connects, it creates a hidden routing table (Table `65743`) that points to the `CloudflareWARP` virtual interface. It then adds a rule to catch locally generated traffic and force it into Table `65743`. It intentionally ignores forwarded traffic from other interfaces.
-
-  
 
 ### The Routing Fix
 
 We forcefully injected our LAN and Tailscale traffic into WARP's routing table.
 
-  
-
 First, we added an `iptables` Network Address Translation (NAT) rule. This masks the source IP of the LAN/Tailscale devices with the WARP interface's IP, allowing the traffic to traverse the tunnel seamlessly:
-
-  
 
 ```bash
 
@@ -338,11 +268,7 @@ iptables -t nat -A POSTROUTING -o CloudflareWARP -j MASQUERADE
 
 ```
 
-  
-
 Next, we added explicit forwarding rules to ensure the firewall didn't drop the packets traversing between the physical/Tailscale interfaces and the WARP interface:
-
-  
 
 ```bash
 
@@ -362,31 +288,17 @@ iptables -I FORWARD 4 -i CloudflareWARP -o enx9c69d3198bc0 -m state --state RELA
 
 ```
 
-  
-
 Finally, we hit a known Linux networking bug where Tailscale and WARP clash over MTU sizes and Generic Receive Offload (GRO), causing UDP packets to drop silently. We disabled GRO on the Tailscale interface to fix this:
-
-  
 
 ```bash
 
 ethtool -K tailscale0 rx-gro-list off rx-udp-gro-forwarding off
 
 ```
-
-  
-
 ---
-
-  
-
 ## 5. Phase 4: System Persistence on Reboot
 
-  
-
 Linux forgets `iptables` and `ip rule` commands the moment the server reboots. Furthermore, we couldn't just apply these rules at startup because the `CloudflareWARP` interface doesn't exist until the `warp-svc` daemon fully connects to Cloudflare's servers.
-
-  
 
 **The Fix:**
 
