@@ -32,65 +32,67 @@ When WARP is active, a custom firewall rule intercepts all internet-bound traffi
 
 graph TD
 
-subgraph Client Devices
+%% Nodes
 
-direction TB
+Phone["📱 Phone (Remote)"]
 
-PC["Desktop PC (Delta)"]
+PC["💻 PC (Delta)"]
 
-iPad["iPad (Local Wi-Fi)"]
-
-Phone["Phone (Remote Tailscale)"]
-
-end
-
-  
-
-subgraph Battlemage Server
-
-direction TB
+iPad["📱 iPad (Wi-Fi)"]
 
 TS["Tailscale Exit Node"]
 
-Pihole["Pi-hole DNS (Port 53)"]
+Pihole["Pi-hole DNS"]
 
-Table["Policy Routing (Table 65743)"]
+Table["Policy Table 65743"]
 
 WARP["Cloudflare WARP Tunnel"]
-
-end
-
-  
 
 Internet(("The Internet<br/>(Cloudflare IP)"))
 
   
 
-%% Data Connections
+%% Invisible spine forces strict vertical stacking (Portrait Mode)
 
-Phone -- "Encrypted" --> TS
+Phone ~~~ PC
 
-PC -- "LAN" --> Table
+PC ~~~ iPad
 
-iPad -- "LAN" --> Table
+iPad ~~~ TS
 
-TS -- "Forwarded" --> Table
+TS ~~~ Pihole
 
-%% DNS Routing
+Pihole ~~~ Table
 
-Phone -. "DNS Query" .-> Pihole
+Table ~~~ WARP
 
-PC -. "DNS Query" .-> Pihole
-
-iPad -. "DNS Query" .-> Pihole
+WARP ~~~ Internet
 
   
 
-%% Outbound
+%% Actual Traffic Flow
 
-Table -- "NAT Masquerade" --> WARP
+Phone -->|"Encrypted VPN"| TS
 
-WARP -- "Masked Traffic" --> Internet
+TS -->|"Forwarded"| Table
+
+PC -->|"LAN"| Table
+
+iPad -->|"LAN"| Table
+
+Table -->|"NAT Masquerade"| WARP
+
+WARP -->|"Masked Traffic"| Internet
+
+  
+
+%% DNS Flow
+
+Phone -.->|"Port 53"| Pihole
+
+PC -.->|"Port 53"| Pihole
+
+iPad -.->|"Port 53"| Pihole
 
 ```
 
@@ -106,35 +108,21 @@ When WARP is manually disconnected, the `CloudflareWARP` interface disappears. B
 
 graph TD
 
-subgraph Client Devices
+%% Nodes
 
-direction TB
+Phone["📱 Phone (Remote)"]
 
-PC["Desktop PC (Delta)"]
+PC["💻 PC (Delta)"]
 
-iPad["iPad (Local Wi-Fi)"]
-
-Phone["Phone (Remote Tailscale)"]
-
-end
-
-  
-
-subgraph Battlemage Server
-
-direction TB
+iPad["📱 iPad (Wi-Fi)"]
 
 TS["Tailscale Exit Node"]
 
-Pihole["Pi-hole DNS (Port 53)"]
+Pihole["Pi-hole DNS"]
 
 Table["Main Routing Table"]
 
-Eth["Physical Ethernet (enp12s0)"]
-
-end
-
-  
+Eth["Ethernet (enp12s0)"]
 
 ISP["Home ISP Router"]
 
@@ -142,33 +130,51 @@ Internet(("The Internet<br/>(Real ISP IP)"))
 
   
 
-%% Data Connections
+%% Invisible spine forces strict vertical stacking (Portrait Mode)
 
-Phone -- "Encrypted" --> TS
+Phone ~~~ PC
 
-PC -- "LAN" --> Table
+PC ~~~ iPad
 
-iPad -- "LAN" --> Table
+iPad ~~~ TS
 
-TS -- "Forwarded" --> Table
+TS ~~~ Pihole
 
-%% DNS Routing
+Pihole ~~~ Table
 
-Phone -. "DNS Query" .-> Pihole
+Table ~~~ Eth
 
-PC -. "DNS Query" .-> Pihole
+Eth ~~~ ISP
 
-iPad -. "DNS Query" .-> Pihole
+ISP ~~~ Internet
 
   
 
-%% Outbound
+%% Actual Traffic Flow
 
-Table -- "Raw Traffic" --> Eth
+Phone -->|"Encrypted VPN"| TS
 
-Eth -- "Unmasked Traffic" --> ISP
+TS -->|"Forwarded"| Table
+
+PC -->|"LAN"| Table
+
+iPad -->|"LAN"| Table
+
+Table -->|"Raw Traffic"| Eth
+
+Eth -->|"Unmasked"| ISP
 
 ISP --> Internet
+
+  
+
+%% DNS Flow
+
+Phone -.->|"Port 53"| Pihole
+
+PC -.->|"Port 53"| Pihole
+
+iPad -.->|"Port 53"| Pihole
 
 ```
 
