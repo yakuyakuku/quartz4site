@@ -6,11 +6,11 @@ The current carried her away from the city. An elderly couple found her near the
 
 She continued searching for the treasure her parents had talked about. She didn't bother searching for her parents themselves; in her mind, they were royals who didn't need her help, so she would continue their noble mission.
 
-Her happy life with the couple didn't last. They grew old, and the "maid" (grandmother) passed away three years before Vedra enlisted. Vedra didn't cry during the funeral. She held her head high as she saluted her maid, standing at the tomb for 27 hours straight with no food or water. Her "servant" (grandfather) eventually convinced her to come home by telling her that the maid would be sad if she continued.
+Her happy life with the couple didn't last. They grew old, and the "maid" (grandmother) passed away three years before [[Vedra]] enlisted. [[Vedra]] didn't cry during the funeral. She held her head high as she saluted her maid, standing at the tomb for 27 hours straight with no food or water. Her "servant" (grandfather) eventually convinced her to come home by telling her that the maid would be sad if she continued.
 
-Despite never having any formal education, Vedra was incredibly smart. She could understand almost anything once taught. She claimed this was simply because she was "talented, as all nobles are."
+Despite never having any formal education, [[Vedra]] was incredibly smart. She could understand almost anything once taught. She claimed this was simply because she was "talented, as all nobles are."
 
-Eight months ago, her grandfather died. In his final moments, he looked at the moon with her one last time. To give her a purpose, his last words were a lie: that the treasure she sought might be on the Moon. He smiled and thanked her for allowing him to "serve" her before breathing his last. The couple had known about Vedra's personality and played along with it until the end, treating her like the princess she believed she was.
+Eight months ago, her grandfather died. In his final moments, he looked at the moon with her one last time. To give her a purpose, his last words were a lie: that the treasure she sought might be on the Moon. He smiled and thanked her for allowing him to "serve" her before breathing his last. The couple had known about [[Vedra]]'s personality and played along with it until the end, treating her like the princess she believed she was.
 
 She stood at his tomb for almost 48 hours. She finally walked away because she knew she had to find her family to ask about the Moon. Being intelligent, she managed to track down her father despite her delusions.
 
@@ -18,4 +18,4 @@ When she found him, after seven years, he was shocked she was still alive. She d
 
 She believed her father's words absolutely. He told her the departure would be grand, which is why she was so disappointed by the basement facility.
 
-Beside Eric, who has awakened his Inner Domain systematically, Vedra has also broken her limit. She awakened her Inner Domain unconsciously. Because she can project her inner beliefs onto reality, she was able to survive the river current and stand for 48 hours without food. Her mental fortitude is absolute. She seems to be blessed—or perhaps pitied—by the gods, surviving every trial through sheer resolve and luck
+Beside [[Eric Rossvolt|Eric]], who has awakened his [[Inner Domain]] systematically, [[Vedra]] has also broken her limit. She awakened her [[Inner Domain]] unconsciously. Because she can project her inner beliefs onto reality, she was able to survive the river current and stand for 48 hours without food. Her mental fortitude is absolute. She seems to be blessed—or perhaps pitied—by the gods, surviving every trial through sheer resolve and luck

@@ -54,7 +54,7 @@ Three hours had passed since we departed, and we still hadn’t reached our dest
 
 Spark of conversation break the long silence.
 
-_"Guess this beats rotting on Earth-1,"_ someone muttered.
+_"Guess this beats rotting on [[Earth-1]],"_ someone muttered.
 
 _"Beats starving, you mean,"_ another voice said, dry and bitter.
 
@@ -69,7 +69,7 @@ He whispers slowly.
 
 _"Damn Rift screwed everything up,"_ a recruit muttered across from the scarred man. He was older, grizzled, and wore his clothes like it barely mattered. He let out a bitter chuckle. _"Should’ve left it alone. Not like any of us are ever seeing what’s on the other side."_
 
-The younger recruit next to him frowned. _"They say Earth-2 wouldn’t exist without the Rift. They say the nobles have technology we can’t even imagine. Cities floating in the sky. Clean air, and other stuff you think would be impossible to get in our world!"_
+The younger recruit next to him frowned. _"They say [[Earth-2]] wouldn’t exist without [[The Rift|the Rift]]. They say the nobles have technology we can’t even imagine. Cities floating in the sky. Clean air, and other stuff you think would be impossible to get in our world!"_
 
 The older recruit scoffed. _"Yeah? And you think they’re giving that to you?"_
 
@@ -87,7 +87,7 @@ The hatch slammed open.
 
 The window on the back of the car opens, we scatter out of the car immediately. Oh boy, I wouldn’t have believed it if I had not seen it with my own eyes, this military base is awesome. Ships are flying down and up like a busy port, planes are moving in and out, and many vehicles are also in sight. If it weren’t for the job, I would’ve loved to ask a few questions here and there to the people around and explore, but alas, I can’t do that right now.
 
-as Eric and his group walk to the center of the base's field, he also sees some holographic posters video advertising the military campaign, the exact same video Eric saw when he decided he wants to join the conscript, the video display a cinematic view of the moon and the moon's military's base and how the "Rift" hole in the moon was epicenter of it all, the singularity point of the miracle advancement of human civilization. Some of the posters also advertise the chance to going to "Earth-2".
+as Eric and his group walk to the center of the base's field, he also sees some holographic posters video advertising the military campaign, the exact same video Eric saw when he decided he wants to join the conscript, the video display a cinematic view of the moon and the moon's military's base and how the "[[The Rift|Rift]]" hole in the moon was epicenter of it all, the singularity point of the miracle advancement of human civilization. Some of the posters also advertise the chance to going to "[[Earth-2]]".
 
 While looking around, Eric sees there are many people situated in this military base. Not too long after they arrived, a few dozen military vehicles are starting dropping off the recruits as well. It seems many have taken this opportunity, as the enlistment is open to the public and that the recruit will get paid with lucrative sum of money if they passed the test and join the exploration expedition on moon.
 
@@ -101,7 +101,7 @@ Suddenly, someone from the military steps in to get us, that just come out of th
 
 "Move it, maggots! Get your asses in line and fall in behind me! NOW! MOVE IT!, MOVE IT!, MOVE IT!!!" shout the officer.
 
-We don’t have much choice but to obey the instruction. Our group lines up accordingly. After everyone in the field is lined up perfectly, the hologram changes from the logo to a display of a person. I would say he is quite famous—almost everybody knows him, at least on Earth-1.
+We don’t have much choice but to obey the instruction. Our group lines up accordingly. After everyone in the field is lined up perfectly, the hologram changes from the logo to a display of a person. I would say he is quite famous—almost everybody knows him, at least on [[Earth-1]].
 
 "ALL TROOPS, GIVE SALUTE TO GENERAL EDWARD R.VON VALZVEIN!" shout with a loud voice vibrates through the air from the front of the formation.
 
@@ -114,13 +114,13 @@ As the General continues speaking.
 "Damn, can you believe all of this started with some hole in the moon? My grandpa used to say the old world went to hell over it" said one of the man in my group line from the back.
 
 In Eric’s mind, 
-"Ah yes, the classic tale of how our civilization and humanity discovered the hole that cracked in the moon. This would be an interesting story if he talked about the wonders of the technological breakthroughs that came from that singular event. Man like imagine three hundred years ago, our civilization made it to the moon in 1969 and discovered a freaking portal in the sky that was pouring out a liquid-like substance, creating like a sea on the moon. The whole world was in chaos at this discovery, and many religious organizations believed this was a message from God, a warning of the apocalypse, or some divine thingy. Evangelists, and other radical groups emerged with conflicting theories, eventually, all nations on Earth-1 had to decide what to do about the moon, and then they agreed to explore and study the mysterious said hole and the phenomenon surrounding it, especially why it was not visible from telescopes on Earth"
+"Ah yes, the classic tale of how our civilization and humanity discovered the hole that cracked in the moon. This would be an interesting story if he talked about the wonders of the technological breakthroughs that came from that singular event. Man like imagine three hundred years ago, our civilization made it to the moon in 1969 and discovered a freaking portal in the sky that was pouring out a liquid-like substance, creating like a sea on the moon. The whole world was in chaos at this discovery, and many religious organizations believed this was a message from God, a warning of the apocalypse, or some divine thingy. Evangelists, and other radical groups emerged with conflicting theories, eventually, all nations on [[Earth-1]] had to decide what to do about the moon, and then they agreed to explore and study the mysterious said hole and the phenomenon surrounding it, especially why it was not visible from telescopes on Earth"
 
 A joint venture among all nations came into fruition, leading to the creation of a lunar base to explore the strange sea of liquid pouring from the hole in the sky. What they discovered was beyond comprehension. The liquid pouring from the hole wasn’t just a colorful water, it was a dimensional gate to another world.. This world was vast, at first sight of the discovery the land was barren, and covered with crystallized sludge of dark blue hues. The atmosphere was dense with mist-like substances swirling around, matching the eerie blue environment.
 
-With this discovery, even more chaotic situation follows. Every nation wanted a piece of this new world, triggering a race for exploration. To prevent conflicts, an organization called the League of Lunar Exploration was formed to mediate and ensure fair division among Earth’s nations. However, just four years after the organization was established, exploration efforts remained slow due to increasing tensions. Conflict between nations couldn’t simply be resolved by forming an organization, and soon, war broke out. Initially, it was minor skirmishes, one nation against another, but it quickly situation escalated, alliances were formed, then continental-level wars erupted, at the end, Earth-1 became a barren wasteland due to these conflicts.
+With this discovery, even more chaotic situation follows. Every nation wanted a piece of this new world, triggering a race for exploration. To prevent conflicts, an organization called the League of Lunar Exploration was formed to mediate and ensure fair division among Earth’s nations. However, just four years after the organization was established, exploration efforts remained slow due to increasing tensions. Conflict between nations couldn’t simply be resolved by forming an organization, and soon, war broke out. Initially, it was minor skirmishes, one nation against another, but it quickly situation escalated, alliances were formed, then continental-level wars erupted, at the end, [[Earth-1]] became a barren wasteland due to these conflicts.
 
-The victor of this war was the nation that uncovered the secrets hidden within the rift, they used their newfound power to conquer the others and then forming a singular world government. The Irony of this is that the world used to be more of a democratic world, but then it transformed into absolute monarchy, this happened because the government need absolute power to maintain order. A hundred years later, the government fragmented into more smaller families monarch. It’s funny, that one singular event led to all of this... and now, we have Earth-2, which is they said the fruit of humankind discovery of the rift, and then there's the discovery of artifacts, after that everything there's still--
+The victor of this war was the nation that uncovered the secrets hidden within [[The Rift|the rift]], they used their newfound power to conquer the others and then forming a singular world government. The Irony of this is that the world used to be more of a democratic world, but then it transformed into absolute monarchy, this happened because the government need absolute power to maintain order. A hundred years later, the government fragmented into more smaller families monarch. It’s funny, that one singular event led to all of this... and now, we have [[Earth-2]], which is they said the fruit of humankind discovery of [[The Rift|the rift]], and then there's the discovery of artifacts, after that everything there's still--
 
 (Eric snaps back to the speech.)
 

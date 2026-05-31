@@ -4,13 +4,13 @@
 
 - A high-ranking officer (e.g., the tall priestess or another official) presents the offer: join the regular Unit military on the base, permanent position, half pay, no moon/Rift trip.
 - Depict varied recruit reactions: relief on some faces, hesitation on others, reinforcing the danger and filtering out less committed recruits.
-- Highlight Eric, Jaxon, Jin, Darius, and Lena confirming their choice to proceed to the moon. There wil be 3 units in the moon
+- Highlight Eric, [[Jaxon Pyre|Jaxon]], [[Jin]], [[Darius Kroll|Darius]], and Lena confirming their choice to proceed to the moon. There wil be 3 units in the moon
 - Unit 1 : Niddraz (Western Dragon Symbol Represent The Valzvein Family)
 - Unit 2: Fortzvel (Serpent and Sharks, Represent Kaelion Family)
 - Unit 3: Gridra (Knight with Wings, Represent Vorn Family)
-- (oh yeah there are 3 big House of Families that influence in the Moon, they also have influence in Earth-2 but there are more families there, and there are some families that has bigger influence than then there like the Royal Families and Rozgal Family but they aren‘t in charge of military in the moon and they mainly stays in earth-2)
- Unit named were made after the name of Each Mythical Creature that appear from the rift before that made contact with human and then then give their knowledge and power to aid them to harness the rift power and use them for good of humanity (well that‘s what they told the public anyway about “these creature”)
-- Include a brief internal thought from Eric on his motivation (e.g., debt, the vision, Ilsa?).
+- (oh yeah there are 3 big House of Families that influence in the Moon, they also have influence in [[Earth-2]] but there are more families there, and there are some families that has bigger influence than then there like the Royal Families and Rozgal Family but they aren‘t in charge of military in the moon and they mainly stays in earth-2)
+ Unit named were made after the name of Each Mythical Creature that appear from [[The Rift|the rift]] before that made contact with human and then then give their knowledge and power to aid them to harness [[The Rift|the rift]] power and use them for good of humanity (well that‘s what they told the public anyway about “these creature”)
+- Include a brief internal thought from Eric on his motivation (e.g., debt, the vision, [[Ilsa Ryzelia|Ilsa]]?).
 - Note the cast reduction to 362 recruits.
 
 
@@ -20,7 +20,7 @@
 - Show digital assignment to 20-person groups, directed to transport cabins, highlighting the impersonal, efficient process.
 - Place Eric in his cabin; introduce 1–2 distinct new characters (e.g., one overly enthusiastic, one terrified, one stoic).
 - Show Lena assigned to a different cabin to separate them temporarily.
-- Include brief scenes of Jaxon, Jin, and Darius entering their cabins, reflecting their internal states (e.g., Jaxon withdrawn, Jin optimistic, Darius assessing others).
+- Include brief scenes of [[Jaxon Pyre|Jaxon]], [[Jin]], and [[Darius Kroll|Darius]] entering their cabins, reflecting their internal states (e.g., [[Jaxon Pyre|Jaxon]] withdrawn, [[Jin]] optimistic, [[Darius Kroll|Darius]] assessing others).
 
 
 ## The Launch and the Whale
@@ -35,14 +35,14 @@
 - Describe the view from the cabin/Whale: receding Earth, starscape, other Kaelion traffic.
 - Build anticipation for arrival, then depict the Moon with the massive, active Rift pouring strange liquid into the "Sea of Void" (emphasize scale, color, unnatural appearance).
 - Show the Whale maneuvering toward the floating Kaelion moon base; describe its sleek yet industrial architecture.
-- Detail the docking procedure and bustling activity: ships, drones, machinery, and the giant humanoid near the Rift.
+- Detail the docking procedure and bustling activity: ships, drones, machinery, and the giant humanoid near [[The Rift|Rift]]|the [[The Rift|Rift]].
 
 ## Arrival and Transition
 
 - Describe cabins being ejected/transported from the Whale into the moon base docking bay.
 - Detail the moon base environment: artificial gravity, recycled air, vast hangars/corridors.
 - Show the 362 recruits marshaled by officers/drones toward the Attunement Hall.
-- Include Eric spotting Lena, Jaxon, Jin, or Darius in the crowd, confirming their arrival.
+- Include Eric spotting Lena, [[Jaxon Pyre|Jaxon]], [[Jin]], or [[Darius Kroll|Darius]] in the crowd, confirming their arrival.
 - End as they approach/enter the Attunement Hall, describing its massive machinery.
 - Optionally introduce the Valzvein noble overseeing the entrance.
 
@@ -54,32 +54,32 @@
 
 ## The Offer and the Thinning
 
-- Begin right after Negi-chan’s announcement from Chapter 2, either before the lift descends or at the bottom.
+- Begin right after [[Negi-chan]]’s announcement from Chapter 2, either before the lift descends or at the bottom.
 - A high-ranking officer (e.g., the tall priestess or another official) presents the offer: join the regular military on the base, permanent position, half pay, no moon/Rift trip.
 - Depict varied recruit reactions: relief on some faces, hesitation on others, reinforcing the danger and filtering out those less committed or desperate.
-- Highlight Eric, Jaxon, Jin, Darius, and Lena confirming their choice to proceed to the moon.
-- Include a brief internal thought from Eric on his motivation (e.g., debt, the vision, Ilsa?).
+- Highlight Eric, [[Jaxon Pyre|Jaxon]], [[Jin]], [[Darius Kroll|Darius]], and Lena confirming their choice to proceed to the moon.
+- Include a brief internal thought from Eric on his motivation (e.g., debt, the vision, [[Ilsa Ryzelia|Ilsa]]?).
 - Note the cast reduction to 362 recruits.
 
 **My Implementation:**
 
-The lift hummed with a low, mechanical drone, the only sound cutting through the frigid air of the underground chamber. The recruits stood shoulder-to-shoulder, their breaths visible in the dim light, each face a mask of exhaustion, fear, or grim resolve. Negi-chan’s hologram had just flickered out, her saccharine cheer leaving a bitter aftertaste. The Kaelion Enterprise symbol pulsed above, its cold blue glow casting long shadows across the recruits’ faces. [[Eric Rossvolt]]’s gaze drifted to the floor, his mind replaying the creature’s transformation, the priestess’s prayer, and that fucking serpent from his vision. His hands clenched, nails biting into his palms. _Ilsa… was that you?_ The thought gnawed at him, her tear-streaked face flashing in his mind, pleading for forgiveness he didn’t deserve.
+The lift hummed with a low, mechanical drone, the only sound cutting through the frigid air of the underground chamber. The recruits stood shoulder-to-shoulder, their breaths visible in the dim light, each face a mask of exhaustion, fear, or grim resolve. [[Negi-chan]]’s hologram had just flickered out, her saccharine cheer leaving a bitter aftertaste. The [[Kaelion Enterprise]] symbol pulsed above, its cold blue glow casting long shadows across the recruits’ faces. [[Eric Rossvolt]]’s gaze drifted to the floor, his mind replaying the creature’s transformation, the priestess’s prayer, and that fucking serpent from his vision. His hands clenched, nails biting into his palms. _[[Ilsa Ryzelia|Ilsa]]… was that you?_ The thought gnawed at him, her tear-streaked face flashing in his mind, pleading for forgiveness he didn’t deserve.
 
 A sharp clang echoed as the lift shuddered to a stop. The massive doors groaned open, revealing a cavernous hall lined with sleek, black panels and glowing conduits snaking along the walls. Kaelion’s tech was everywhere—silent drones hovering, their red eyes scanning the crowd, and automated turrets tracking movement with unnerving precision. The air smelled of ozone and antiseptic, a sterile reminder of the stakes. Before anyone could step forward, a figure emerged from the shadows at the far end of the hall. The tall priestess from Chapter 2, her white robes trailing like a specter, glided toward them. Her sapphire cloth shimmered with unreadable yellow glyphs, and that faint golden halo hovered above her head, pulsing faintly. Her presence silenced the murmurs, her authority palpable.
 
-“My children,” she began, her voice a velvet blade, cutting through the tension. “You have faced the serum and emerged alive. But the path to the Rift is not for all.” She paused, her unmasked face serene yet unyielding, her eyes scanning the crowd like a predator sizing up prey. “Kaelion Enterprise offers you a choice. Remain here, on this base, as permanent soldiers in our terrestrial forces. You will serve with honor, your debts forgiven, your families provided for. But the pay is half, and you will never see the moon. Never touch the Rift. Never know the truth of what lies beyond.”
+“My children,” she began, her voice a velvet blade, cutting through the tension. “You have faced the serum and emerged alive. But the path to the Rift is not for all.” She paused, her unmasked face serene yet unyielding, her eyes scanning the crowd like a predator sizing up prey. “[[Kaelion Enterprise]] offers you a choice. Remain here, on this base, as permanent soldiers in our terrestrial forces. You will serve with honor, your debts forgiven, your families provided for. But the pay is half, and you will never see the moon. Never touch [[The Rift|Rift]]|the [[The Rift|Rift]]. Never know the truth of what lies beyond.”
 
-The words hung heavy, and the recruits shifted uneasily. Eric’s gut twisted. _Half pay? No moon?_ He glanced at Lena, her blonde hair catching the light as she stood a few rows ahead, her jaw tight. Jaxon, nearby, stared straight ahead, his face a mask of cold detachment, but his fists trembled. Jin, ever the optimist, cracked a nervous grin, whispering to no one in particular, “Fuck, that’s tempting, right?” Darius, towering over the others, snorted, his scarred face twisting into a sneer. “Coward’s way out.”
+The words hung heavy, and the recruits shifted uneasily. Eric’s gut twisted. _Half pay? No moon?_ He glanced at Lena, her blonde hair catching the light as she stood a few rows ahead, her jaw tight. [[Jaxon Pyre|Jaxon]], nearby, stared straight ahead, his face a mask of cold detachment, but his fists trembled. [[Jin]], ever the optimist, cracked a nervous grin, whispering to no one in particular, “Fuck, that’s tempting, right?” [[Darius Kroll|Darius]], towering over the others, snorted, his scarred face twisting into a sneer. “Coward’s way out.”
 
 Murmurs rippled through the crowd. A wiry recruit with a shaved head, his eyes hollow from the serum’s aftereffects, stepped forward. “I’ll take it,” he croaked, his voice breaking. “I… I can’t do this shit. Not after that _thing_ in the med bay.” A woman with a scarred cheek nodded, her shoulders slumping in relief. “Me too. I got kids. I ain’t dying for some hole in the sky.” One by one, others followed—nearly half the group, their faces a mix of shame and gratitude as they shuffled toward a side corridor where drones awaited to process them.
 
-The priestess raised a hand, silencing the room. “Those who choose the moon, step forward. Know that the Rift demands everything—your body, your mind, your soul. There is no turning back.”
+The priestess raised a hand, silencing the room. “Those who choose the moon, step forward. Know that [[The Rift|Rift]]|the [[The Rift|Rift]] demands everything—your body, your mind, your soul. There is no turning back.”
 
-Eric’s heart pounded. He thought of Ilsa, her red hair, her broken voice. _Please forgive me._ He thought of the debt crushing him, the sister he couldn’t face, the serpent’s red eyes burning in his mind. _I can’t stop now._ He stepped forward, his boots echoing in the silence. Lena moved too, her eyes fierce despite the tremble in her hands. Jaxon’s step was mechanical, his gaze locked on some distant point, as if the choice was never a question. Jin hesitated, then laughed shakily, joining them. “Gotta see that Space Whale, right?” Darius strode forward, cracking his knuckles. “Ain’t no way I’m staying in this shithole.”
+Eric’s heart pounded. He thought of [[Ilsa Ryzelia|Ilsa]], her red hair, her broken voice. _Please forgive me._ He thought of the debt crushing him, the sister he couldn’t face, the serpent’s red eyes burning in his mind. _I can’t stop now._ He stepped forward, his boots echoing in the silence. Lena moved too, her eyes fierce despite the tremble in her hands. [[Jaxon Pyre|Jaxon]]’s step was mechanical, his gaze locked on some distant point, as if the choice was never a question. [[Jin]] hesitated, then laughed shakily, joining them. “Gotta see that Space Whale, right?” [[Darius Kroll|Darius]] strode forward, cracking his knuckles. “Ain’t no way I’m staying in this shithole.”
 
 The priestess’s gaze lingered on them, her lips curling into a faint, unreadable smile. “Three hundred and sixty-two remain,” she said, her voice echoing like a verdict. “The Rift awaits you.” She turned, her robes sweeping the floor, and gestured toward a corridor glowing with pale blue light. Drones hummed to life, herding the chosen toward their fate.
 
-Eric’s chest tightened as he marched with the others, the weight of his choice sinking in. _No turning back._ He caught Lena’s eye, her nod a silent pact. Jaxon’s silence was louder than words, and Jin’s forced grin couldn’t hide his fear. Darius’s smirk was a challenge to the universe itself. The corridor stretched endlessly ahead, and Eric couldn’t shake the feeling that they were walking into the jaws of something far worse than debt or death.
+Eric’s chest tightened as he marched with the others, the weight of his choice sinking in. _No turning back._ He caught Lena’s eye, her nod a silent pact. [[Jaxon Pyre|Jaxon]]’s silence was louder than words, and [[Jin]]’s forced grin couldn’t hide his fear. [[Darius Kroll|Darius]]’s smirk was a challenge to the universe itself. The corridor stretched endlessly ahead, and Eric couldn’t shake the feeling that they were walking into the jaws of something far worse than debt or death.
 
 
 
@@ -90,9 +90,9 @@ A murmur rippled through the recruits, unease spreading like a virus. Eric’s s
 
 # Chapter 3: Processing and Grouping
 
-The corridors were a maze of cold steel, their flickering lights casting long shadows as the recruits trudged forward. Eric’s boots scraped against the polished floor, each step heavier than the last. The priestess’s words echoed in his mind: _Three hundred and sixty-two._ So many had chosen the Rift, but the number felt like a countdown to something he couldn’t name. He kept his eyes down, avoiding the faces of the others, their tension a weight in the air. His thoughts churned—Ilsa’s tear-streaked face, her trembling _Please forgive me, Eric_, the serpent’s red eyes from the commotio trial. It was all a tangle, a puzzle with missing pieces, and he was too damn tired to solve it.
+The corridors were a maze of cold steel, their flickering lights casting long shadows as the recruits trudged forward. Eric’s boots scraped against the polished floor, each step heavier than the last. The priestess’s words echoed in his mind: _Three hundred and sixty-two._ So many had chosen [[The Rift|Rift]]|the [[The Rift|Rift]], but the number felt like a countdown to something he couldn’t name. He kept his eyes down, avoiding the faces of the others, their tension a weight in the air. His thoughts churned—[[Ilsa Ryzelia|Ilsa]]’s tear-streaked face, her trembling _Please forgive me, Eric_, the serpent’s red eyes from the commotio trial. It was all a tangle, a puzzle with missing pieces, and he was too damn tired to solve it.
 
-The officers’ shouts cut through his haze. “Keep moving, maggots! Processing bay, dead ahead!” Eric’s gut twisted. _Processing._ The word sounded like they were livestock, not people. He glanced at the small blonde woman walking a few paces ahead, her posture stiff but purposeful. He’d seen her in the commotio, nearly crushed by that writhing, toothy beast before Jaxon and Jin had hauled her out of danger. She’d been shaking then, her blue eyes wide with terror, but she’d kept moving. He didn’t know her name, hadn’t spoken to her, and something about her quiet intensity made him hesitate to try. _Don’t stir shit up, Eric. Just keep your head down._
+The officers’ shouts cut through his haze. “Keep moving, maggots! Processing bay, dead ahead!” Eric’s gut twisted. _Processing._ The word sounded like they were livestock, not people. He glanced at the small blonde woman walking a few paces ahead, her posture stiff but purposeful. He’d seen her in the commotio, nearly crushed by that writhing, toothy beast before [[Jaxon Pyre|Jaxon]] and [[Jin]] had hauled her out of danger. She’d been shaking then, her blue eyes wide with terror, but she’d kept moving. He didn’t know her name, hadn’t spoken to her, and something about her quiet intensity made him hesitate to try. _Don’t stir shit up, Eric. Just keep your head down._
 
 The corridor opened into a cavernous chamber, its walls lined with automated stations and conveyor belts humming with relentless precision. The air reeked of antiseptic, sharp and stinging, and the harsh lights overhead made Eric squint. Recruits were funneled into lines, each leading to booths where medics in tactical suits waited, their gloved hands clutching tablets. A massive screen dominated the far wall, but no cartoonish avatar appeared this time—just a looping display of Kaelion’s logo, a stylized black serpent coiling around a crescent moon. The silence was worse than any peppy hologram. It let the fear sink in.
 
@@ -104,61 +104,61 @@ Ahead, the blonde woman from the commotio hesitated, her packet clutched tightly
 
 The woman’s face went scarlet, her hands fumbling to pull her shirt back down. “I-I’m sorry,” she stammered, her voice soft and polite, almost painfully so. “I didn’t know—I’ll go, I’m so sorry.” She scurried toward a curtained booth, her head bowed, the officer’s glare boring into her back. Eric’s jaw tightened. _Asshole._ He wanted to say something, but his tongue felt glued to the roof of his mouth. _Don’t make waves. Not worth it._
 
-The line moved on, recruits emerging from the changing booths in their grey uniforms, their old identities erased. Eric’s eyes drifted to Jin, stepping out a few rows over. The guy was built like a goddamn action hero—broad shoulders, rippling arms, the uniform hugging his frame like it was custom-made. Recruits stared, some whispering, others openly gawking. Jin noticed and flashed a wide, genuine grin, rubbing the back of his neck. “What? These things just fit like this, I guess!” His voice was bright, almost boyish, like he didn’t realize how magnetic he was.
+The line moved on, recruits emerging from the changing booths in their grey uniforms, their old identities erased. Eric’s eyes drifted to [[Jin]], stepping out a few rows over. The guy was built like a goddamn action hero—broad shoulders, rippling arms, the uniform hugging his frame like it was custom-made. Recruits stared, some whispering, others openly gawking. [[Jin]] noticed and flashed a wide, genuine grin, rubbing the back of his neck. “What? These things just fit like this, I guess!” His voice was bright, almost boyish, like he didn’t realize how magnetic he was.
 
-Jaxon was nearby, zipping up his own uniform, his lean, muscular build just as striking. Jin turned to him, his eyes lighting up. “Yo, Jaxon, look at you! Man, you’re carved outta stone! We’re gonna make those moon monsters wish they stayed home, right?” His enthusiasm was relentless, no trace of ego, just pure, unfiltered hype.
+[[Jaxon Pyre|Jaxon]] was nearby, zipping up his own uniform, his lean, muscular build just as striking. [[Jin]] turned to him, his eyes lighting up. “Yo, [[Jaxon Pyre|Jaxon]], look at you! Man, you’re carved outta stone! We’re gonna make those moon monsters wish they stayed home, right?” His enthusiasm was relentless, no trace of ego, just pure, unfiltered hype.
 
-Jaxon’s expression didn’t flicker. He gave a curt nod, his voice low and clipped. “Focus on the job, Jin.” His eyes were distant, his hands shoved into his pockets, the posture of a man who’d rather be anywhere else. Eric remembered him from the commotio—Jaxon had moved like a predator, his blade flashing as he’d cut through the beast to save the blonde woman. But there was no warmth in him now, just a cold, practical edge. _Guy’s got walls higher than a fortress._
+[[Jaxon Pyre|Jaxon]]’s expression didn’t flicker. He gave a curt nod, his voice low and clipped. “Focus on the job, [[Jin]].” His eyes were distant, his hands shoved into his pockets, the posture of a man who’d rather be anywhere else. Eric remembered him from the commotio—[[Jaxon Pyre|Jaxon]] had moved like a predator, his blade flashing as he’d cut through the beast to save the blonde woman. But there was no warmth in him now, just a cold, practical edge. _Guy’s got walls higher than a fortress._
 
-Jin didn’t miss a beat, clapping Jaxon’s shoulder. “That’s the spirit! We’re all gonna crush it, you’ll see. Hey, check out these folks!” He turned to a nearby recruit, a wiry woman with a shaved head, and grinned. “You look ready to take on the whole Rift! What’s your name?”
+[[Jin]] didn’t miss a beat, clapping [[Jaxon Pyre|Jaxon]]’s shoulder. “That’s the spirit! We’re all gonna crush it, you’ll see. Hey, check out these folks!” He turned to a nearby recruit, a wiry woman with a shaved head, and grinned. “You look ready to take on the whole [[The Rift|Rift]]! What’s your name?”
 
-The woman blinked, caught off guard, but Jin’s warmth was disarming. “Uh, Mara,” she said, a hesitant smile tugging at her lips. “And… thanks, I guess.”
+The woman blinked, caught off guard, but [[Jin]]’s warmth was disarming. “Uh, Mara,” she said, a hesitant smile tugging at her lips. “And… thanks, I guess.”
 
-“See? Mara’s got this!” Jin called out, drawing a few chuckles from the crowd. He moved through the recruits like a spark, praising everyone he passed—a lanky kid’s “killer vibes,” a grizzled man’s “badass scars.” It wasn’t forced; Jin just _was_ that guy, the one who lifted everyone up without expecting anything back. Eric watched, a mix of envy and admiration stirring in his chest. _How’s he so damn chipper?_
+“See? Mara’s got this!” [[Jin]] called out, drawing a few chuckles from the crowd. He moved through the recruits like a spark, praising everyone he passed—a lanky kid’s “killer vibes,” a grizzled man’s “badass scars.” It wasn’t forced; [[Jin]] just _was_ that guy, the one who lifted everyone up without expecting anything back. Eric watched, a mix of envy and admiration stirring in his chest. _How’s he so damn chipper?_
 
-Darius, meanwhile, was at another booth, his massive frame dwarfing the recruits around him. His uniform strained against his bulk, and he smirked as he caught a few stares. “What, you never seen a real man before?” he rumbled, cracking his knuckles. The recruits nearby averted their eyes, and Eric didn’t blame them. Darius was a walking threat, his presence screaming _don’t fuck with me_. Eric was glad he was nowhere near the guy’s line.
+[[Darius Kroll|Darius]], meanwhile, was at another booth, his massive frame dwarfing the recruits around him. His uniform strained against his bulk, and he smirked as he caught a few stares. “What, you never seen a real man before?” he rumbled, cracking his knuckles. The recruits nearby averted their eyes, and Eric didn’t blame them. [[Darius Kroll|Darius]] was a walking threat, his presence screaming _don’t fuck with me_. Eric was glad he was nowhere near the guy’s line.
 
 ---
 
 The processing bay churned on, recruits funneled toward digital assignment boards. Eric stood in line, his new uniform chafing, his mind drifting back to the blonde woman. She’d emerged from the changing booth, her uniform slightly too big, her face still flushed from the officer’s insult. She kept her head down, her hands clasped politely in front of her, but her eyes darted around, taking in everything. _She’s tougher than she looks,_ Eric thought, remembering how she’d kept moving in the commotio despite nearly dying. He wanted to talk to her, to check if she was okay, but his nerves held him back. _What am I gonna say? ‘Hey, sorry you got yelled at for stripping’? Yeah, that’ll go over great._
 
-The kiosk beeped, and Eric stepped forward, pressing his thumb against the scanner. The screen flashed: **Eric Rossvolt, Cabin 17, Group C.** He stepped back, glancing at the blonde woman as she took her turn. Her scan completed: **[[Lena Rynalla]], Cabin 17, Group C.** Eric’s shoulders relaxed slightly. _Same cabin. Good._ Not that he’d talk to her, but knowing she was nearby felt… safer, somehow.
+The kiosk beeped, and Eric stepped forward, pressing his thumb against the scanner. The screen flashed: **[[Eric Rossvolt]], Cabin 17, Group C.** He stepped back, glancing at the blonde woman as she took her turn. Her scan completed: **[[Lena Rynalla]], Cabin 17, Group C.** Eric’s shoulders relaxed slightly. _Same cabin. Good._ Not that he’d talk to her, but knowing she was nearby felt… safer, somehow.
 
-They moved toward Cabin 17, weaving through the crowd. Eric caught sight of Jin and Jaxon at another kiosk, their names flashing: **Jin Kazama, Cabin 32, Group F** and **Jaxon Pryde, Cabin 32, Group F.** Jin was pumping his fist, his voice carrying over the noise. “Cabin 32, baby! We’re gonna make it legendary!” Jaxon just nodded, his expression unreadable, his hands still in his pockets. Darius’s assignment came up elsewhere: **Darius Kroll, Cabin 9, Group A.** He smirked, muttering something Eric couldn’t hear, his eyes scanning the crowd like a predator picking out prey.
+They moved toward Cabin 17, weaving through the crowd. Eric caught sight of [[Jin]] and [[Jaxon Pyre|Jaxon]] at another kiosk, their names flashing: **Jin Kazama, Cabin 32, Group F** and **[[Jaxon Pyre|Jaxon]] Pryde, Cabin 32, Group F.** [[Jin]] was pumping his fist, his voice carrying over the noise. “Cabin 32, baby! We’re gonna make it legendary!” [[Jaxon Pyre|Jaxon]] just nodded, his expression unreadable, his hands still in his pockets. Darius’s assignment came up elsewhere: **[[Darius Kroll]], Cabin 9, Group A.** He smirked, muttering something Eric couldn’t hear, his eyes scanning the crowd like a predator picking out prey.
 
 ---
 
-**Jin and Jaxon’s Cabin Assignment:**
+**[[Jin]] and [[Jaxon Pyre|Jaxon]]’s Cabin Assignment:**
 
-Jin bounded toward Cabin 32, his steps light, his grin wide enough to light up the dim corridor. The processing bay’s chaos was just noise to him—a challenge, a chance to shine. He’d grown up in a crumbling tenement, dodging gangs and hunger, but he’d always believed in something better. The serum had lit him up, his body buzzing with energy, and he felt like he could take on the universe. _This is it. My shot to make a difference._ He glanced at Jaxon, who trailed behind, his posture rigid, his eyes fixed on some distant point. _Guy’s got a storm in his head. Gotta get him to smile, even a little._
+[[Jin]] bounded toward Cabin 32, his steps light, his grin wide enough to light up the dim corridor. The processing bay’s chaos was just noise to him—a challenge, a chance to shine. He’d grown up in a crumbling tenement, dodging gangs and hunger, but he’d always believed in something better. The serum had lit him up, his body buzzing with energy, and he felt like he could take on the universe. _This is it. My shot to make a difference._ He glanced at [[Jaxon Pyre|Jaxon]], who trailed behind, his posture rigid, his eyes fixed on some distant point. _Guy’s got a storm in his head. Gotta get him to smile, even a little._
 
-“Hey, Jaxon, you think these cabins got snacks?” Jin asked, his tone playful. “I’m starving, man. Bet we could charm some rations outta the officers, right?”
+“Hey, [[Jaxon Pyre|Jaxon]], you think these cabins got snacks?” [[Jin]] asked, his tone playful. “I’m starving, man. Bet we could charm some rations outta the officers, right?”
 
-Jaxon’s gaze flicked to him, flat and unamused. “They’re not here to feed us. They’re here to use us. Stay sharp.” His voice was cold, practical, but Jin caught a flicker of something deeper—loyalty, maybe, buried under all that ice. _Used to be somebody important,_ Jin thought, remembering Jaxon’s precise movements in the commotio, like a knight turned rogue.
+[[Jaxon Pyre|Jaxon]]’s gaze flicked to him, flat and unamused. “They’re not here to feed us. They’re here to use us. Stay sharp.” His voice was cold, practical, but [[Jin]] caught a flicker of something deeper—loyalty, maybe, buried under all that ice. _Used to be somebody important,_ [[Jin]] thought, remembering [[Jaxon Pyre|Jaxon]]’s precise movements in the commotio, like a knight turned rogue.
 
-Jin shrugged, undeterred. “Sharp’s my middle name, brother! But we gotta keep the vibes high, you know? Hey, check out this place!” They reached Cabin 32, a sleek pod with a reinforced door. Jin punched in the access code, the door hissing open to reveal a cramped interior: twenty seats, harnesses, a faint metallic tang in the air. He plopped into a seat near the front, stretching out. “This is home now! Time to meet the crew!”
+[[Jin]] shrugged, undeterred. “Sharp’s my middle name, brother! But we gotta keep the vibes high, you know? Hey, check out this place!” They reached Cabin 32, a sleek pod with a reinforced door. [[Jin]] punched in the access code, the door hissing open to reveal a cramped interior: twenty seats, harnesses, a faint metallic tang in the air. He plopped into a seat near the front, stretching out. “This is home now! Time to meet the crew!”
 
-Jaxon hesitated at the threshold, his eyes scanning the cabin like he was mapping a battlefield. The other recruits filing in—eighteen strangers, their faces a mix of nerves and bravado—barely registered. His mind was elsewhere, trapped in memories of a life he’d lost. _Annyla, I failed you._ He’d been a prince once, a knight sworn to protect, but that was before betrayal turned him into a thief, a shadow. The serum had sharpened his senses, but it also sharpened the guilt. He chose a seat at the back, sinking into it, his hands clenched. _Survive. Find her. That’s all that matters._
+[[Jaxon Pyre|Jaxon]] hesitated at the threshold, his eyes scanning the cabin like he was mapping a battlefield. The other recruits filing in—eighteen strangers, their faces a mix of nerves and bravado—barely registered. His mind was elsewhere, trapped in memories of a life he’d lost. _[[Annyla Fritz|Annyla]], I failed you._ He’d been a prince once, a knight sworn to protect, but that was before betrayal turned him into a thief, a shadow. The serum had sharpened his senses, but it also sharpened the guilt. He chose a seat at the back, sinking into it, his hands clenched. _Survive. Find her. That’s all that matters._
 
-Jin turned to a recruit settling in nearby, a stocky woman with a buzzcut. “Yo, you look like you could wrestle a bear! What’s your name?” His grin was infectious, and the woman couldn’t help but smile.
+[[Jin]] turned to a recruit settling in nearby, a stocky woman with a buzzcut. “Yo, you look like you could wrestle a bear! What’s your name?” His grin was infectious, and the woman couldn’t help but smile.
 
 “Rhea,” she said, her voice gruff but warm. “And you’re too damn cheerful for this shit.”
 
-“That’s my secret weapon!” Jin laughed, then pointed to another recruit, a nervous kid with glasses. “You, man, you got that brainy look. Bet you’re gonna outsmart the Rift, right?” The kid blushed, stammering a response, and Jin kept going, praising everyone he saw, his energy a beacon in the grim cabin.
+“That’s my secret weapon!” [[Jin]] laughed, then pointed to another recruit, a nervous kid with glasses. “You, man, you got that brainy look. Bet you’re gonna outsmart [[The Rift|Rift]]|the [[The Rift|Rift]], right?” The kid blushed, stammering a response, and [[Jin]] kept going, praising everyone he saw, his energy a beacon in the grim cabin.
 
 ---
 
-**Darius’s Cabin Assignment:**
+**[[Darius Kroll|Darius]]’s Cabin Assignment:**
 
-Darius strode toward Cabin 9, his bulk forcing recruits to part like water. The processing bay was a jungle, and he was the apex predator. _Westcrust made me this way._ He’d survived that hellhole by being smarter, stronger, meaner than anyone else, and this was just another game. The serum had amplified his strength, his muscles thrumming with power, but he didn’t trust Kaelion’s gifts. _Nothing’s free._ He’d play their game, but on his terms.
+[[Darius Kroll|Darius]] strode toward Cabin 9, his bulk forcing recruits to part like water. The processing bay was a jungle, and he was the apex predator. _[[Westcrust]] made me this way._ He’d survived that hellhole by being smarter, stronger, meaner than anyone else, and this was just another game. The serum had amplified his strength, his muscles thrumming with power, but he didn’t trust Kaelion’s gifts. _Nothing’s free._ He’d play their game, but on his terms.
 
-He sized up the recruits around him—most were weak, their eyes darting like prey. A few looked tougher, but none matched his presence. He caught sight of Jin and Jaxon heading to their cabin, Jin’s loudmouth act grating, Jaxon’s quiet intensity intriguing. _That one’s dangerous,_ Darius thought, filing it away. He’d keep an eye on him.
+He sized up the recruits around him—most were weak, their eyes darting like prey. A few looked tougher, but none matched his presence. He caught sight of [[Jin]] and [[Jaxon Pyre|Jaxon]] heading to their cabin, [[Jin]]’s loudmouth act grating, [[Jaxon Pyre|Jaxon]]’s quiet intensity intriguing. _That one’s dangerous,_ [[Darius Kroll|Darius]] thought, filing it away. He’d keep an eye on him.
 
-Cabin 9’s door hissed open, and Darius stepped inside, his gaze sweeping the space. Twenty seats, harnesses, the hum of machinery. The recruits already inside froze, their chatter dying. He smirked, savoring the fear. _Good. Know your place._ He chose a seat in the center, sprawling out, his eyes locking onto a skinny kid with a nervous tic. “You got a problem, twig?” Darius growled.
+Cabin 9’s door hissed open, and [[Darius Kroll|Darius]] stepped inside, his gaze sweeping the space. Twenty seats, harnesses, the hum of machinery. The recruits already inside froze, their chatter dying. He smirked, savoring the fear. _Good. Know your place._ He chose a seat in the center, sprawling out, his eyes locking onto a skinny kid with a nervous tic. “You got a problem, twig?” [[Darius Kroll|Darius]] growled.
 
 “N-No, sir,” the kid stammered, shrinking back.
 
-Darius chuckled, leaning back. _Easy._ His mind flicked to his daughter, her smile the only thing that kept him human. _This is for you, kiddo._ But he buried the thought, his face hardening. Sentiment was a weakness, and Darius Kroll didn’t do weak.
+Darius chuckled, leaning back. _Easy._ His mind flicked to his daughter, her smile the only thing that kept him human. _This is for you, kiddo._ But he buried the thought, his face hardening. Sentiment was a weakness, and [[Darius Kroll]] didn’t do weak.
 
 ---
 
@@ -180,11 +180,11 @@ Vex rolled her eyes. “Calm down, kid. You’re gonna burn out before we launch
 
 “Good luck with that,” Vex drawled, but her tone held a hint of amusement. Eric listened, half-smiling, but his eyes kept drifting to Lena. She hadn’t spoken, hadn’t looked at anyone, her posture rigid. _She’s shy,_ he realized, remembering how she’d stammered with the officer. _But she’s here, so she’s got guts._
 
-The silence in the cabin grew heavier, the hum of the systems the only sound. Eric’s mind raced—Ilsa, the serpent, the debt that had driven him here. He was drowning in it, and Lena’s quiet presence was the only thing keeping him anchored. Finally, she turned slightly, her blue eyes meeting his. Her voice was soft, polite, but steady. “You were in the commotio, weren’t you? With the… the creature.”
+The silence in the cabin grew heavier, the hum of the systems the only sound. Eric’s mind raced—[[Ilsa Ryzelia|Ilsa]], the serpent, the debt that had driven him here. He was drowning in it, and Lena’s quiet presence was the only thing keeping him anchored. Finally, she turned slightly, her blue eyes meeting his. Her voice was soft, polite, but steady. “You were in the commotio, weren’t you? With the… the creature.”
 
 Eric blinked, caught off guard. “Uh, yeah. I saw you there. You almost got—” He stopped, wincing. _Smooth, idiot._
 
-Lena’s cheeks pinked, but she nodded, her hands twisting in her lap. “Yes. It was… terrifying. But those men—Jin and Jaxon—they saved me. I owe them.” She paused, her voice dropping. “I’m Lena, by the way. I don’t think we’ve spoken.”
+Lena’s cheeks pinked, but she nodded, her hands twisting in her lap. “Yes. It was… terrifying. But those men—[[Jin]] and [[Jaxon Pyre|Jaxon]]—they saved me. I owe them.” She paused, her voice dropping. “I’m Lena, by the way. I don’t think we’ve spoken.”
 
 “Eric,” he said, his throat dry. “And, uh, no, we haven’t. I didn’t want to… you know, bother you.”
 
@@ -194,7 +194,7 @@ Her lips curved in a small, shy smile. “You’re not bothering me. It’s… n
 
 Lena’s flush deepened, but she nodded. “I was so embarrassed. I just… I didn’t think. I’m not used to all this.” She gestured vaguely at the cabin, the recruits, the uniforms. “But I have to do this. For my brother. He’s… he needs me to come back.”
 
-Eric nodded, understanding more than he could say. “Yeah. I’ve got my own reasons. Debts, mostly. And… someone I need to figure out.” He didn’t mention Ilsa, the words too raw, but Lena’s eyes softened, like she sensed the weight.
+Eric nodded, understanding more than he could say. “Yeah. I’ve got my own reasons. Debts, mostly. And… someone I need to figure out.” He didn’t mention [[Ilsa Ryzelia|Ilsa]], the words too raw, but Lena’s eyes softened, like she sensed the weight.
 
 “We’ll get through it,” she said quietly, her voice firm despite her shyness. “We have to.”
 
@@ -206,17 +206,17 @@ The cabin door hissed shut, sealing them in. The digital panel above flickered: 
 
 - Shift to the launch sequence, capturing Eric’s anxiety and Lena’s quiet resolve as the cabins are loaded onto the Space Whale.
 - Deepen Cabin 17’s dynamics, with Vex’s cynicism clashing with Toby’s jittery optimism, and Lena’s caring nature starting to draw others in.
-- Hint at Jaxon’s past as a noble knight in Cabin 32, showing his loyalty surfacing in a small, reluctant act of help toward Jin or another recruit.
-- Set up Darius in Cabin 9 as a wildcard, his predatory nature creating tension with his cabinmates.
+- Hint at [[Jaxon Pyre|Jaxon]]’s past as a noble knight in Cabin 32, showing his loyalty surfacing in a small, reluctant act of help toward [[Jin]] or another recruit.
+- Set up [[Darius Kroll|Darius]] in Cabin 9 as a wildcard, his predatory nature creating tension with his cabinmates.
 
 
 # Chapter 3: Cabin Trials and Soul Resonance
 
-The cabin’s steel walls pressed in, a claustrophobic cage of recycled air and humming machinery. Eric shifted, his harness biting into his soft shoulders, the ill-fitting uniform chafing his belly. The digital panel above the door glowed: 25:47 until launch. His heart pounded, a cocktail of dread and restless energy. Lena, two rows ahead, sat rigid, her blonde hair catching the dim light. Her polite silence since their brief exchange anchored him against the storm of his thoughts—Ilsa’s tearful _Please forgive me_, the serpent’s roar, the debt that chained him here.
+The cabin’s steel walls pressed in, a claustrophobic cage of recycled air and humming machinery. Eric shifted, his harness biting into his soft shoulders, the ill-fitting uniform chafing his belly. The digital panel above the door glowed: 25:47 until launch. His heart pounded, a cocktail of dread and restless energy. Lena, two rows ahead, sat rigid, her blonde hair catching the dim light. Her polite silence since their brief exchange anchored him against the storm of his thoughts—[[Ilsa Ryzelia|Ilsa]]’s tearful _Please forgive me_, the serpent’s roar, the debt that chained him here.
 
 Cabin 17’s recruits were a mosaic of nerves, bravado, and fatigue. Vex, purple hair glinting behind Eric, chewed gum with calculated nonchalance, her sharp eyes scanning the group. Toby, the curly-haired kid beside her, fidgeted, his earlier enthusiasm dulled. Gunnar, a burly man with a scarred brow, glowered across the aisle. Rhea, wiry and buzzcut, radiated authority. Simon, lanky and bespectacled, clutched his harness like a lifeline. Eighteen strangers, each haunted by their own ghosts. Eric’s gaze lingered on Lena, her hands clasped tightly. _She’s out of place_, he thought, recalling her shy apology to the officer, her terror in the commotio. _But so am I._
 
-A crackle from the intercom shattered the silence, a cold robotic voice replacing Negi-chan’s cartoonish cheer. “Attention, recruits. Before launch, all cabins will undergo a cooperative trial to assess tactical and combat adaptability via Kaelion’s holographic virtual reality system. Success ensures lunar expedition placement. Failure results in reassignment to permanent facility labor. Prepare for immersion.”
+A crackle from the intercom shattered the silence, a cold robotic voice replacing [[Negi-chan]]’s cartoonish cheer. “Attention, recruits. Before launch, all cabins will undergo a cooperative trial to assess tactical and combat adaptability via Kaelion’s holographic virtual reality system. Success ensures lunar expedition placement. Failure results in reassignment to permanent facility labor. Prepare for immersion.”
 
 The cabin buzzed with panic. Toby’s knee bounced wildly. “A combat trial? In VR? Are they insane? We’re strapped in!”
 
@@ -282,7 +282,7 @@ Lena shielded Rhea, staff shaking, her clumsy steps slowing her. A smaller beast
 
 Eric’s breath caught, Lena’s cry piercing him. His dread burned away, replaced by a surge—adrenaline, raw and primal. His sword felt lighter, his blood singing. _No one touches her._ He charged, no plan, no orders, just instinct. The beast reared, and Eric swung, rusted blade clumsy but driven. It grazed the beast, which turned, eyes on him.
 
-Ilsa’s voice whispered—_Feel the flow._ Eric’s hands moved, tracing patterns, his sword glowing like kindling fire, embers trailing, unnoticed in his frenzy. A pulse of energy surged, slamming the beast back, binding it. Eric’s chest seared, soul draining, but the pain fueled him. He laughed in his mind, a manic grin splitting his face. _Die._ He swung again, blade biting deep, pixels exploding as the beast dissolved.
+[[Ilsa Ryzelia|Ilsa]]’s voice whispered—_Feel the flow._ Eric’s hands moved, tracing patterns, his sword glowing like kindling fire, embers trailing, unnoticed in his frenzy. A pulse of energy surged, slamming the beast back, binding it. Eric’s chest seared, soul draining, but the pain fueled him. He laughed in his mind, a manic grin splitting his face. _Die._ He swung again, blade biting deep, pixels exploding as the beast dissolved.
 
 Lena stared, clutching her arm, alone with Eric as the squads were scattered. His grin, wild and unhinged, chilled her. _What’s happening to him?_ She saw the sword’s glow, fading as Eric panted, oblivious.
 
@@ -294,7 +294,7 @@ Lena scrambled up, grabbing her staff, fear choking her. She followed Rhea’s o
 
 Drones—sleek, pulse-armed—swarmed, targeting Rhea’s squad. Lena shielded, but a beam grazed her, simulating burns. She fell, gasping, staff slipping. Drones locked on, and Eric, distant, saw her collapse. His grin widened, bloodlust surging. _Not her._
 
-He charged, sword glowing like kindling fire, unnoticed in his rage. Ilsa’s voice surged—_Weave the air._ His hands traced patterns, a barrier flaring, drones crashing in sparks. Lena gasped, unharmed, staring at Eric’s manic grin, his glowing sword. _He’s… different._
+He charged, sword glowing like kindling fire, unnoticed in his rage. [[Ilsa Ryzelia|Ilsa]]’s voice surged—_Weave the air._ His hands traced patterns, a barrier flaring, drones crashing in sparks. Lena gasped, unharmed, staring at Eric’s manic grin, his glowing sword. _He’s… different._
 
 Eric collapsed, vision blackening, pain overwhelming, his essence drained. Lena crawled to him, tears in her eyes. “Eric, no! You saved me!” Her hands hovered, polite, fear mixing with awe. “How do you do that?”
 
@@ -326,15 +326,15 @@ Lena’s heart sank. _120 dreams crushed._ She watched Eric, pale, puzzled by hi
 
 **The Offer and the Thinning**
 
-Post-Negi-chan’s speech, the priestess spoke. “Recruits, an offer: join the base’s military, permanent, half pay, no Rift. Choose now.”
+Post-[[Negi-chan]]’s speech, the priestess spoke. “Recruits, an offer: join the base’s military, permanent, half pay, no [[The Rift|Rift]]. Choose now.”
 
-Some sighed in relief, others hesitated. Eric’s mind churned—debt, Ilsa’s vision, the serpent’s call. _I’m going._ He stayed, as did Lena, Jaxon, Jin, and Darius. 362 recruits remained.
+Some sighed in relief, others hesitated. Eric’s mind churned—debt, [[Ilsa Ryzelia|Ilsa]]’s vision, the serpent’s call. _I’m going._ He stayed, as did Lena, [[Jaxon Pyre|Jaxon]], [[Jin]], and [[Darius Kroll|Darius]]. 362 recruits remained.
 
 ---
 
 **Processing and Grouping**
 
-Recruits got grey uniforms, individuality stripped. Screens assigned 20-person cabins. Eric entered Cabin 17, meeting Vex, enthusiastic Toby, terrified Simon. Lena was in Cabin 12, separated. Jaxon, withdrawn, entered Cabin 32. Jin, optimistic, rallied his. Darius, in Cabin 9, eyed his peers.
+Recruits got grey uniforms, individuality stripped. Screens assigned 20-person cabins. Eric entered Cabin 17, meeting Vex, enthusiastic Toby, terrified Simon. Lena was in Cabin 12, separated. [[Jaxon Pyre|Jaxon]], withdrawn, entered Cabin 32. [[Jin]], optimistic, rallied his. [[Darius Kroll|Darius]], in Cabin 9, eyed his peers.
 
 ---
 
@@ -346,13 +346,13 @@ Cabins sealed, rails humming to launch points. Eric’s stomach lurched, countdo
 
 **Journey to the Moon & The Spectacle**
 
-Earth receded, a blue marble. Kaelion ships darted. The Moon loomed, Rift spewing iridescent liquid into the Sea of Void, colors hypnotic. The Whale neared the moon base, sleek, industrial, floating. Drones buzzed, a giant humanoid near the Rift, purpose unclear.
+Earth receded, a blue marble. Kaelion ships darted. The Moon loomed, Rift spewing iridescent liquid into the Sea of Void, colors hypnotic. The Whale neared the moon base, sleek, industrial, floating. Drones buzzed, a giant humanoid near [[The Rift|Rift]]|the [[The Rift|Rift]], purpose unclear.
 
 ---
 
 **Arrival and Transition**
 
-Cabins ejected into the docking bay, gravity steadying. Hangars echoed, air sharp. Officers and drones marshaled 362 recruits to the Attunement Hall. Eric saw Lena, her shy smile a relief, and glimpsed Jin’s grin, Darius’s scowl. The Hall loomed, machinery humming, a Valzvein noble—cloaked, imposing—watching.
+Cabins ejected into the docking bay, gravity steadying. Hangars echoed, air sharp. Officers and drones marshaled 362 recruits to the Attunement Hall. Eric saw Lena, her shy smile a relief, and glimpsed [[Jin]]’s grin, [[Darius Kroll|Darius]]’s scowl. The Hall loomed, machinery humming, a Valzvein noble—cloaked, imposing—watching.
 
 ---
 
@@ -364,40 +364,40 @@ Vex smirked. “Chubs went feral. Respect.”
 
 Toby grinned. “Epic squad!”
 
-Rhea nodded. “Rift’s tougher. Stay sharp.”
+Rhea nodded. “[[The Rift|Rift]]’s tougher. Stay sharp.”
 
 Lena’s smile trembled. “Together.” She watched Eric, his sword dull, his grin burned in her mind. _What’s inside you?_
 The countdown ticked: 15:22. The Rift waited, Lena vowing to watch Eric, who’d paid a cost he couldn’t grasp.
 
 ---
 
-**Jin and Jaxon’s Cabin 32 Trial:**
+**[[Jin]] and [[Jaxon Pyre|Jaxon]]’s Cabin 32 Trial:**
 
-Cabin 32 was a flurry of optimism, thanks to Jin. Their trial was bizarre—a holographic simulation of a collapsing lunar habitat, requiring the recruits to prioritize resources (oxygen, food, power) and assign roles to stabilize the structure. The catch: every choice impacted the others, and the habitat’s AI judged their ethics as much as their efficiency.
+Cabin 32 was a flurry of optimism, thanks to [[Jin]]. Their trial was bizarre—a holographic simulation of a collapsing lunar habitat, requiring the recruits to prioritize resources (oxygen, food, power) and assign roles to stabilize the structure. The catch: every choice impacted the others, and the habitat’s AI judged their ethics as much as their efficiency.
 
-Jin was in his element, his anime-protagonist energy infectious. “Alright, team, we got this!” he shouted, grabbing a tablet that controlled resource allocation. “Let’s save this habitat like it’s our home! Rhea, you’re good with systems—take power. Mara, you’re on oxygen. Jaxon, you’re the brain for strategy, right?”
+[[Jin]] was in his element, his anime-protagonist energy infectious. “Alright, team, we got this!” he shouted, grabbing a tablet that controlled resource allocation. “Let’s save this habitat like it’s our home! Rhea, you’re good with systems—take power. Mara, you’re on oxygen. [[Jaxon Pyre|Jaxon]], you’re the brain for strategy, right?”
 
-Jaxon’s eyes narrowed, his practical mind assessing the chaos. “We need to prioritize oxygen first. Power’s useless if we’re dead.” His tone was cold, but his logic was sound, a relic of his days as a noble knight, when lives depended on his decisions. Deep down, his loyalty stirred—he wouldn’t let these people fail, even if he didn’t care for them.
+[[Jaxon Pyre|Jaxon]]’s eyes narrowed, his practical mind assessing the chaos. “We need to prioritize oxygen first. Power’s useless if we’re dead.” His tone was cold, but his logic was sound, a relic of his days as a noble knight, when lives depended on his decisions. Deep down, his loyalty stirred—he wouldn’t let these people fail, even if he didn’t care for them.
 
-The recruits rallied, Jin’s praise keeping spirits high. “Mara, you’re killing it with those tanks! Rhea, you’re a power goddess!” He never boasted, never took credit, just lifted everyone up. Even Jaxon, despite his aloofness, found himself drawn in, his strategic calls precise, his hands steady on the tablet. The habitat stabilized, the AI approving their choices, and Cabin 32 passed with seconds to spare.
+The recruits rallied, [[Jin]]’s praise keeping spirits high. “Mara, you’re killing it with those tanks! Rhea, you’re a power goddess!” He never boasted, never took credit, just lifted everyone up. Even [[Jaxon Pyre|Jaxon]], despite his aloofness, found himself drawn in, his strategic calls precise, his hands steady on the tablet. The habitat stabilized, the AI approving their choices, and Cabin 32 passed with seconds to spare.
 
-Jin grinned, clapping Jaxon’s shoulder. “Told ya we’d crush it, brother! You’re a damn genius!” Jaxon nodded, a flicker of pride buried under his stoic mask. _For Annyla,_ he thought, his loyalty to his lost sister driving him forward.
+Jin grinned, clapping [[Jaxon Pyre|Jaxon]]’s shoulder. “Told ya we’d crush it, brother! You’re a damn genius!” [[Jaxon Pyre|Jaxon]] nodded, a flicker of pride buried under his stoic mask. _For [[Annyla Fritz|Annyla]],_ he thought, his loyalty to his lost sister driving him forward.
 
 ---
 
-**Darius’s Cabin 9 Trial:**
+**[[Darius Kroll|Darius]]’s Cabin 9 Trial:**
 
-Cabin 9’s trial was brutal—a physical simulation where recruits had to navigate a holographic obstacle course, passing supplies through hazards (fire, radiation, collapsing beams) to a “survivor” node. Cooperation was key, but Darius saw it as a chance to dominate. The other recruits were intimidated, their efforts disjointed, but a few—led by a grizzled woman named Karla—pushed back, demanding teamwork.
+Cabin 9’s trial was brutal—a physical simulation where recruits had to navigate a holographic obstacle course, passing supplies through hazards (fire, radiation, collapsing beams) to a “survivor” node. Cooperation was key, but [[Darius Kroll|Darius]] saw it as a chance to dominate. The other recruits were intimidated, their efforts disjointed, but a few—led by a grizzled woman named Karla—pushed back, demanding teamwork.
 
-“Move your ass, Kroll, or we’re all screwed!” Karla snapped, hauling a supply crate through a fire zone. Darius smirked, tossing a crate with ease, but his lone-wolf tactics disrupted the group’s rhythm. He didn’t care about the others, only his daughter’s future, but his strength was undeniable, carrying the team through sheer force.
+“Move your ass, Kroll, or we’re all screwed!” Karla snapped, hauling a supply crate through a fire zone. [[Darius Kroll|Darius]] smirked, tossing a crate with ease, but his lone-wolf tactics disrupted the group’s rhythm. He didn’t care about the others, only his daughter’s future, but his strength was undeniable, carrying the team through sheer force.
 
-The cabin passed, barely, thanks to Karla’s leadership and Darius’s raw power. He leaned back, smirking. “Told ya I’d get us through.” Karla glared, muttering, “You’re a liability, Kroll.” Darius just chuckled, his predatory edge sharper than ever.
+The cabin passed, barely, thanks to Karla’s leadership and [[Darius Kroll|Darius]]’s raw power. He leaned back, smirking. “Told ya I’d get us through.” Karla glared, muttering, “You’re a liability, Kroll.” [[Darius Kroll|Darius]] just chuckled, his predatory edge sharper than ever.
 
 ---
 
 **Aftermath in Cabin 17:**
 
-The cabin settled, the recruits’ relief tinged with exhaustion. Eric’s side was a dull ache now, but his head still spun, Ilsa’s technique a mystery he couldn’t grasp. Lena watched him, her shy concern growing. “You need a medic,” she said softly, her politeness unwavering. “Please, let me help you.”
+The cabin settled, the recruits’ relief tinged with exhaustion. Eric’s side was a dull ache now, but his head still spun, [[Ilsa Ryzelia|Ilsa]]’s technique a mystery he couldn’t grasp. Lena watched him, her shy concern growing. “You need a medic,” she said softly, her politeness unwavering. “Please, let me help you.”
 
 Eric shook his head, forcing a grin. “I’m good. Just… winded.” He wasn’t, but he didn’t want her worrying. _She’s got enough on her plate._
 
@@ -409,11 +409,11 @@ Rhea nodded, her stern face relaxing. “We did good. But don’t get cocky. The
 
 Lena’s smile was small but genuine. “We’ll face it together. That’s what matters.” Her words were a promise, and Eric clung to them, even as the pain in his side pulsed, a reminder of the cost he’d paid—a piece of himself, drained by a power he didn’t understand.
 
-The countdown ticked on: **15:22 until launch.** The moon loomed, and with it, the Rift. Eric didn’t know what waited, but he knew one thing: he’d saved Lena, and that made the pain worth it. For now.
+The countdown ticked on: **15:22 until launch.** The moon loomed, and with it, [[The Rift|Rift]]|the [[The Rift|Rift]]. Eric didn’t know what waited, but he knew one thing: he’d saved Lena, and that made the pain worth it. For now.
 
 **Suggestions for Continuation:**
 
 - Launch sequence, with Eric grappling with his injury and Lena’s growing curiosity about his abilities.
 - Cabin 17 bonding, with Lena’s caring nature fostering trust, contrasted by Vex’s cynicism and Toby’s enthusiasm.
-- Jaxon’s loyalty surfacing in Cabin 32, perhaps saving Jin from a minor mishap, hinting at his knightly past.
-- Darius asserting dominance in Cabin 9, setting up future conflicts with Karla or others.
+- [[Jaxon Pyre|Jaxon]]’s loyalty surfacing in Cabin 32, perhaps saving [[Jin]] from a minor mishap, hinting at his knightly past.
+- [[Darius Kroll|Darius]] asserting dominance in Cabin 9, setting up future conflicts with Karla or others.

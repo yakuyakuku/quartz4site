@@ -1,11 +1,11 @@
 
-**Chapter 2: The Child of the Rift**  
+**Chapter 2: The Child of [[The Rift|Rift]]|the [[The Rift|Rift]]**  
 
 The moon’s surface was a graveyard of jagged rock and glowing rifts, each one a wound in reality oozing black sludge. Sector X-9 was no different—a cavernous expanse of pulsating crystal and corroded machinery, where the air tasted like burnt copper and the ground squelched underfoot. You were alone, scrubbing sludge off the Array’s valves with a plasma torch that sputtered more than it burned.  
 
 Earlier, Kiri had mocked your sword in the Rust Yard, calling it a “toilet-scrubber blade” while sharpening her own dagger. Garrus, the hulking ex-dockworker, had said nothing but tossed you a dented canteen as he passed.  
 
-The sludge here was thicker, almost sentient. It writhed under the torch, hissing as it evaporated. You were halfway through your shift when the rift shuddered—a low, grinding groan, like tectonic plates screaming. Shadows detached from the walls. **Thedred.** Faceless humanoids, their bodies a shifting mass of sludge and fractured crystal. They moved in jerky unison, circling something on the cavern floor—a smaller figure, child-sized, its form flickering between solid and translucent. The Thedred didn’t attack. They *guarded*.  
+The sludge here was thicker, almost sentient. It writhed under the torch, hissing as it evaporated. You were halfway through your shift when [[The Rift|the rift]] shuddered—a low, grinding groan, like tectonic plates screaming. Shadows detached from the walls. **Thedred.** Faceless humanoids, their bodies a shifting mass of sludge and fractured crystal. They moved in jerky unison, circling something on the cavern floor—a smaller figure, child-sized, its form flickering between solid and translucent. The Thedred didn’t attack. They *guarded*.  
 
 You stood motionless, torch raised. The Thedred ignored you, their attention fixed on the Child. Its flickering form resolved for a moment—a girl in a tattered dress, eyes glowing blue. Then it dissolved back into light and shadow. You retreated, the sludge crunching under your boots.  
 
@@ -13,17 +13,17 @@ Back at the barracks, Kiri watched you from across the room, her dagger glinting
 
 You leaned forward. **“What *is* it?”**  
 
-Zev smirked. **“Quick cash for mercs. Nobles pay top credit for ’em—alive or dead. IVO denies it, but their database’s full of sightings. Military? Couldn’t care less.”**  
+Zev smirked. **“Quick cash for mercs. Nobles pay top credit for ’em—alive or dead. [[Interstellar Venture Organization|IVO]] denies it, but their database’s full of sightings. Military? Couldn’t care less.”**  
 
 Garrus sat nearby, polishing his “Lucky Wrench.” He nodded at your sword. **“Rusted junk. But junk’s better than nothing.”**  
 
 Kiri lingered by the exit. When you stepped outside, she blocked your path, pulling up her sleeve to reveal a tiny tattoo: a **black sun with nine rays**. **“I’m not one of them,”** she said flatly. **“But the Cult pays better than mercs. Tell me where the Child is.”**  
 
-You glanced at the tattoo, then back at her. **“Cute ink. You get that at the prison block? Or is it a ‘I heart the Void’ souvenir?”**  
+You glanced at the tattoo, then back at her. **“Cute ink. You get that at the prison block? Or is it a ‘I heart [[The Void|the Void]]’ souvenir?”**  
 
 Her jaw tightened. **“This isn’t a joke.”**  
 
-**“Could’ve fooled me.”** You shrugged. **“Look, if I knew where your glowing daycare project was, I’d sell the coordinates myself. But all I saw was sludge, teeth, and a lightshow. Maybe lay off the rift-dust, yeah?”**  
+**“Could’ve fooled me.”** You shrugged. **“Look, if I knew where your glowing daycare project was, I’d sell the coordinates myself. But all I saw was sludge, teeth, and a lightshow. Maybe lay off [[The Rift|the rift]]-dust, yeah?”**  
 
 Kiri’s dagger twitched. **“You’re hiding something.”**  
 
@@ -47,18 +47,18 @@ She let go and walked away, her boots clicking against the metal floor.
 
 | **Choice**                | **Immediate Consequence**                                                                 | **Long-Term Plot Hook**                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| **Double Down on Sarcasm** | Kiri storms off. Later, a mercenary slips you a note: *“Watch your back. She’s connected.”* | Black Sun Cult plants a tracker on you. Thedred attacks become more frequent.          |
-| **Feed False Intel**       | “It’s in Sector G-4.” Kiri’s allies waste time searching. She retaliates with sabotage.    | Mercenaries ambush you, demanding refunds. IVO intervenes, suspicious of your motives. |
+| **Double Down on Sarcasm** | Kiri storms off. Later, a mercenary slips you a note: *“Watch your back. She’s connected.”* | [[Black Sun Cult]] plants a tracker on you. Thedred attacks become more frequent.          |
+| **Feed False Intel**       | “It’s in Sector G-4.” Kiri’s allies waste time searching. She retaliates with sabotage.    | Mercenaries ambush you, demanding refunds. [[Interstellar Venture Organization|IVO]] intervenes, suspicious of your motives. |
 | **Play Coy**               | “Maybe I’ll trade… for that dagger.” Kiri refuses, but her curiosity grows.               | She shadows you during shifts. Discovers the Child’s location on her own.             |
-| **Gaslight**               | “Child? You mean the sludge rats? Yeah, saw a dozen.” Kiri doubts her own intel.          | The Black Sun Cult interrogates her for incompetence. She blames you.                 |
+| **Gaslight**               | “Child? You mean the sludge rats? Yeah, saw a dozen.” Kiri doubts her own intel.          | The [[Black Sun Cult]] interrogates her for incompetence. She blames you.                 |
 
 ---
 
 ### **Key NPCs & Factions**  
-- **Kiri**: Thief with a Black Sun tattoo. Seeks the Child for profit. Increasingly unhinged by your deflection.  
+- **Kiri**: Thief with a [[Black Sun Cult|Black Sun]] tattoo. Seeks the Child for profit. Increasingly unhinged by your deflection.  
 - **Zev**: Bartender. Amused by your antics. Offers cryptic advice: *“Keep pissing her off. It’s entertaining.”*  
 - **Garrus**: Snorts at your jokes but warns: *“Cults don’t forget insults.”*  
-- **Black Sun Cult**: Observes from afar. Marks you as “unpredictable.”  
+- **[[Black Sun Cult]]**: Observes from afar. Marks you as “unpredictable.”  
 
 ---
 
@@ -68,7 +68,7 @@ She let go and walked away, her boots clicking against the metal floor.
 3. **The Child Returns**: It appears during sludge duty, unguarded. Thedred are nowhere in sight.
 
 
-**Chapter 2: The Child of the Rift (Continued)**  
+**Chapter 2: The Child of [[The Rift|Rift]]|the [[The Rift|Rift]] (Continued)**  
 
 Kiri’s smirk faded as she turned away, her boots clicking against the metal floor. You watched her go, your hand instinctively brushing the hilt of your sword. The rusted blade felt heavier than usual, as if it sensed the tension in the air. You didn’t trust her—not with her dagger, not with her cult tattoo, and certainly not with her holier-than-thou attitude.  
 
@@ -108,16 +108,16 @@ She turned on her heel and walked away, her boots clicking against the metal flo
 |---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | **Report to Jarek**        | Jarek dismisses your complaint. **“Conscripts fight. Deal with it.”**                     | Kiri retaliates by sabotaging your shifts. Thedred attacks increase.                   |
 | **Threaten Kiri Again**    | “Next time, I won’t miss.” Kiri smirks, promising to test your reflexes again.            | She ambushes you during shifts, testing your skills. Thedred attacks increase.         |
-| **Mock Her Cult Ties**     | “Cults and daggers? Real original.” Kiri storms off, vowing revenge.                      | Black Sun Cult marks you as a target. Mercenaries harass you for information.          |
+| **Mock Her Cult Ties**     | “Cults and daggers? Real original.” Kiri storms off, vowing revenge.                      | [[Black Sun Cult]] marks you as a target. Mercenaries harass you for information.          |
 | **Play It Cool**           | “We’re done here.” Kiri watches you leave, her curiosity piqued.                         | She shadows you, trying to uncover your secrets. Discovers the Child on her own.       |
 
 ---
 
 ### **Key NPCs & Factions**  
-- **Kiri**: Thief with a Black Sun tattoo. Increasingly intrigued by your skills and sword.  
+- **Kiri**: Thief with a [[Black Sun Cult|Black Sun]] tattoo. Increasingly intrigued by your skills and sword.  
 - **Zev**: Bartender. Watches the confrontation from the bar. **“You’ve got guts. I like that.”**  
 - **Garrus**: Warns you later: **“Kiri doesn’t forget. Watch your back.”**  
-- **Black Sun Cult**: Observes from afar. Marks you as “unpredictable.”  
+- **[[Black Sun Cult]]**: Observes from afar. Marks you as “unpredictable.”  
 
 ---
 
@@ -132,7 +132,7 @@ The moon’s secrets grow darker, and Kiri’s curiosity grows sharper. What’s
 
 
 
-**Chapter 2: The Child of the Rift (Continued)**  
+**Chapter 2: The Child of [[The Rift|Rift]]|the [[The Rift|Rift]] (Continued)**  
 
 Kiri’s laughter echoed down the corridor as she walked away, her boots clicking against the metal floor. You watched her go, your grip tightening on the hilt of your sword. The rusted blade felt heavier than usual, as if it sensed the tension in the air. You didn’t trust her—not with her dagger, not with her cult tattoo, and certainly not with her holier-than-thou attitude.  
 
@@ -159,17 +159,17 @@ You stood there, your sword still in hand, the taste of adrenaline sharp on your
 | **Choice**                | **Immediate Consequence**                                                                 | **Long-Term Plot Hook**                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | **Threaten Her Back**      | “Next time, I won’t miss.” Kiri smirks, promising to test your reflexes again.            | She ambushes you during shifts, testing your skills. Thedred attacks increase.         |
-| **Mock Her Cult Ties**     | “Cults and daggers? Real original.” Kiri storms off, vowing revenge.                      | Black Sun Cult marks you as a target. Mercenaries harass you for information.          |
+| **Mock Her Cult Ties**     | “Cults and daggers? Real original.” Kiri storms off, vowing revenge.                      | [[Black Sun Cult]] marks you as a target. Mercenaries harass you for information.          |
 | **Play It Cool**           | “We’re done here.” Kiri watches you leave, her curiosity piqued.                         | She shadows you, trying to uncover your secrets. Discovers the Child on her own.       |
 | **Report to Jarek**        | Jarek dismisses your complaint. **“Conscripts fight. Deal with it.”**                     | Kiri retaliates by sabotaging your shifts. Thedred attacks increase.                   |
 
 ---
 
 ### **Key NPCs & Factions**  
-- **Kiri**: Thief with a Black Sun tattoo. Increasingly intrigued by your skills and sword.  
+- **Kiri**: Thief with a [[Black Sun Cult|Black Sun]] tattoo. Increasingly intrigued by your skills and sword.  
 - **Zev**: Bartender. Watches the confrontation from the bar. **“You’ve got guts. I like that.”**  
 - **Garrus**: Warns you later: **“Kiri doesn’t forget. Watch your back.”**  
-- **Black Sun Cult**: Observes from afar. Marks you as “unpredictable.”  
+- **[[Black Sun Cult]]**: Observes from afar. Marks you as “unpredictable.”  
 
 ---
 

@@ -32,7 +32,7 @@ The man beside you, **Garrus**, reeks of cheap synth-whiskey. He’s missing tw
 
 A woman shoves you into line. **Sergeant Ryn**, her face scarred by rift-radiation, snarls: **“You lot are meat for the grinder. But if the machine gives you a _good_ artifact, you might live a week longer. Pray it does.”**
 
-You’re herded into a hangar where a massive machine looms — the **Godhand Array**, a clawed arm fused with glowing alien crystal. Conscripts step forward one by one:
+You’re herded into a hangar where a massive machine looms — the **[[Godhand Array]]**, a clawed arm fused with glowing alien crystal. Conscripts step forward one by one:
 
 - A farmer’s hand emerges gripping a **broken rifle**. The screen flashes: **“TIER 3: COMBAT.”**Overseers cheer.
 - A clerk pulls out a **rotten book**. **“TIER 0: GARBAGE.”** He’s dragged away screaming.
@@ -43,7 +43,7 @@ Your turn. The machine’s claws clamp your wrist. Cold. Then — _pain_. Your 
 
 You wrench your arm back. The blade is rusted, chipped, unremarkable. The screen blares: **“TIER 0: GARBAGE. ASSIGN TO MAINTENANCE CORPS.”**
 
-Sergeant Ryn sighs. **“Should’ve died in the void, rookie. Now you’re on toilet-scrub duty.”**
+Sergeant Ryn sighs. **“Should’ve died in [[The Void|the void]], rookie. Now you’re on toilet-scrub duty.”**
 
 Sergeant Ryn sneers: **“A rusted pig-sticker. Fitting for a rusted pig.”**
 
@@ -58,9 +58,9 @@ You’re given a grimy jumpsuit and assigned to **Sector D-12**, a “stable”
 - **Vex**: A paranoid ex-engineer who mutters about **“the Black Protocols”** and **“nobles eating rift-flesh.”**
     
 
-Your job: Haul debris from the rift’s edge. The portal itself is a shimmering oval, oozing black sludge. **Overseer Jarek** (a Commoner with a gold-plated pistol) yells: **“No dawdling! And don’t touch the anomaly!”**
+Your job: Haul debris from [[The Rift|the rift]]’s edge. The portal itself is a shimmering oval, oozing black sludge. **Overseer Jarek** (a Commoner with a gold-plated pistol) yells: **“No dawdling! And don’t touch the anomaly!”**
 
-**“Welcome to the ass-end of the moon,”** he sneers. **“Your job is to scrape rift-slime off the Array’s intake valves. Touch anything classified, and I’ll feed you to the Glass Wolves.”**
+**“Welcome to the ass-end of the moon,”** he sneers. **“Your job is to scrape rift-slime off the Array’s intake valves. Touch anything classified, and I’ll feed you to the [[Glass Wolf]].”**
 
 You’re handed a corroded plasma torch and paired with two other rejects:
 
@@ -90,7 +90,7 @@ That night, Kiri drags you to a hidden alcove behind the waste processors. A fli
     
 - **Rumor 2:** Lady Veyra’s scientists are grafting artifacts onto nobles, turning them into “Voidborn.”
     
-- **Rumor 3:** Something called the **Weeping Star** is waking beneath the moon.
+- **Rumor 3:** Something called the **[[Weeping Star]]** is waking beneath the moon.
     
 
 Zev eyes your sword. **“Tier 0, huh? I’ll give you two painkillers for it.”** You shake your head. He laughs. **“Smart. Never know when garbage might save your life.”**
@@ -101,20 +101,20 @@ Days blur into sludge-scrubbing and ration packs. But in the silence of your bun
     
 - Your reflexes are sharper. Yesterday, you caught a falling wrench before it hit your head.
     
-- The Glass Wolves in Sector G-4 _watch you_ during patrols. Their crystalline eyes flicker when you pass.
+- The [[Glass Wolf]] in Sector G-4 _watch you_ during patrols. Their crystalline eyes flicker when you pass.
     
 
-One night, you’re cornered by a feral **Hollowed**—an Afflicted conscript with glowing veins and broken teeth. It lunges. You swing the sword on instinct—
+One night, you’re cornered by a feral **[[The Afflicted|Hollowed]]**—an Afflicted conscript with glowing veins and broken teeth. It lunges. You swing the sword on instinct—
 
 —and the blade _ignites_.
 
-A flicker of orange flame sears the Hollowed’s arm. It screeches and flees. The flame dies. The sword is rusted again.
+A flicker of orange flame sears the [[The Afflicted|Hollowed]]’s arm. It screeches and flees. The flame dies. The sword is rusted again.
 
 But Overseer Jarek’s surveillance drone saw everything.
 
 **Scene 7: Overseer’s Ire**
 
-A pneumatic door slams open before dawn. Two mech-guards drag you to **Overseer Jarek’s office**, a claustrophobic cube of flickering holograms and dented steel. The wallscreen replays grainy footage of your encounter with the Hollowed—the sword’s flame a blurry orange smear, the creature’s screech distorted to static.
+A pneumatic door slams open before dawn. Two mech-guards drag you to **Overseer Jarek’s office**, a claustrophobic cube of flickering holograms and dented steel. The wallscreen replays grainy footage of your encounter with the [[The Afflicted|Hollowed]]—the sword’s flame a blurry orange smear, the creature’s screech distorted to static.
 
 Jarek leans back in his chair, boots on the desk, gold-plated pistol disassembled for cleaning. He doesn’t look up.
 
@@ -128,7 +128,7 @@ He tosses a data-slug onto the desk. The hologram shifts to a map of **Sector X
 
 **“Scouting team went dark there yesterday. You’re joining the replacement crew. Find out why. And if you see anything… _strange_…”** He levels the pistol at your temple. **“Scream loud.”**
 
-**Scene 8: The Black Sun’s Mark**
+**Scene 8: The [[Black Sun Cult|Black Sun]]’s Mark**
 
 You’re shoved into a dropship with five other conscripts. Kiri’s among them, her dagger hidden under frayed sleeves. The rift’s entrance looms—a vertical tear in the moon’s surface, oozing dark liquid like an infected wound.
 
@@ -142,39 +142,39 @@ A shadow shifts.
 
 You turn. Etched into the cavern wall is a symbol: a black sun with nine rays, dripping fresh sludge.
 
-Kiri pales. **“Black Sun Cult. We need to leave. _Now._”**
+Kiri pales. **“[[Black Sun Cult]]. We need to leave. _Now._”**
 
 The sword’s hilt burns.
 
 **Scene 9: Adrenaline and Shadows**  
 
-You step toward the Black Sun symbol, sword in hand. The blade feels heavier, but there’s no flame—just a dull ache in your palm, as if the hilt is vibrating with your own pulse. Kiri grabs your arm. **“Are you insane? That symbol means *death*.”** You shake her off.  
+You step toward the [[Black Sun Cult|Black Sun]] symbol, sword in hand. The blade feels heavier, but there’s no flame—just a dull ache in your palm, as if the hilt is vibrating with your own pulse. Kiri grabs your arm. **“Are you insane? That symbol means *death*.”** You shake her off.  
 
 Up close, the sludge oozing from the symbol smells like burnt hair. The sword’s edge brushes the wall—  
 
 —and the sludge *recoils*. Not dramatically, but enough to notice. A faint hiss, like water hitting a hot pan. Kiri stares. **“Did you…?”**  
 
-Before she finishes, the ground trembles. Cracks spiderweb across the cavern floor. From the fissures, **Hollowed** claw their way out—six of them, their translucent skin glowing sickly blue, jaws unhinged.  
+Before she finishes, the ground trembles. Cracks spiderweb across the cavern floor. From the fissures, **[[The Afflicted|Hollowed]]** claw their way out—six of them, their translucent skin glowing sickly blue, jaws unhinged.  
 
 You raise the sword. Nothing happens. No flame, no surge of power. Just rusted metal.  
 
-But your heart hammers. Sweat drips into your eyes. The nearest Hollowed lunges. You swing blindly—  
+But your heart hammers. Sweat drips into your eyes. The nearest [[The Afflicted|Hollowed]] lunges. You swing blindly—  
 
-—and the blade *clangs* against its crystalline claws. The impact sends a jolt up your arm. The Hollowed screeches, but it’s not hurt. Just angry.  
+—and the blade *clangs* against its crystalline claws. The impact sends a jolt up your arm. The [[The Afflicted|Hollowed]] screeches, but it’s not hurt. Just angry.  
 
 Kiri stabs hers in the throat with her dagger. Garrus bashes another with his wrench. The others close in.  
 
-You backpedal, sword trembling in your grip. Adrenaline sharpens your senses—the Hollowed’s movements slow, just enough. You duck a swipe, slash at its legs. The blade bites, but barely. Black blood oozes.  
+You backpedal, sword trembling in your grip. Adrenaline sharpens your senses—the [[The Afflicted|Hollowed]]’s movements slow, just enough. You duck a swipe, slash at its legs. The blade bites, but barely. Black blood oozes.  
 
 Then, a flicker.  
 
-For a split second, the sword’s edge glows orange. The Hollowed flinches. You press the advantage, driving it back. But the flame dies as quickly as it came.  
+For a split second, the sword’s edge glows orange. The [[The Afflicted|Hollowed]] flinches. You press the advantage, driving it back. But the flame dies as quickly as it came.  
 
-By the time the mech-guards arrive (late, *conveniently* late), the Hollowed are retreating. Kiri’s bleeding from a gash on her cheek. Garrus’ wrench is bent. Your sword is rusted, mundane.  
+By the time the mech-guards arrive (late, *conveniently* late), the [[The Afflicted|Hollowed]] are retreating. Kiri’s bleeding from a gash on her cheek. Garrus’ wrench is bent. Your sword is rusted, mundane.  
 
 Overseer Jarek reviews the footage later. No flame. Just a conscript flailing with scrap metal.  
 
-**“Pathetic,”** he sneers. **“But you survived. Guess the Void likes its jokes.”**  
+**“Pathetic,”** he sneers. **“But you survived. Guess [[The Void|the Void]] likes its jokes.”**  
 
 Your punishment: **Nightshift sludge-scrubbing**, alone.  
 
@@ -183,13 +183,13 @@ Your punishment: **Nightshift sludge-scrubbing**, alone.
 ### **Consequences**  
 - **Kiri’s Distrust**: She avoids you, whispering with other conscripts. **“That sword’s cursed. Almost got us killed.”**  
 - **Garrus’ Curiosity**: He slides you a smuggled energy bar. **“Saw that flicker. Don’t let Jarek notice.”**  
-- **The Black Sun’s Eye**: The cult’s symbol appears again—this time, scrawled on your bunk wall in sludge.  
+- **The [[Black Sun Cult|Black Sun]]’s Eye**: The cult’s symbol appears again—this time, scrawled on your bunk wall in sludge.  
 
 ---
 
 **Next Scene: Nightshift in Sector X-9**  
 
-Alone, you scrub sludge in the rift’s gloom. The sword strapped to your back feels colder than usual.  
+Alone, you scrub sludge in [[The Rift|the rift]]’s gloom. The sword strapped to your back feels colder than usual.  
 
 Then—  
 
@@ -197,13 +197,13 @@ A whisper. Not the sword. The *walls*.
 
 **“Burn… them…”**  
 
-You turn. The sludge you just cleaned is reforming into the Black Sun symbol. The sword’s hilt sears your palm.  
+You turn. The sludge you just cleaned is reforming into the [[Black Sun Cult|Black Sun]] symbol. The sword’s hilt sears your palm.  
 
-Suddenly, the rift shudders. A figure steps from the shadows—not a Hollowed. A **lucid Abyss Walker**, skin cracked and glowing, eyes like dying stars.  
+Suddenly, [[The Rift|the rift]] shudders. A figure steps from the shadows—not a [[The Afflicted|Hollowed]]. A **lucid [[Abyss Walker]]**, skin cracked and glowing, eyes like dying stars.  
 
 **“The Flame… returns,”** it rasps. **“But you are not ready. *She* is coming.”**  
 
-Behind it, the sludge peels back, revealing a hidden passage deeper into the rift.  
+Behind it, the sludge peels back, revealing a hidden passage deeper into [[The Rift|the rift]].  
 
 Kiri slides into the bench across from you, her dagger tapping the table. **“Heard you had a fun nightshift. Saw anything… _glowy_?”** Her tone is mocking, but her eyes dart to your sword.
 
@@ -219,33 +219,33 @@ The blue-skinned creature screeched and shook, its head facing downward, trembli
 
 _"Plrasr... Plrasr... Hrlp..... Plrasr..."_
 
-Eric, still observing the creature, did nothing—he neither approached it nor made any movement, his eyes fixated on the scene. Suddenly, the creature lifted its head in Eric's direction, and then he saw it—its face. Surprisingly, it looked like a... human. They exchanged glances. The creature's eyes were filled with a deep, dark blue color, the pupils covering almost the entire surface of its eyes. Eric moved his head slightly forward, narrowed his eyes for a second, then pulled back.
+[[Eric Rossvolt|Eric]], still observing the creature, did nothing—he neither approached it nor made any movement, his eyes fixated on the scene. Suddenly, the creature lifted its head in [[Eric Rossvolt|Eric]]'s direction, and then he saw it—its face. Surprisingly, it looked like a... human. They exchanged glances. The creature's eyes were filled with a deep, dark blue color, the pupils covering almost the entire surface of its eyes. [[Eric Rossvolt|Eric]] moved his head slightly forward, narrowed his eyes for a second, then pulled back.
 
-The creature moved its hand and mouth, its left hand shaking. With all the crystals embedded in its body, its movement was slow and heavy. It opened its hand as if reaching out to Eric, and once again, it uttered:
-
-_"Plrasr... Plrasr... Hrlp..... Plrasr..."_
-
-Eric, surprised for a second, tried to move his hand forward to answer the creature’s gesture, but then he stopped and slowly retracted it. Suddenly, the sea beneath them began to shake violently, the water moving chaotically in every direction, causing waves to rise. Eric almost lost his balance. The creature still reached out its hand toward him. Eric opened his hand again and began to step forward toward the creature. But then, a deep roar came from below the water. Instinctively, Eric looked down. From the depths, a massive shadow was approaching the surface. As Eric lifted his head back up to face the creature, a wave had already separated them. The creature screeched again, this time louder.
+The creature moved its hand and mouth, its left hand shaking. With all the crystals embedded in its body, its movement was slow and heavy. It opened its hand as if reaching out to [[Eric Rossvolt|Eric]], and once again, it uttered:
 
 _"Plrasr... Plrasr... Hrlp..... Plrasr..."_
 
-Then, from the depths, something enormous and blazingly fast surged toward the surface. The creature cried out—a sound of pure anguish. From below, a colossal entity lunged upward, erupting with tidal waves and sending the creature soaring into the sky. For a split second, before the waves obstructed Eric’s view, he saw an enormous jaw with colossal teeth. The creature screamed even louder. This time, Eric clearly heard its desperate plea—not just for help, but for salvation. But before he could react, he was washed away by the wave. A second later, what had emerged from the depths became fully visible.
+[[Eric Rossvolt|Eric]], surprised for a second, tried to move his hand forward to answer the creature’s gesture, but then he stopped and slowly retracted it. Suddenly, the sea beneath them began to shake violently, the water moving chaotically in every direction, causing waves to rise. [[Eric Rossvolt|Eric]] almost lost his balance. The creature still reached out its hand toward him. [[Eric Rossvolt|Eric]] opened his hand again and began to step forward toward the creature. But then, a deep roar came from below the water. Instinctively, [[Eric Rossvolt|Eric]] looked down. From the depths, a massive shadow was approaching the surface. As [[Eric Rossvolt|Eric]] lifted his head back up to face the creature, a wave had already separated them. The creature screeched again, this time louder.
+
+_"Plrasr... Plrasr... Hrlp..... Plrasr..."_
+
+Then, from the depths, something enormous and blazingly fast surged toward the surface. The creature cried out—a sound of pure anguish. From below, a colossal entity lunged upward, erupting with tidal waves and sending the creature soaring into the sky. For a split second, before the waves obstructed [[Eric Rossvolt|Eric]]’s view, he saw an enormous jaw with colossal teeth. The creature screamed even louder. This time, [[Eric Rossvolt|Eric]] clearly heard its desperate plea—not just for help, but for salvation. But before he could react, he was washed away by the wave. A second later, what had emerged from the depths became fully visible.
 
 It rose slowly—an impossibly large body stretching from the sea into the starry skies. It looked like a serpent, its deep blue jade-like scales reflecting the light from the scene. Its head was massive, and its eyes shone a bright red, radiating an aura of immense power—a primal force that seemed to warp and tense the very air around it.
 
-The creature was about to be devoured by the serpent. Eric, standing at a distance, could still see it reaching out toward him. This was it—the creature was going to be consumed.
+The creature was about to be devoured by the serpent. [[Eric Rossvolt|Eric]], standing at a distance, could still see it reaching out toward him. This was it—the creature was going to be consumed.
 
 _"This is it. This is the acceptance. You must accept fate."_
 
-The voices echoed in Eric’s mind as time seemed to slow down. Then, his past flashed before his eyes.
+The voices echoed in [[Eric Rossvolt|Eric]]’s mind as time seemed to slow down. Then, his past flashed before his eyes.
 
 ---
 
-It was the time when he was working as an assistant researcher at the academy. There was a girl, another assistant working under a professor. Her name was Ilsa. I often talked and had conversations with her because we shared the same break time. She often told me interesting things—about dreams and the inner mind. She once said that on Earth-2, scientists had discovered that one could alter the outcome of mind-bending or mind-affecting phenomena simply by altering their mindset. By using suggestion and belief, they could literally change how things affected them mentally. I argued with her.
+It was the time when he was working as an assistant researcher at the academy. There was a girl, another assistant working under a professor. Her name was [[Ilsa Ryzelia|Ilsa]]. I often talked and had conversations with her because we shared the same break time. She often told me interesting things—about dreams and the inner mind. She once said that on [[Earth-2]], scientists had discovered that one could alter the outcome of mind-bending or mind-affecting phenomena simply by altering their mindset. By using suggestion and belief, they could literally change how things affected them mentally. I argued with her.
 
 _"Well, even if we could alter it, what would it be useful for?"_ I asked, skeptical.
 
-_"It could theoretically protect us from mind-eaters, mind-altering substances, or even help us cope with pain... from things we want to forget,"_ Ilsa replied enthusiastically.
+_"It could theoretically protect us from mind-eaters, mind-altering substances, or even help us cope with pain... from things we want to forget,"_ [[Ilsa Ryzelia|Ilsa]] replied enthusiastically.
 
 _"Hahaha, well, I don’t know what’s wilder—your theory or your imagination,"_ I chuckled when she finished speaking.
 
@@ -257,9 +257,9 @@ _"Sure! Meet me after you’re done with your work. We’ll try the method so yo
 
 _"Alright,"_ I replied, having no expectations whatsoever.
 
-We conducted an experiment to enhance my mental fortitude by making me control my dreams. According to her research—and the paper she had from Earth-2, published by scientists—this was the first step to controlling one's mental state. At first, I thought it was nonsense. But after a month, I started to notice a difference in how I perceived my dreams. I could control them, just as she described. I could shape them into whatever I desired. That’s when I started taking the experiment seriously.
+We conducted an experiment to enhance my mental fortitude by making me control my dreams. According to her research—and the paper she had from [[Earth-2]], published by scientists—this was the first step to controlling one's mental state. At first, I thought it was nonsense. But after a month, I started to notice a difference in how I perceived my dreams. I could control them, just as she described. I could shape them into whatever I desired. That’s when I started taking the experiment seriously.
 
-_"I can’t believe this is actually working. Did you test it on yourself before?"_ I asked Ilsa.
+_"I can’t believe this is actually working. Did you test it on yourself before?"_ I asked [[Ilsa Ryzelia|Ilsa]].
 
 _"Of course! Fufufu~ I was leagues ahead of you!"_ she said, smirking with a smug grin.
 
@@ -283,7 +283,7 @@ _"Sounds interesting. I’ll keep it in mind. Let me treat you to a meal as than
 
 _"Now that’s some gratitude! Hehehe, I’ll take your offer!"_
 
-From then on, we continued to chat during our breaks at the academy. I was in the Department of Philosophy and Metaphysics—often criticized as a waste of funding—but I didn’t complain. Free money, free knowledge. Ilsa, on the other hand, was in the Research Department of the Mind. She often worked closely with a famous professor, Hugo Kaelion—a noble, surprisingly teaching at our university on Earth-1. Ilsa frequently praised him and mentioned how she received Earth-2 research papers from him. That explained how she got her hands on such advanced studies. Months after the experiment we did together, I still saw her here and there, but the frequency became less than usual. Soon after, it started to become even rarer—I would only see her passing by my department, her face sunken as if she had overworked herself. I tried to catch up with her, hoping to ask if we could talk again sometime in the future, but to no avail—she kept avoiding me.
+From then on, we continued to chat during our breaks at the academy. I was in the Department of Philosophy and Metaphysics—often criticized as a waste of funding—but I didn’t complain. Free money, free knowledge. [[Ilsa Ryzelia|Ilsa]], on the other hand, was in the Research Department of the Mind. She often worked closely with a famous professor, [[Hugo Kaelion]]—a noble, surprisingly teaching at our university on [[Earth-1]]. [[Ilsa Ryzelia|Ilsa]] frequently praised him and mentioned how she received [[Earth-2]] research papers from him. That explained how she got her hands on such advanced studies. Months after the experiment we did together, I still saw her here and there, but the frequency became less than usual. Soon after, it started to become even rarer—I would only see her passing by my department, her face sunken as if she had overworked herself. I tried to catch up with her, hoping to ask if we could talk again sometime in the future, but to no avail—she kept avoiding me.
 
 After a while, I finally met her in the corridor of the campus. She didn’t seem to anticipate this encounter; she looked surprised to see me. It was kind of weird, but I didn’t think much of it at the time, so I approached her and asked,
 
@@ -291,7 +291,7 @@ After a while, I finally met her in the corridor of the campus. She didn’t see
 
 She was unresponsive, shaking, and avoiding eye contact with me.
 
-**"Uh... Ilsa? You okay?"**
+**"Uh... [[Ilsa Ryzelia|Ilsa]]? You okay?"**
 
 **"Uh... Yes... I'm good. I have something to do. Bye."**
 
@@ -307,7 +307,7 @@ Just then, Professor Hugo appeared at the end of the corridor. She lunged into h
 
 **"Huh, weird. I guess she just doesn’t want to see me anymore?"**
 
-I thought nothing of it and just moved on. Not long after my work hours ended, I packed up my things to go home, but this time, I was in the mood to wander around campus to clear my mind. When I passed by the Research of the Mind department, I looked around to see if Ilsa was still there—just to see her one last time before leaving. I wasn’t sure why I did this, but once again, something unexpected happened.
+I thought nothing of it and just moved on. Not long after my work hours ended, I packed up my things to go home, but this time, I was in the mood to wander around campus to clear my mind. When I passed by the Research of the Mind department, I looked around to see if [[Ilsa Ryzelia|Ilsa]] was still there—just to see her one last time before leaving. I wasn’t sure why I did this, but once again, something unexpected happened.
 
 As I neared her research room, which she shared with Hugo, I heard voices coming from inside.
 
@@ -323,7 +323,7 @@ Home? Where was he from?
 
 Hugo’s voice was steady, but there was an edge to it. **"She’s not going anywhere. Not yet."**
 
-I couldn't see Ilsa from my position, but I swore I heard a faint, shaky breath—like someone struggling to stay composed.
+I couldn't see [[Ilsa Ryzelia|Ilsa]] from my position, but I swore I heard a faint, shaky breath—like someone struggling to stay composed.
 
 The stranger laughed again. **"Hah! So possessive. Relax, Doc. No need to get all territorial. I'm just saying, if you ever change your mind... we’d be happy to take her off your hands."**
 
@@ -349,29 +349,29 @@ The door swung open.
 
 Here's Version 2 of the vision scene again, incorporating all the previous revisions:
 
-Eric stands on the water, the blue-skinned creature reaching out to him. From the depths, something vast and ancient begins to stir. The creature, sensing the danger, cries out, a sound of pure anguish.
+[[Eric Rossvolt|Eric]] stands on the water, the blue-skinned creature reaching out to him. From the depths, something vast and ancient begins to stir. The creature, sensing the danger, cries out, a sound of pure anguish.
 
-But Eric doesn't hear it. He doesn't see the creature's fear. His eyes are fixed on the colossal form rising from the sea, and a thrill courses through him, a feeling he hasn't experienced since he was a child, lost in the pages of adventure stories. This is it. This is the adventure he always craved, the challenge he yearned for. Fear is gone, replaced by a surge of exhilaration.
+But [[Eric Rossvolt|Eric]] doesn't hear it. He doesn't see the creature's fear. His eyes are fixed on the colossal form rising from the sea, and a thrill courses through him, a feeling he hasn't experienced since he was a child, lost in the pages of adventure stories. This is it. This is the adventure he always craved, the challenge he yearned for. Fear is gone, replaced by a surge of exhilaration.
 
-A grin spreads across Eric’s face, a genuine smile of pure joy. He clenches his fists, not in protection, but in anticipation. He's not thinking about the creature, not about the danger. He's thinking about the fight.
+A grin spreads across [[Eric Rossvolt|Eric]]’s face, a genuine smile of pure joy. He clenches his fists, not in protection, but in anticipation. He's not thinking about the creature, not about the danger. He's thinking about the fight.
 
-The monstrous shape lunges, its jaws agape. Eric, fueled by adrenaline and a primal instinct he never knew he possessed, throws himself at the colossal serpent. He's not trying to protect the creature. He's trying to _fight_. He sees the monstrous form's attack not as a threat, but as an invitation.
+The monstrous shape lunges, its jaws agape. [[Eric Rossvolt|Eric]], fueled by adrenaline and a primal instinct he never knew he possessed, throws himself at the colossal serpent. He's not trying to protect the creature. He's trying to _fight_. He sees the monstrous form's attack not as a threat, but as an invitation.
 
 He dodges the snapping jaws, his movements surprisingly agile, driven by a newfound ferocity. He lands a blow on the creature’s scaled hide, a tiny strike against an immense foe, but the feeling of impact, the raw power of the creature, only fuels his excitement.
 
-"C'MON SNAKE!" Eric shouts, his voice echoing across the surreal landscape. "I CAME HERE TO DANCE WITH DEATH ITSELF! IF YOU CAN'T EVEN KILL THIS LAME-ASS MAN, YOU CAN'T EVEN CALL YOURSELF A SEA MONSTER!!"
+"C'MON SNAKE!" [[Eric Rossvolt|Eric]] shouts, his voice echoing across the surreal landscape. "I CAME HERE TO DANCE WITH DEATH ITSELF! IF YOU CAN'T EVEN KILL THIS LAME-ASS MAN, YOU CAN'T EVEN CALL YOURSELF A SEA MONSTER!!"
 
-The colossal serpent, seemingly enraged by Eric's taunts, lets out a deafening roar, a sound that shakes the very foundations of the vision. 
+The colossal serpent, seemingly enraged by [[Eric Rossvolt|Eric]]'s taunts, lets out a deafening roar, a sound that shakes the very foundations of the vision. 
 
-It charges again, its movements faster, more ferocious than before. Eric laughs, a sound of pure, unadulterated joy. He’s in a state of nirvana, lost in the moment, oblivious to everything but the battle. He’s not a scholar anymore, not a timid recruit. He’s a warrior, a predator, a force of nature.
+It charges again, its movements faster, more ferocious than before. [[Eric Rossvolt|Eric]] laughs, a sound of pure, unadulterated joy. He’s in a state of nirvana, lost in the moment, oblivious to everything but the battle. He’s not a scholar anymore, not a timid recruit. He’s a warrior, a predator, a force of nature.
 
-"Is that all you got, fish-face?!" Eric yells, dodging another attack. "My grandma hits harder than that! You call _that_ a sea monster?! I've seen scarier goldfish!"
+"Is that all you got, fish-face?!" [[Eric Rossvolt|Eric]] yells, dodging another attack. "My grandma hits harder than that! You call _that_ a sea monster?! I've seen scarier goldfish!"
 
-The colossal serpent roars again, its fury palpable. It seems to understand the taunts, to recognize the challenge in Eric's words. It's a battle of wills now, a clash of egos as much as physical power. Eric smiles, a wild, almost manic grin. The colossal serpent, as if mirroring Eric's exhilaration, lets out another earth-shattering roar, a scream of pure, primal aggression, a sound that celebrates the glorious fight.
+The colossal serpent roars again, its fury palpable. It seems to understand the taunts, to recognize the challenge in [[Eric Rossvolt|Eric]]'s words. It's a battle of wills now, a clash of egos as much as physical power. [[Eric Rossvolt|Eric]] smiles, a wild, almost manic grin. The colossal serpent, as if mirroring [[Eric Rossvolt|Eric]]'s exhilaration, lets out another earth-shattering roar, a scream of pure, primal aggression, a sound that celebrates the glorious fight.
 
-The creature, caught between the battling titans, screams in terror. It’s a high-pitched, desperate cry for help, a plea for mercy. It flails in the water, trying to escape the churning currents created by the colossal serpent's movements, but it can't. Though it cannot drown, the waves wash over it, pulling it this way and that, a small, insignificant figure caught in a cosmic struggle. "Stop!" it cries, its voice barely audible above the roar of the serpent. "Please… stop!" It reaches out towards Eric, a gesture of desperate pleading, but Eric ignores it, his attention completely consumed by the monstrous shape. The creature's cries become distorted, unintelligible, a desperate plea lost in the chaos.
+The creature, caught between the battling titans, screams in terror. It’s a high-pitched, desperate cry for help, a plea for mercy. It flails in the water, trying to escape the churning currents created by the colossal serpent's movements, but it can't. Though it cannot drown, the waves wash over it, pulling it this way and that, a small, insignificant figure caught in a cosmic struggle. "Stop!" it cries, its voice barely audible above the roar of the serpent. "Please… stop!" It reaches out towards [[Eric Rossvolt|Eric]], a gesture of desperate pleading, but [[Eric Rossvolt|Eric]] ignores it, his attention completely consumed by the monstrous shape. The creature's cries become distorted, unintelligible, a desperate plea lost in the chaos.
 
-As Eric and the colossal serpent clash in his mind, back in the medical bay, Eric’s physical body begins to tremble. The machine monitoring his vitals displays a series of erratic readings, flashing warnings. But it’s not a simple error message, not a sign of the serum failing or overwhelming him. The tablet connected to the machine displays a contradictory message: “Injection Successful. Antibody Integration in Progress… _Stabilized_.” The readings are fluctuating wildly, the machine struggling to reconcile the successful injection with the ongoing, but seemingly stalled, antibody integration. The word "Stabilized" flickers on the screen, then disappears, reappearing a moment later.
+As [[Eric Rossvolt|Eric]] and the colossal serpent clash in his mind, back in the medical bay, [[Eric Rossvolt|Eric]]’s physical body begins to tremble. The machine monitoring his vitals displays a series of erratic readings, flashing warnings. But it’s not a simple error message, not a sign of the serum failing or overwhelming him. The tablet connected to the machine displays a contradictory message: “Injection Successful. Antibody Integration in Progress… _Stabilized_.” The readings are fluctuating wildly, the machine struggling to reconcile the successful injection with the ongoing, but seemingly stalled, antibody integration. The word "Stabilized" flickers on the screen, then disappears, reappearing a moment later.
 
 "What's happening?" the medic asks, his voice laced with confusion. "The machine… it's never done this before."
 
@@ -381,6 +381,6 @@ The first medic turns to the priestess, a look of concern on his face. "Have you
 
 The priestess, her face pale, shakes her head. "No," she whispers, her voice filled with a hint of panic. "This is unprecedented. The serum… it's supposed to… it's supposed to eliminate the… the other."
 
-Meanwhile, in Eric's mind, the battle rages on. He keeps the colossal serpent at bay, his movements fueled by an almost manic energy. The creature, caught between the battling titans, screams, its cries now unintelligible, distorted by fear and pain. It tries to communicate, to warn them, but both Eric and the colossal serpent ignore it, locked in their own private struggle.
+Meanwhile, in [[Eric Rossvolt|Eric]]'s mind, the battle rages on. He keeps the colossal serpent at bay, his movements fueled by an almost manic energy. The creature, caught between the battling titans, screams, its cries now unintelligible, distorted by fear and pain. It tries to communicate, to warn them, but both [[Eric Rossvolt|Eric]] and the colossal serpent ignore it, locked in their own private struggle.
 
-Just as the colossal serpent is about to strike, the vision fades. Eric is back in the medical bay. He feels the echo of the fight, the adrenaline still coursing through him. He knows, deep down, that the battle isn't over. It's just begun. He feels the change the serum has brought, a power he now understands he craves. He's ready for whatever comes next. The machine, its readings stabilizing, now displays a single, unambiguous message: "Serum Accepted. Subject Stable." But the medic and the priestess exchange uneasy glances. They know something is different about Eric. Something is… _more_.
+Just as the colossal serpent is about to strike, the vision fades. [[Eric Rossvolt|Eric]] is back in the medical bay. He feels the echo of the fight, the adrenaline still coursing through him. He knows, deep down, that the battle isn't over. It's just begun. He feels the change the serum has brought, a power he now understands he craves. He's ready for whatever comes next. The machine, its readings stabilizing, now displays a single, unambiguous message: "Serum Accepted. Subject Stable." But the medic and the priestess exchange uneasy glances. They know something is different about [[Eric Rossvolt|Eric]]. Something is… _more_.

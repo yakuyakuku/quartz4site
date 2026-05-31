@@ -2,7 +2,7 @@
 
 The automated voice echoed in the air, it broke the silence lingering in the air.
 
-Eric stood not far by the window, his breath was still he couldn't take off his eyes of what he just saw, he had seen pictures of it and also on the videos of documentaries and news. But none of it would even compare to the real one that he was seeing right now in front of him, it is the **Rift**.
+Eric stood not far by the window, his breath was still he couldn't take off his eyes of what he just saw, he had seen pictures of it and also on the videos of documentaries and news. But none of it would even compare to the real one that he was seeing right now in front of him, it is the **[[The Rift|Rift]]**.
 
 It wasn't just “a hole in the sky”, like everyone was narrated it to be, It tearing apart the space itself like a wound, hovering ominously above the moon‘s surface, shimmering with violet, and deep abyssal blues colored. From this  so called “wound”, the "blood" liquid that poured out, filling the what already become massive covering the whole moon itself from the first time this thing was discovered, the **Sea of Void**.
 
@@ -18,11 +18,11 @@ Suddenly, the radar flared red. **APPROACHING VESSELS DETECTED**
 
 From the hangars of the floating fortress, a swarm of machines shot out. They were flat and shaped like metallic stingrays, moving with blinding speed the moment the shoot out of the fortress.
 
-"Recruits," Commander Gonz’s voice boomed inside the cabin, 
+"Recruits," [[Commander Gonz]]’s voice boomed inside the cabin, 
 
 “We will be transferring to the **Kaelion Interceptor Rays**. Do not panic. The process is automated and it would be finish in an instant"
 
-"Transfer?" Tusk shout while pressing his face against the glass.
+"Transfer?" [[Tusk]] shout while pressing his face against the glass.
 
 "How?" while seeing the vehicle.
 
@@ -42,17 +42,17 @@ Eric felt his life was just about to then the second he was free falling into th
 
 Around him, the other recruits have different reactions to this.
 
-Gion was cackling like a madman, he is spreading his arms and legs wide as he spun in the space. 
+[[Gion]] was cackling like a madman, he is spreading his arms and legs wide as he spun in the space. 
 
 "Finally! A real ride! Let's gooooo!" he scream out loud.
 
-Arthea was shrieking in pure indignation, she frantically clamped her hands over her jacket to keep it from flying up even though this is space and it won‘t fly away, while kicking her legs frantically.
+[[Arthea]] was shrieking in pure indignation, she frantically clamped her hands over her jacket to keep it from flying up even though this is space and it won‘t fly away, while kicking her legs frantically.
 
 "Ungraceful! This is ungraceful! You peasants! My father will hear of this indignity!"
 
-Tusk was clawing at the empty air,  tears streaming horizontally off his face into space.
+[[Tusk]] was clawing at the empty air,  tears streaming horizontally off his face into space.
 
-"Negi-chan! Save meeee! I haven't cleared my browser history yet!"
+"[[Negi-chan]]! Save meeee! I haven't cleared my browser history yet!"
 
 On the other hand Lena didn't make a sound, she was frozen in fear. Her hands clamped over her mouth, her eyes widen as if she was just couldn‘t believe of what happened and her face turning a ghostly shade of white.
 
@@ -82,7 +82,7 @@ Directly across from Eric sat **Lena**.
 
 She looked pale, her hands gripping the restraint bar so hard her knuckles were white. Her eyes were squeezed shut, her chest heaving.
 
-To Eric’s left was **Violet**, looking bored. To his right, **Tusk** looked like he was vibrating with terror.
+To Eric’s left was **[[Violet]]**, looking bored. To his right, **[[Tusk]]** looked like he was vibrating with terror.
 
 Above them, through the reinforced canopy, Eric watched the massive Whale ship dive into the Sea of Void like a submarine.
 
@@ -118,7 +118,7 @@ She didn't just throw up; she projectile vomited. And because they were sitting 
 
 Eric squeezed his eyes shut as warm, acrid bile splashed across his chest, his lap, and his boots.
 
-"Oh god," Tusk gagged. "Oh god, oh god."
+"Oh god," [[Tusk]] gagged. "Oh god, oh god."
 
 Eric froze, arms hovering in the air, afraid to touch anything. He slowly opened one eye. He was covered.
 
@@ -128,7 +128,7 @@ Lena, gasping for air, looked up. She wiped her mouth, blinking tears out of her
 
 Then her eyes rolled back into her head. She slumped forward in her harness, out cold.
 
-"She fainted," Violet noted dryly from beside Eric. "Can't say I blame her."
+"She fainted," [[Violet]] noted dryly from beside Eric. "Can't say I blame her."
 
 A hiss of hydraulic pressure signaled the end of the ride. The side hatch blasted open.
 
@@ -152,7 +152,7 @@ Two medics rushed in, flanked by a hovering stretcher-drone. They didn't look ge
 
 "Yes sir," Eric gritted out, humiliated.
 
-He stumbled out onto the landing platform of the Moon Base, dripping and miserable. Tusk crawled out behind him, kissing the metal floor.
+He stumbled out onto the landing platform of the Moon Base, dripping and miserable. [[Tusk]] crawled out behind him, kissing the metal floor.
 
 "If you can walk, you move to the processing line!" the soldier roared behind them. "If you can't walk, stay down and pray the medics get to you before the cleaning bots do!"
 
