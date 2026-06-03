@@ -1,8 +1,8 @@
-# Self-Hosting WAHA & n8n in Production: A Complete Setup, Backup & Reverse Proxy Guide
+# Self-Hosting WAHA & n8n in Production: A Complete Integration & Backup Guide
 
-Self-hosting **WAHA (WhatsApp HTTP API)** alongside **n8n** gives you full control over your customer automation pipeline, keeps your data private, and eliminates monthly subscription fees. However, running these services in production requires a solid self-hosted deployment strategy, automated backup procedures, and anti-ban safeguards.
+Self-hosting **WAHA (WhatsApp HTTP API)** alongside **n8n** gives you full control over your customer automation pipeline, keeps your data private, and eliminates monthly subscription fees. 
 
-This guide focuses on deploying a self-hosted stack using the lightweight **BAILEYS** engine, routing traffic through **Nginx Proxy Manager (NPM)**, exposing services securely using **Cloudflare Tunnels**, and setting up automated backups.
+This guide assumes you **already have Nginx Proxy Manager (NPM) and Cloudflare Tunnel installed and running** on your system. It explains how to deploy the core WAHA and n8n stack using the lightweight **BAILEYS** engine, connect it to your existing reverse proxy infrastructure, secure it, and set up automated backups.
 
 ---
 
@@ -24,9 +24,11 @@ When self-hosting WAHA, choosing the right WhatsApp driver (engine) is the most 
 
 ---
 
-## 2. Infrastructure Architecture (Cloudflare Tunnel + NPM + Docker)
+## 2. Infrastructure Architecture (External Proxy + Internal Stack)
 
-By combining **Cloudflare Tunnels** and **Nginx Proxy Manager (NPM)**, you create a secure, firewall-closed environment. You do not need to open public HTTP ports (80 or 443) on your server's firewall. 
+This setup integrates your **existing** Nginx Proxy Manager and Cloudflare Tunnel with the new WAHA/n8n stack. 
+
+By utilizing Docker network sharing, your pre-existing NPM can route traffic to n8n and WAHA securely using their internal container hostnames. This eliminates the need to expose ports 5678 or 3000 to the public host interface.
 
 ```mermaid
 graph TD
@@ -42,53 +44,57 @@ graph TD
     %% Nodes & Flow
     WA[WhatsApp Server]:::ext <--> WAHA[WAHA API]:::waha
     User[Client Device]:::ext <-->|HTTPS| CFEdge[Cloudflare Edge]:::cf
-    CFEdge <-->|Secure Tunnel| CFTunnel[cloudflared Container]:::cf
-    
-    subgraph waha-net [waha-net Private Network]
-        CFTunnel <-->|HTTP| NPM[Nginx Proxy Manager]:::npm
-        NPM -->|http://n8n-main:5678| Main[n8n-main Editor]:::n8n
-        NPM -->|http://waha:3000| WAHA
-        
-        WAHA -->|Webhook| WH[n8n-webhook]:::n8n
-        WH -->|Queue Job| Redis[(Redis)]:::redis
-        Worker[n8n-worker]:::n8n -->|Pull Job| Redis
-        Worker -->|API Call| WAHA
-        Worker -->|State| DB[(PostgreSQL)]:::db
-        Main -->|Config| DB
-    end
-```
+    CFEdge <-->|Secure Tunnel| CFTunnel[Pre-existing Cloudflare Tunnel]:::cf
+    CFTunnel <-->|HTTP| NPM[Pre-existing Nginx Proxy Manager]:::npm
 
-### How the Traffic Flows:
-1.  **Inbound WhatsApp message:** WhatsApp sends a message to your phone. WAHA (connected via WebSockets) detects it.
-2.  **Webhook trigger:** WAHA posts the payload internally within Docker to `http://n8n-webhook:5678`.
-3.  **Job Processing:** The webhook container drops the job in **Redis** and returns `200 OK`.
-4.  **Worker Execution:** An `n8n-worker` pulls the task, queries the **PostgreSQL** database, processes logic, and calls WAHA internally (`http://waha:3000`).
-5.  **User Access:** When you access the n8n editor, your browser connects through **Cloudflare Tunnel**, which forwards the traffic to **Nginx Proxy Manager**, which proxies it to `n8n-main:5678`.
+    subgraph proxy-net [Shared Proxy Network]
+        NPM
+    end
+
+    subgraph waha-net [waha-net Private Network]
+        WAHA
+        WH[n8n-webhook]:::n8n
+        Main[n8n-main Editor]:::n8n
+        Worker[n8n-worker]:::n8n
+        Redis[(Redis)]:::redis
+        DB[(PostgreSQL)]:::db
+    end
+
+    %% Routing Bridges
+    NPM -->|http://n8n-main:5678| Main
+    NPM -->|http://waha:3000| WAHA
+    
+    WAHA -->|Webhook| WH
+    WH -->|Queue Job| Redis
+    Worker -->|Pull Job| Redis
+    Worker -->|API Call| WAHA
+    Worker -->|State| DB
+    Main -->|Config| DB
+```
 
 ---
 
-## 3. Comprehensive Self-Hosted `docker-compose.yml`
+## 3. Core WAHA & n8n Stack (`docker-compose.yml`)
 
-This compose stack includes:
-*   **PostgreSQL** (n8n database backend)
-*   **Redis** (n8n execution queue)
-*   **Nginx Proxy Manager** (internal reverse proxy and SSL manager)
-*   **Cloudflare Tunnel** (`cloudflared` bridge)
-*   **WAHA** (running the `BAILEYS` engine)
-*   **n8n in Queue Mode** (separated into Editor, Webhook intake, and Worker execution)
+Save this configuration as `docker-compose.yml` in your stack directory (e.g. `~/waha-n8n-stack`). 
+
+> [!IMPORTANT]
+> This compose file references an external network called `proxy-net`. **Change this to the actual Docker network name used by your existing Nginx Proxy Manager container** (e.g., `npm_default`, `nginx-proxy`, or `proxy_network`).
 
 ```yaml
 version: '3.8'
 
 networks:
+  # Private network for internal database, queue, and worker communications
   waha-net:
     driver: bridge
+  # Connection to your pre-existing Nginx Proxy Manager network
+  proxy-net:
+    external: true
 
 volumes:
   db_data:
   redis_data:
-  npm_data:
-  npm_letsencrypt:
   n8n_shared:
   waha_data:
 
@@ -133,40 +139,6 @@ services:
       retries: 5
 
   # ----------------------------------------------------
-  # REVERSE PROXY (Nginx Proxy Manager)
-  # ----------------------------------------------------
-  nginx-proxy-manager:
-    image: 'jc21/nginx-proxy-manager:latest'
-    container_name: nginx-proxy-manager
-    restart: always
-    ports:
-      - '80:80'   # Handle internal/external proxy routing
-      - '81:81'   # GUI Admin Interface (Access over local network / VPN)
-      - '443:443' # HTTPS SSL endpoint (for non-tunnel backups)
-    volumes:
-      - npm_data:/data
-      - npm_letsencrypt:/etc/letsencrypt
-    networks:
-      - waha-net
-    depends_on:
-      - postgres
-
-  # ----------------------------------------------------
-  # CLOUDFLARE TUNNEL (cloudflared)
-  # ----------------------------------------------------
-  cloudflared:
-    image: cloudflare/cloudflared:latest
-    container_name: cloudflared
-    restart: always
-    environment:
-      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
-    command: tunnel --no-autoupdate run
-    networks:
-      - waha-net
-    depends_on:
-      - nginx-proxy-manager
-
-  # ----------------------------------------------------
   # WAHA (WhatsApp HTTP API using BAILEYS Engine)
   # ----------------------------------------------------
   waha:
@@ -182,6 +154,7 @@ services:
       - waha_data:/data # Critical: Stores Baileys JSON authentication keys
     networks:
       - waha-net
+      - proxy-net # Attach to proxy network so NPM can route to it
     depends_on:
       - postgres
       - redis
@@ -212,6 +185,7 @@ services:
       - n8n_shared:/home/node/.n8n
     networks:
       - waha-net
+      - proxy-net # Attach to proxy network so NPM can route to it
     depends_on:
       postgres:
         condition: service_healthy
@@ -243,6 +217,7 @@ services:
       - n8n_shared:/home/node/.n8n
     networks:
       - waha-net
+      - proxy-net # Attach to proxy network so NPM can route webhook responses if needed externally
     depends_on:
       - n8n-main
 
@@ -275,98 +250,60 @@ services:
 
 ---
 
-## 4. Reverse Proxy Setup: Nginx Proxy Manager (NPM)
+## 4. Connecting to Your Existing Nginx Proxy Manager (NPM)
 
-Nginx Proxy Manager provides a graphical interface to manage your proxy domains. Because all containers share the `waha-net` Docker network, NPM can reference other services directly by their service name, bypassing host port exposure.
+Because the stack's public containers (`n8n-main`, `n8n-webhook`, and `waha`) are attached to your pre-existing NPM Docker network (`proxy-net`), NPM can route traffic to them directly using their service names.
 
-### Step-by-Step NPM Configuration
+### Step-by-Step NPM GUI Configuration
 
-#### 1. Log In to NPM
-*   Access the GUI via `http://<your-server-ip>:81`.
-*   Default credentials:
-    *   **Email:** `admin@example.com`
-    *   **Password:** `changeme`
-*   Change these credentials immediately upon logging in.
+#### 1. Configure the Proxy Host for n8n
+1.  Log in to your **Nginx Proxy Manager Admin Dashboard**.
+2.  Navigate to **Hosts** > **Proxy Hosts** and click **Add Proxy Host**.
+3.  **Domain Names:** Enter your n8n domain (e.g., `n8n.yourdomain.com`).
+4.  **Scheme:** Select `http`.
+5.  **Forward Hostname/IP:** Enter `n8n-main` *(this matches the container service name).*
+6.  **Forward Port:** Enter `5678`.
+7.  **Websockets Support:** **Toggle ON** *(CRITICAL: n8n uses WebSockets to establish real-time editor sync and node logging)*.
+8.  **Block Common Exploits:** **Toggle ON**.
+9.  Click **Save**.
 
-#### 2. Create Proxy Host for n8n
-*   Go to **Hosts** > **Proxy Hosts** > **Add Proxy Host**.
-*   **Domain Names:** `n8n.yourdomain.com`
-*   **Scheme:** `http`
-*   **Forward Name/IP:** `n8n-main` *(Matches the docker-compose service name)*
-*   **Forward Port:** `5678`
-*   **Websockets Support:** **Toggle ON** *(Required: n8n uses WebSockets for real-time UI/editor logs)*
-*   **Block Common Exploits:** **Toggle ON**
-
-#### 3. Create Proxy Host for WAHA API
-*   Click **Add Proxy Host**.
-*   **Domain Names:** `waha.yourdomain.com`
-*   **Scheme:** `http`
-*   **Forward Name/IP:** `waha`
-*   **Forward Port:** `3000`
-*   **Websockets Support:** **Toggle ON** *(Required: WAHA uses WebSockets to stream session logs and connection states)*
-
-#### 4. Configure SSL (Only if exposing port 80/443 directly)
-*   Navigate to the **SSL** tab of the proxy host settings.
-*   Select **Request a new SSL Certificate** from Let's Encrypt.
-*   Toggle **Force SSL** and **HTTP/2 Support** to ON.
-*   *Note: If you are using Cloudflare Tunnels to handle SSL, you can set the NPM SSL tab to "None" or use self-signed certificates, as Cloudflare handles the HTTPS encryption at the edge.*
+#### 2. Configure the Proxy Host for WAHA API
+1.  Click **Add Proxy Host**.
+2.  **Domain Names:** Enter your WAHA domain (e.g., `waha.yourdomain.com`).
+3.  **Scheme:** Select `http`.
+4.  **Forward Hostname/IP:** Enter `waha` *(matches the container service name).*
+5.  **Forward Port:** Enter `3000`.
+6.  **Websockets Support:** **Toggle ON** *(CRITICAL: WAHA streams active connection states and session QR code updates via WebSockets)*.
+7.  Click **Save**.
 
 ---
 
-## 5. Exposing Services Securely: Cloudflare Tunnel
+## 5. Exposing Securely with Your Cloudflare Tunnel
 
-Cloudflare Tunnels connect your local server to the Cloudflare network without requiring public ports to be opened on your VPS firewall.
+Since you already use Cloudflare Tunnels, you do not need to open public firewall ports (80 or 443) on your server. Your existing `cloudflared` agent container will forward external edge traffic directly to your existing Nginx Proxy Manager.
 
-### Step 1: Create a Tunnel in Cloudflare Dashboard
-1.  Log in to your **Cloudflare Dashboard** and navigate to **Zero Trust**.
-2.  Go to **Networks** > **Tunnels** > **Create a Tunnel**.
-3.  Name your tunnel (e.g., `waha-vps-tunnel`) and click **Save**.
-4.  Copy the provided **Tunnel Token** (a long string of characters).
+### Step-by-Step Routing Configurations
 
-### Step 2: Add Token to Server Environment
-In your host directory, create a `.env` file containing your configurations:
+#### 1. Cloudflare Dashboard Mapping
+In your **Cloudflare Zero Trust Dashboard**:
+1.  Go to **Networks** > **Tunnels** and edit your active tunnel.
+2.  Under **Public Hostname**, map your new subdomains to your NPM container:
 
-```ini
-# Database credentials
-POSTGRES_USER=n8n_admin
-POSTGRES_PASSWORD=SuperStrongDbPassword123!
-POSTGRES_DB=n8n_prod
+| Public Hostname | Service Type | Service URL | Description |
+| :--- | :--- | :--- | :--- |
+| `n8n.yourdomain.com` | `HTTP` | `nginx-proxy-manager:80` | Passes traffic to NPM, which proxies it to `n8n-main:5678` |
+| `waha.yourdomain.com` | `HTTP` | `nginx-proxy-manager:80` | Passes traffic to NPM, which proxies it to `waha:3000` |
 
-# Core configurations
-N8N_DOMAIN=n8n.yourdomain.com
-N8N_ENCRYPTION_KEY=StrongEncryptionKeyStringHere
+> [!NOTE]
+> Adjust `nginx-proxy-manager` to the container name of your NPM service as recognized inside your shared Docker network.
 
-# WAHA configuration
-WAHA_API_KEY=YourWahaSuperSecretKeyGoesHere
+#### 2. Cloudflare Zero Trust Security (Protecting WAHA)
+Because the WAHA container exposes control APIs that can read conversations and send messages, it should **never** be open to the public internet without an authentication layer.
 
-# Cloudflare Tunnel Configuration
-CLOUDFLARE_TUNNEL_TOKEN=eyJhIjoi...YourActualTunnelTokenHere...
-```
-
-### Step 3: Route Traffic in Cloudflare Dashboard
-Return to the Cloudflare Zero Trust panel for your tunnel and navigate to the **Public Hostname** tab to map your domains:
-
-#### Routing n8n Editor:
-*   **Subdomain:** `n8n`
-*   **Domain:** `yourdomain.com`
-*   **Service Type:** `HTTP`
-*   **URL:** `nginx-proxy-manager:80` *(Forwards traffic to NPM, which routes it based on host header)*
-
-#### Routing WAHA API (Optional, restrict to authenticated IPs):
-*   **Subdomain:** `waha`
-*   **Domain:** `yourdomain.com`
-*   **Service Type:** `HTTP`
-*   **URL:** `nginx-proxy-manager:80`
-
-### Step 4: Configure Cloudflare Zero Trust Policies (Highly Recommended)
-Because the WAHA container exposes control APIs that can send WhatsApp messages, it should **never** be exposed to the public internet without protection.
-
-1.  In Cloudflare Zero Trust, go to **Access** > **Applications** > **Add an Application**.
+1.  In Cloudflare Zero Trust, navigate to **Access** > **Applications** > **Add an Application**.
 2.  Select **Self-Hosted**.
-3.  Set the application URL to `waha.yourdomain.com`.
-4.  Configure policies to restrict access:
-    *   Require **One-Time Pin (OTP)** email verification restricted to your company domain.
-    *   Or restrict by **IP Source Address** matching your home/office VPN.
+3.  Set the Application Domain to `waha.yourdomain.com`.
+4.  Create a policy that blocks all public requests, only allowing access if the user authenticates via **One-Time PIN (OTP)** sent to your corporate email, or checks out successfully via an **IP Source Address** rule matching your home/office VPN.
 
 ---
 
