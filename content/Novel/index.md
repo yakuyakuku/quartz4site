@@ -7,4 +7,4 @@ this is the folder in which i put all my novel stuff on too, aside from posting 
 
 | ![[Volume 1.png\|250]]                                                 |                 |
 | ---------------------------------------------------------------------- | --------------- |
-| **[[Novel/Volume 1 One-Way Ticket/index\|Volume 1 : One Way Ticket]]** | Volume 2 : SOON |
+| **** | Volume 2 : SOON |

@@ -4,15 +4,15 @@ Let's break down some specific examples of where you could enhance "Show, Don't 
 
 1. **Anxiety:** Instead of: _"Emotions surged through my head, a tense calm settled over me, soon it began twisting into anxiety and worry."_
     
-    Try: _"Eric's palms grew clammy. He shifted in his seat, the rough fabric of his uniform scratching against his skin. A knot tightened in his stomach with each passing mile."_ (This _shows_ his anxiety through physical sensations and actions.)
+    Try: _"[[Eric Rossvolt|Eric]]'s palms grew clammy. He shifted in his seat, the rough fabric of his uniform scratching against his skin. A knot tightened in his stomach with each passing mile."_ (This _shows_ his anxiety through physical sensations and actions.)
     
 2. **Discomfort/Boredom:** Instead of: _"Damn. This sitting position is awful."_
     
-    Try: _"Eric shifted again, trying to find a comfortable position. His legs were starting to cramp, and his lower back ached. He glanced at the woman across from him, still glaring, and then looked back at the floor, a sigh escaping his lips."_ (This _shows_ his discomfort through actions and a subtle hint of boredom/frustration.)
+    Try: _"[[Eric Rossvolt|Eric]] shifted again, trying to find a comfortable position. His legs were starting to cramp, and his lower back ached. He glanced at the woman across from him, still glaring, and then looked back at the floor, a sigh escaping his lips."_ (This _shows_ his discomfort through actions and a subtle hint of boredom/frustration.)
     
-3. **Eric's Detachment:** Instead of: _"Eric still staring at the floor. The hum of the engines keep him awake, as like a steady reminder that there was no turning back."_
+3. **[[Eric Rossvolt|Eric]]'s Detachment:** Instead of: _"[[Eric Rossvolt|Eric]] still staring at the floor. The hum of the engines keep him awake, as like a steady reminder that there was no turning back."_
     
-    Try: _"Eric's gaze remained fixed on a loose thread in the floor mat. The hum of the engines vibrated through the vehicle, a monotonous drone that seemed to numb his senses rather than keep him awake. He didn't feel anything anymore, just a hollow emptiness."_ (This _shows_ his detachment through his lack of reaction to the world around him and his internal numbness.)
+    Try: _"[[Eric Rossvolt|Eric]]'s gaze remained fixed on a loose thread in the floor mat. The hum of the engines vibrated through the vehicle, a monotonous drone that seemed to numb his senses rather than keep him awake. He didn't feel anything anymore, just a hollow emptiness."_ (This _shows_ his detachment through his lack of reaction to the world around him and his internal numbness.)
     
 4. **The Girl's Determination:** Instead of: _"She’s different. Look at her, she hasn’t even flinched. Doesn’t seem to be scared either…_" and later, _"She doesn't seem to share the doubts of the others."_
     
@@ -21,7 +21,7 @@ Let's break down some specific examples of where you could enhance "Show, Don't 
 
 **Sensory Detail Examples:**
 
-1. **The Vehicle:** Add details about the smell of the vehicle (diesel fumes, stale air, sweat), the feel of the metal seats, the sounds of the other recruits (nervous coughs, whispered conversations), and the taste of anxiety in Eric's mouth (dry mouth).
+1. **The Vehicle:** Add details about the smell of the vehicle (diesel fumes, stale air, sweat), the feel of the metal seats, the sounds of the other recruits (nervous coughs, whispered conversations), and the taste of anxiety in [[Eric Rossvolt|Eric]]'s mouth (dry mouth).
     
 2. **The Military Base:** Describe the sights, sounds, and smells of the base. The roar of engines, the shouts of officers, the metallic tang of the air, the vastness of the space, the chill of the concrete floor.
     

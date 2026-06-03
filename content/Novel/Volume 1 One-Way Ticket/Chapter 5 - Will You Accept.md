@@ -2,7 +2,7 @@ Whispers and murmurs could be heard among the recruits. The tension still hung h
 
 _How can we go on after this?_ the unspoken question echoes in the air.
 
-Jaxon, along with Lena, were escorted back by a medic and a priestess to the back of the facility. Anyone who had already received the serum will and still Alive will passed the phase and will have to go the back of the facility to continue, their expressions display mixture of exhaustion and  dumfounded to this almost unsettling calmness attitude, displayed by the military. The first batch of recruits, those who had undergone the procedure before the interruption, were also present, some looking dazed, others strangely invigorated, all of them were also escorted to the back of the facility.
+[[Jaxon Pyre|Jaxon]], along with [[Lena Rynalla|Lena]], were escorted back by a medic and a priestess to the back of the facility. Anyone who had already received the serum will and still Alive will passed the phase and will have to go the back of the facility to continue, their expressions display mixture of exhaustion and  dumfounded to this almost unsettling calmness attitude, displayed by the military. The first batch of recruits, those who had undergone the procedure before the interruption, were also present, some looking dazed, others strangely invigorated, all of them were also escorted to the back of the facility.
 
 
 She raised her voice, speaking to all the recruits present, in a calm, reassuring tone. 
@@ -10,15 +10,15 @@ She raised her voice, speaking to all the recruits present, in a calm, reassurin
 
 “I know that you have witnessed a disturbing event. Fear and doubt may cloud your hearts, you may afraid to push forward, but you must remember why you are here. You are here to help humanity, to face the unknown, to become heroes"
 
-"Do not let the fear consume you. May the courage filled your heart, embrace it, and let it embrace you, as we all are will be blessed by Our Lord Aztoim”.
+"Do not let the fear consume you. May the courage filled your heart, embrace it, and let it embrace you, as we all are will be blessed by Our Lord [[Aztoim]]”.
 
-Jin, who had moved to the front of the line because of the incident, clenched his fist, his eyes filled with admiration for the priestess. Her words resonated with him, reinforcing his own sense of purpose.
+[[Jin]], who had moved to the front of the line because of the incident, clenched his fist, his eyes filled with admiration for the priestess. Her words resonated with him, reinforcing his own sense of purpose.
 
 The priestess’s voice traveled throughout the room, bringing a soothing calmness to all the recruits present. The tense atmosphere began to dissipate, replaced by the calm and serenity she exuded. The recruits' resolve began to reappear. She clasped her hands together and began to pray, her voice soft and melodic.
 
 Eric, who had been focusing his attention on the newly arrived priestess, paused in his thoughts, noticing something above her head. A faint, golden halo-like ring seemed to hover there. He wondered what it was, but the priestess’s prayer quickly drew his attention instead.
 
-“_O Our Lord, Aztoim, guide these souls who seek to conquer the unknown, your strength. Grant them courage in the face of fear, resilience in the face of adversity, and faith in the face of the unknown_”
+“_O Our Lord, [[Aztoim]], guide these souls who seek to conquer the unknown, your strength. Grant them courage in the face of fear, resilience in the face of adversity, and faith in the face of the unknown_”
 
 As the priestess prayed, a feeling of bliss washed over Eric. He closed his eyes slowly, responding to the feeling, his body relaxing. The image of the horrific event, or anything else that had been on his mind, faded away. He felt a profound sense of peace, a calmness he hadn’t experienced in years. The prayer seemed to guide him to a place where fear and doubt no longer existed. It was beautiful, like being in a calm savanna filled with flowers, where the breeze felt gentle against him. Then, as he still had his eyes closed, he heard a rustling sound. Instinctively, he opened his eyes again and looked toward the sound. There, he saw someone—a red-haired woman wearing a brown shirt under a lab coat, her hair tied back. Her face held a worried expression mixed with sadness. Her hand was placed on her chest as she said, 
 
@@ -42,31 +42,31 @@ _“I will become a hero.”_
 
 Despite the horrific scene they had just witnessed, the recruits, having their courage back up again by the priestess’s words, they shared the sense of peace, the resolve sparks again in their heart. Now many of them believed that if they accepted the serum, they too could overcome any challenge, any fear. They would prevail.
 
-Eric opened his eyes again, bowing his head down for a second, then look up at the front again, noticing that the priestess that he saw before was missing, but he pays no mind to it and probably that just what the priestess supposed to do and after her role was done she just excuse herself out. On the screen Negi-chan smiled brightly and then proceed to announce the continuation of the injection phase.
+Eric opened his eyes again, bowing his head down for a second, then look up at the front again, noticing that the priestess that he saw before was missing, but he pays no mind to it and probably that just what the priestess supposed to do and after her role was done she just excuse herself out. On the screen [[Negi-chan]] smiled brightly and then proceed to announce the continuation of the injection phase.
 
 “Okay!!! Everyone!! Have you keep up your spirit? Now we will continue to batch 2!!” she shouted, performing a cheerful pose.
 
 The injection process resumed, proceeding smoothly this time. Almost everyone was successfully injected with the serum. Some recruits experienced minor side effects like headaches or nausea, but none were serious.
 
-Jin’s batch was also completed. He thanked the medic and the priestess with high-spirited enthusiasm. “Thank you both! I’m ready to face whatever comes next!”
+[[Jin]]’s batch was also completed. He thanked the medic and the priestess with high-spirited enthusiasm. “Thank you both! I’m ready to face whatever comes next!”
 
-The medic, unfazed by Jin’s exuberance, simply said, “Move on.”
+The medic, unfazed by [[Jin]]’s exuberance, simply said, “Move on.”
 
-The priestess, however, appreciated Jin’s enthusiasm. “May Aztoim guide you”
+The priestess, however, appreciated [[Jin]]’s enthusiasm. “May [[Aztoim]] guide you”
 
-Negi-chan’s avatar then popped up on the screen, addressing Jin directly. “Jin! You were amazing back there! Such bravery! Nyaa~!”
+[[Negi-chan]]’s avatar then popped up on the screen, addressing [[Jin]] directly. “[[Jin]]! You were amazing back there! Such bravery! Nyaa~!”
 
-“It was nothing,” Jin replied, scratching his head sheepishly. “Just a reflex.”
+“It was nothing,” [[Jin]] replied, scratching his head sheepishly. “Just a reflex.”
 
 Batch after batch was processed, and finally, it was Eric’s turn – Batch 7. He clenched his fists, trying to calm his nerves. He walked to the front of the stage, the medic asking him the standard questions.
 
 “Name?”
 
-“Eric Rossvolt.”
+“[[Eric Rossvolt]].”
 
 “Where are you from?”
 
-“Roznia City.”
+“[[Roznia City]].”
 
 The medic recorded his answers on their tablet. Before the injection began, the priestess approached Eric, her expression gentle and reassuring. 
 
@@ -112,7 +112,7 @@ It was an impossibly large body stretching from the sea to the soaring, starry s
 
 You must accept the fate, the voices echoes in Eric's mind, as the time moves slowly, while he’s looking at the scene, then his old life, his past flashed before his eyes.
 
-It was back when I was working as a research assistant at the academy. There was this girl, [[Ilsa Ryzelia|Ilsa]]. She had beautiful red hair tied back, and she liked to wear her lab coat—she thought we scholars were supposed to show our identity upfront. She was cheerful, too. Her work on campus was also as an assistant, but she worked under a professor rather than for the campus itself. We often talked and had conversations because we shared the same break time. She often told me interesting things about dreams and the inner mind. She said that on Earth-2, scientists had discovered that you could alter the outcome of mind-bending or mind-affecting phenomena by changing your mindset with your own suggestions and beliefs—that you could literally change everything that happened to you mentally. I argued with her about it.
+It was back when I was working as a research assistant at the academy. There was this girl, [[Ilsa Ryzelia|Ilsa]]. She had beautiful red hair tied back, and she liked to wear her lab coat—she thought we scholars were supposed to show our identity upfront. She was cheerful, too. Her work on campus was also as an assistant, but she worked under a professor rather than for the campus itself. We often talked and had conversations because we shared the same break time. She often told me interesting things about dreams and the inner mind. She said that on [[Earth-2]], scientists had discovered that you could alter the outcome of mind-bending or mind-affecting phenomena by changing your mindset with your own suggestions and beliefs—that you could literally change everything that happened to you mentally. I argued with her about it.
 
 "Well even if we could alter it, what would it be useful for?" I was trying to be skeptical about the idea.
 
@@ -128,7 +128,7 @@ It was back when I was working as a research assistant at the academy. There was
 
 "Alright" said me to her with no expectation whatsoever.
 
-We would conduct experiments to enhance my mental fortitude almost everyday by having me control my dreams. According to her research and a paper she'd gotten from Earth-2 (published by the scientists there), this would be the first step toward controlling one's mental state. At first, I thought it was a bunch of nonsense, but after a month, I started to feel something different about how I perceived my dreams. I could control them just as she'd described; I could make anything happen that I wanted and desired. Now, I started taking this experiment seriously.
+We would conduct experiments to enhance my mental fortitude almost everyday by having me control my dreams. According to her research and a paper she'd gotten from [[Earth-2]] (published by the scientists there), this would be the first step toward controlling one's mental state. At first, I thought it was a bunch of nonsense, but after a month, I started to feel something different about how I perceived my dreams. I could control them just as she'd described; I could make anything happen that I wanted and desired. Now, I started taking this experiment seriously.
 
 "I couldn't believe this is actually working, did you already test it to yourself before?" I asked Ilsa.
 
@@ -154,7 +154,7 @@ For the next two months, she would try to hypnotize me, and I would succumb and 
 
 "Now that's some gratitude you showing! Hehehe I'll take your offer"
 
-After that, we'd chat here and there again if we met during our break time at the academy. She was in the research department focused on the mind, and I was in the department of philosophy and metaphysics—a field many at the time argued was a waste of money. But hey, I got free money and free knowledge, so I wasn't complaining. Ilsa was usually with her professor, the famous [[Hugo Kaelion]]. And yeah, he was a noble. I don't know why a noble would come to Earth-1 just to teach at this planet's university. Ilsa was particularly close with Hugo; she would praise him often when we talked and discuss his research, mentioning how she'd get the Earth-2 papers from him. Now that made sense of how she could obtain those papers in the first place.
+After that, we'd chat here and there again if we met during our break time at the academy. She was in the research department focused on the mind, and I was in the department of philosophy and metaphysics—a field many at the time argued was a waste of money. But hey, I got free money and free knowledge, so I wasn't complaining. Ilsa was usually with her professor, the famous [[Hugo Kaelion]]. And yeah, he was a noble. I don't know why a noble would come to [[Earth-1]] just to teach at this planet's university. Ilsa was particularly close with Hugo; she would praise him often when we talked and discuss his research, mentioning how she'd get the [[Earth-2]] papers from him. Now that made sense of how she could obtain those papers in the first place.
 
 Months after the experiments we did together, I still saw her around, but the frequency was a bit less than usual. Soon after, it started to become rarer. I would only see her passing my department like once a week, her face drawn and tired, like she'd overworked herself. I would try to catch up with her and ask if we could discuss things sometime again, but to no avail; she kept avoiding me. After a while, I finally met her in the campus corridor. It seemed she hadn't expected this encounter either; she seemed surprised to see me, kind of weird, but I didn't think anything of it at the time. So, I approached her and asked...
 

@@ -2,7 +2,7 @@
 #### **House Valzvein**  
 - **Goal**: Dominate rift-energy trade.  
 - **Characters**:  
-  1. **Lady Seraphine Frey Valzvein** (40s): Ruthless matriarch with a rift-shard embedded in her spine. Secretly dying; seeks to merge with the Weeping Star.  
+  1. **Lady Seraphine Frey Valzvein** (40s): Ruthless matriarch with a rift-shard embedded in her spine. Secretly dying; seeks to merge with the [[Weeping Star]].  
   2. **Tristan Valzvein** (20s): Her idealistic son, secretly funding the Iron Pact. Collects Earth relics (vinyl records, comic books).  
   3. **Commander Rael Valzvein** (50s): Brutal enforcer. Hates conscripts; lost an eye to a rift-wolf.  
   4. **Dr. Lysa Valzvein** (30s): Mad scientist experimenting on conscripts. Obsessed with “perfecting” humanity.  
@@ -16,8 +16,8 @@
 - **Goal**: Genetic supremacy via rift-human hybrids.  
 - **Characters**:  
   1. **Lord Malakar Kaelion** (60s): Bio-augmented tyrant. Has gills and black blood. Hates Seraphine Valzvein.  
-  2. **Lady Evra Kaelion** (30s): His daughter, a charismatic diplomat. Secretly a Void-Spawn addict.  
-  3. **Dr. Orin Kaelion** (40s): Geneticist splicing rift-creature DNA into nobles. Created the Glass Wolves.  
+  2. **Lady Evra Kaelion** (30s): His daughter, a charismatic diplomat. Secretly a [[Void-Spawn]] addict.  
+  3. **Dr. Orin Kaelion** (40s): Geneticist splicing rift-creature DNA into nobles. Created the [[Glass Wolf|Glass Wolves]].  
   4. **Kaelion’s Chimera**: A mute hybrid bodyguard with crystalline skin. Loyal to Evra.  
   5. **Nyx**: A conscript spy in House Kaelion. Former Iron Pact member; conflicted about her loyalty.  
 
@@ -82,7 +82,7 @@
 - **Goal**: Monopolize rift-energy for immortality serums.  
 - **Characters**:  
   1. **CEO Valzvein Knox** (40s): Seraphine Frey’s cousin. Wants to replace nobles with clones.  
-  2. **Dr. Sylas** (50s): Mad scientist. Created the “Void-Spawn” by injecting nobles with rift-sludge.  
+  2. **Dr. Sylas** (50s): Mad scientist. Created the “[[Void-Spawn]]” by injecting nobles with rift-sludge.  
   3. **Lyra** (30s): Marketing director. Sells rift-serums as “eternal youth.” Dying of side effects.  
   4. **The Twins**: Conjoined hackers (Astra & Nova) controlling Eclipse’s AI. Share one rift-enhanced mind.  
   5. **Subject Zero**: First successful immortal. Escaped; now leads the Fractured.  
@@ -106,12 +106,12 @@
 
 ### **4. Cultist Sects**  
 #### **The Black Sun Cult**  
-- **Goal**: Summon the Weeping Star to “cleanse” humanity.  
+- **Goal**: Summon the [[Weeping Star]] to “cleanse” humanity.  
 - **Characters**:  
   1. **Prophetess Nyra** (30s): Disfigured visionary. Wears a cloak of living shadow.  
   2. **The Hollow Choir**: 10 brainwashed conscripts with rift-shards in their skulls. Hum deadly frequencies.  
   3. **Kaelion’s Betrayer**: Ex-House Kaelion guard. Brings cult into noble courts.  
-  4. **The Whisperer**: A child who channels the Weeping Star’s voice. Slowly crystallizing.  
+  4. **The Whisperer**: A child who channels the [[Weeping Star]]’s voice. Slowly crystallizing.  
   5. **Vorn’s Spy**: A cultist posing as Sister Maris’ acolyte. Steals House Vorn’s secrets.  
 
 - **Ties**: Allies with House Vorn, infiltrates Iron Pact, hunted by Echo Collective.  
@@ -125,9 +125,9 @@
   2. **Echo** (20s): Teen who sees alternate timelines. Wants to resurrect her dead sister.  
   3. **Warden** (50s): Ex-Overseer. Wields a rift-hammer that “shatters” dimensions.  
   4. **The Mirror Twins**: Two conscripts fused into one body by a rift. Speak in unison.  
-  5. **The Fractured Prophet**: A Void-Spawn preaching “unity through chaos.”  
+  5. **The Fractured Prophet**: A [[Void-Spawn]] preaching “unity through chaos.”  
 
-- **Ties**: Enemies of all factions, manipulated by the Weeping Star.  
+- **Ties**: Enemies of all factions, manipulated by the [[Weeping Star]].  
 
 ---
 
@@ -141,14 +141,14 @@
   4. **Wraith** (25): Stealth specialist. Covered in rift-camouflage tattoos.  
   5. **Doc** (50s): Cynical medic. Hoards rift-serums to sell on the black market.  
 
-- **Ties**: Hired by House Kaelion, rivals with Shattered Hand, infiltrated by Iron Pact.  
+- **Ties**: Hired by House Kaelion, rivals with [[The Shattered Hand|Shattered Hand]], infiltrated by Iron Pact.  
 
 ---
 
-#### **The Shattered Hand**  
+#### **[[The Shattered Hand|Shattered Hand]]|[[The Shattered Hand|Shattered Hand]]**  
 - **Goal**: Rule the moon through fear.  
 - **Characters**:  
-  1. **Karn** (40s): Berserker leader. Wields a axe made from a Glass Wolf’s fang.  
+  1. **Karn** (40s): Berserker leader. Wields a axe made from a [[Glass Wolf]]’s fang.  
   2. **Vexa** (30s): Pyromaniac. Uses rift-flame throwers.  
   3. **Silas** (25): Silent assassin. Collects conscripts’ dog tags.  
   4. **Mara** (50s): Torture expert. “Interrogates” for fun.  
@@ -168,18 +168,18 @@
   4. **Void’s Echo**: A sentient rift-storm. Takes human form to warn conscripts.  
   5. **The Fractured Prophet**: See Fractured faction.  
 
-- **Ties**: Manipulates all factions, allies with Debtor’s Union, enemies of the Weeping Star.  
+- **Ties**: Manipulates all factions, allies with Debtor’s Union, enemies of the [[Weeping Star]].  
 
 ---
 
 #### **The Voidwalkers**  
-- **Goal**: Serve the Weeping Star’s hunger.  
+- **Goal**: Serve the [[Weeping Star]]’s hunger.  
 - **Characters**:  
   1. **The Hollow King**: A noble consumed by the Void. Wears a crown of rift-shards.  
-  2. **The Glass Wolf Pack**: Sentient rift-creatures that hunt you.  
-  3. **Void-Spawn**: Noble/consript hybrids oozing black sludge.  
+  2. **The [[Glass Wolf]] Pack**: Sentient rift-creatures that hunt you.  
+  3. **[[Void-Spawn]]**: Noble/consript hybrids oozing black sludge.  
   4. **The Whispering Dead**: Corpses reanimated by rift-energy.  
-  5. **The Weeping Star**: Cosmic entity trapped in the moon. Its “voice” drives mortals mad.  
+  5. **The [[Weeping Star]]**: Cosmic entity trapped in the moon. Its “voice” drives mortals mad.  
 
 - **Ties**: Enemies of all, worshipped by Black Sun Cult, manipulated by House Valzvein.  
 
@@ -189,7 +189,7 @@
 - **House Valzvein** ↔ **Eclipse Biotech** ↔ **Void Merchants** (Profit from rift-energy).  
 - **Iron Pact** ↔ **Debtor’s Union** ↔ **Echo Collective** (Resistance network).  
 - **Black Sun Cult** ↔ **House Vorn** ↔ **The Fractured** (Cosmic horror alliance).  
-- **Grey Legion** ↔ **House Kaelion** ↔ **Shattered Hand** (Mercenary web).  
+- **Grey Legion** ↔ **House Kaelion** ↔ **[[The Shattered Hand|Shattered Hand]]** (Mercenary web).  
 - **Scavenger Guild** ↔ **Void Merchants** ↔ **Nexus Media** (Black market/data trade).  
 
 ---
@@ -227,11 +227,11 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 **Subgroups**:  
 1. **The Hollowed**: Feral, mindless Afflicted. Roam rifts in packs.  
 2. **The Ascended**: Rare lucid Afflicted. Hide in rift-dimension settlements.  
-3. **The Whispering Tide**: Cultists who *embrace* mutations. Worship “the Voice” (Weeping Star).  
+3. **The Whispering Tide**: Cultists who *embrace* mutations. Worship “the Voice” ([[Weeping Star]]).  
 
 **Key Characters**:  
 1. **Nyx** (Unknown): Ascended Abyss Walker. Helps conscripts escape the military. Wears a cloak of void-mist.  
-2. **Vesper** (20s): Whispering Tide leader. Can open mini-rifts with her voice. Wants to “free” the Weeping Star.  
+2. **Vesper** (20s): Whispering Tide leader. Can open mini-rifts with her voice. Wants to “free” the [[Weeping Star]].  
 3. **Warden** (50s): Ex-soldier turned Afflicted vigilante. Hunts corrupt Overseers.  
 
 ---
@@ -248,7 +248,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 
 **Ties**:  
 - Buys IVO’s leaked data from Jin.  
-- Supplies **Shattered Hand** mercenaries with rift-weapons.  
+- Supplies **[[The Shattered Hand|Shattered Hand]]** mercenaries with rift-weapons.  
 
 ---
 
@@ -256,12 +256,12 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 **Reputation**: Independent contractors. Hired for dirty work.  
 **Unofficial Terms**: *Rift Rats* (by IVO), *Void Dogs* (by military).  
 **Key Groups**:  
-1. **Shattered Hand**: Brutal raiders. Led by **Karn** (wears a Glass Wolf skull helmet).  
+1. **[[The Shattered Hand|Shattered Hand]]**: Brutal raiders. Led by **Karn** (wears a [[Glass Wolf]] skull helmet).  
 2. **Starless Banner**: Idealistic ex-IVO members. Protect rift-settlements.  
 3. **The Iron Veil**: Spy-for-hire network. Sell secrets to nobles and syndicates alike.  
 
 **Key Characters**:  
-1. **Rook** (40s): Shattered Hand warlord. Wields a **Tier 4 artifact *Rift Cleaver***.  
+1. **Rook** (40s): [[The Shattered Hand|Shattered Hand]] warlord. Wields a **Tier 4 artifact *Rift Cleaver***.  
 2. **Lyra** (28): Starless Banner leader. Former IVO Captain exiled for saving Afflicted.  
 3. **Wraith** (??): Iron Veil’s top spy. Identity unknown; leaves a calling card of ash.  
 
@@ -281,7 +281,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 2. **The Warrens**: Commoner slums. Black markets, gambling dens, **“The Rust Yard”** (junk artifact market).  
 3. **Rift Gates**: Glowing portals guarded by mech-suits. Lead to:  
    - **Outer Rifts**: Scout camps (IVO outposts, military bunkers).  
-   - **Deep Rifts**: No settlements. Only Afflicted and Void-Spawn.  
+   - **Deep Rifts**: No settlements. Only Afflicted and [[Void-Spawn]].  
 
 **Rift Dimension Structure**:  
 - **Entrance**: Submerged in the moon’s black “Abyssal Lake.”  
@@ -312,7 +312,7 @@ Got it! Let’s refine the factions to reflect moral ambiguity, unofficial namin
 - IVO’s **Kestrel** hunts Eclipse Syndicate’s **Dr. Vex** for Afflicted trafficking.  
 - **Nyx** (Ascended) allies with **Starless Banner** to sabotage the military.  
 - **Agent Sable (LOD)** blackmails **Jin** to spy on IVO.  
-- Your sword (*Ember’s Resolve*) is sought by **The Whispering Tide** for a ritual to free the Weeping Star.  
+- Your sword (*Ember’s Resolve*) is sought by **The Whispering Tide** for a ritual to free the [[Weeping Star]].  
 
 ---
 

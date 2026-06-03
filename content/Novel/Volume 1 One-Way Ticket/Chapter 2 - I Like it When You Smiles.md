@@ -1,10 +1,10 @@
 The group arrived the medical facility, lining up with them are hundreds of other recruits, straight up front to end in a line forward and in horizontal mirroring each other, which makes quite neat and well spaced formation.
 
-A particular man was also in this crowd, his name is [[Jaxon Pyre]], just like Eric, he has his own reason to enlist in here. Within all the sea of anxious faces. He seems to be a calm and collected person, as he scanned all of his surrounding, his gaze moves from one to another, searching…for what, he wasn't sure himself. Maybe just to be cautious or just distracting his mind.
+A particular man was also in this crowd, his name is [[Jaxon Pyre]], just like [[Eric Rossvolt|Eric]], he has his own reason to enlist in here. Within all the sea of anxious faces. He seems to be a calm and collected person, as he scanned all of his surrounding, his gaze moves from one to another, searching…for what, he wasn't sure himself. Maybe just to be cautious or just distracting his mind.
 
 Then he saw her, she was standing near the front of the line, her long blonde beautiful hair, her sapphire blue colored eyes, at first glance, he cloud feel that her gaze give this vulnerable yet determined sight, she is looking straight ahead with occasionally turning around to hear the side of her surrounding. She was small, almost fragile looking, out of all the faces of the people around here.  Just like…
 
-Jaxon’s fixated on her, he is frozen, his breathing seems halted for a second. 
+[[Jaxon Pyre|Jaxon]]’s fixated on her, he is frozen, his breathing seems halted for a second. 
 "[[Annyla Fritz|Annyla]]?" echoes in his head.
 
 The thought hits him, slammed into his head hitting like a nail in a coffin. His heart beating faster, and harder as if it would crush against his ribs, a frantic beating inside against the silence of his controlled exterior. 
@@ -26,7 +26,7 @@ He quickly squeezed his eyes shut, there was no escape from it, it was a fleetin
 
 “I’ll wait for you, Julius.  Always.”  Her voice filled with her love and trust echoed in his mind, a painful reminder of what he had once destroyed.
 
-The line moves forward but Jaxon kept his eyes down, his jaw tight and his teeth tighten as he shut. He could feel her presence, and the warmth of her presence radiating back to him through the cold air he felt. He knew, somehow, deep down, the one he just saw was not her. But he even so he couldn't… he wouldn't look again.
+The line moves forward but [[Jaxon Pyre|Jaxon]] kept his eyes down, his jaw tight and his teeth tighten as he shut. He could feel her presence, and the warmth of her presence radiating back to him through the cold air he felt. He knew, somehow, deep down, the one he just saw was not her. But he even so he couldn't… he wouldn't look again.
 
 "If I look…even if it’s not her…the resemblance...It will crush me...I don’t deserve to see her… not after…" The whispers of doubt crept in again, fueling his self loathing.
 
@@ -42,7 +42,7 @@ He open his eyes, and raises his hand then shouting,
 The officer of in the front of his line heard the shout and turn back, looking at him.
 "What is it maggot?" shout the officer from the front side of the line.
 
-“Where’s the toilet?” utter Jaxon, his voice was flat.
+“Where’s the toilet?” utter [[Jaxon Pyre|Jaxon]], his voice was flat.
 
 "On the left back! If you went on shitting, you better get your ass back before the injection phase!" shout the officer back to him.
 
@@ -95,7 +95,7 @@ The guilt he felt was like a physical weight, it's crushing him down, suffocatin
 
 "Too late…it’s too late…you’ve ruined everything…you don’t deserve her love…"
 
-Seconds turns to minutes, the time he spends in this cubicle passed as he curled up tighter, his body shaking uncontrollably, he remembers memories of when he was back there, in the chambers of House Valzvein. The air thick with tension and lies, he was shouting at her, his voice filled with rage, fueled by lies and manipulation, he saw her flinch, her eyes wide with fear her hands trembling, but even then, even as he hurt her, as he torture her, she reached for him, her gentle touch, and her voice soothing. 
+Seconds turns to minutes, the time he spends in this cubicle passed as he curled up tighter, his body shaking uncontrollably, he remembers memories of when he was back there, in the chambers of [[House Valzvein]]. The air thick with tension and lies, he was shouting at her, his voice filled with rage, fueled by lies and manipulation, he saw her flinch, her eyes wide with fear her hands trembling, but even then, even as he hurt her, as he torture her, she reached for him, her gentle touch, and her voice soothing. 
 
 “Please…Julius…please…”.
 
@@ -107,7 +107,7 @@ He didn't know how long he stayed there, curled up on floor and lost in his grie
 
 "Too late…it’s too late…"
 
-Half an hour later in the line, Eric notice a man went back to a line, the officer of his line seems shouting to the man but the man seems unresponsive. It seems that it's the man that went to toilet before, not long after that he hears mumbles from the surrounding people around him, including in his group.
+Half an hour later in the line, [[Eric Rossvolt|Eric]] notice a man went back to a line, the officer of his line seems shouting to the man but the man seems unresponsive. It seems that it's the man that went to toilet before, not long after that he hears mumbles from the surrounding people around him, including in his group.
 
 The line in the Med Bay was moving slowly, each recruit stiff with anticipation, there are some that looked nervous, eyes scanning around, while others stood there with a nonchalant, almost bored air. The clatter of boots echoed in the sterile, metallic room as people shuffled forward.
 
@@ -126,7 +126,7 @@ Another guy, that looked thin and wiry with a scruffy beard anxiously kept check
 
 "What? You thought this would be like a game or somethin'? I ain't seen or heard shit about that thing make someone buff or somethin' like that, if they were that good, it would've been sold like candies in black market for sure!" replied the younger recruit.
 
-Meanwhile as they talking Eric still bowing his head down, his gaze focused on the floor, the sound of the surrounding pass through him, he's almost dazing. 
+Meanwhile as they talking [[Eric Rossvolt|Eric]] still bowing his head down, his gaze focused on the floor, the sound of the surrounding pass through him, he's almost dazing. 
 
 Few recruits on the back muttered loudly to his buddy, "You think they’re gonna turn us into a mindless soldier or something? Like for real? I am worrying to death man"
 
@@ -146,14 +146,14 @@ The older recruit from earlier, still pacing in line, chimed in with a grin of c
 "Look, it’s simple, alright? You get the shot, boom, you survive the ride, boom, and when this is all over? You get paid. Boom! That’s the deal. Ain’t no need to be all dramatic about it."
 
 A short pause before the young recruit spoke up again, with a dry chuckle.  
-"I mean, what do we even have to lose? We were already stuck on Earth-1, the shithole planet, man. This is a one-way ticket to better or worse. Either way, we ain’t realistically coming back so the outcome is the same. You either die here or die after or better yet survive"
+"I mean, what do we even have to lose? We were already stuck on [[Earth-1]], the shithole planet, man. This is a one-way ticket to better or worse. Either way, we ain’t realistically coming back so the outcome is the same. You either die here or die after or better yet survive"
 
 Hearing the conversations sparks some of the others in line gave awkward laughs, though the tension didn’t really break.
 
 The grizzled soldier at the front of the line gave an impatient grunt, looking over the recruits, clearly done with the chatter.  
 "Alright, enough talkin’, you maggots. The serum’s comin' your way soon. It ain't a miracle cure, but it'll make sure you don't croak halfway to your destination. Now shut up, take your dose, and get ready for whatever's coming next."
 
-As the recruits move forward, Eric didn’t budge. He just kept staring at the floor, letting the voices swirl around him. The uncertainty, fear, and despair are all floated in the air. This wasn’t a typical military enlistment, and he knew it. The requirement wasn’t about being physically fit or young—anyone could sign up for this, as he remember the requirement he read for the enlistment. The thing was, most of them probably didn't know what they are walking into. That was the thing with desperate people. Including Eric, they didn’t care about the risks anymore. They just wanted "out".
+As the recruits move forward, [[Eric Rossvolt|Eric]] didn’t budge. He just kept staring at the floor, letting the voices swirl around him. The uncertainty, fear, and despair are all floated in the air. This wasn’t a typical military enlistment, and he knew it. The requirement wasn’t about being physically fit or young—anyone could sign up for this, as he remember the requirement he read for the enlistment. The thing was, most of them probably didn't know what they are walking into. That was the thing with desperate people. Including [[Eric Rossvolt|Eric]], they didn’t care about the risks anymore. They just wanted "out".
 
 Another contrast scene can be seen within the huddled group of women and girls around the crowd. Whispers echoing their shared worries, uncertainty, and fear about what lies ahead. Their voices blend into a low hum of the air, making this despair and doubt tension keep present on the surrounding.
 
@@ -179,11 +179,11 @@ The young girl, finally speaks, muttering the words not at anyone but just looki
 
 Her words hang heavy in the air, the tension lifts up. The others stare at her, feeling unsure, but they can feel the weight of truth in her words. There’s no escaping what’s coming. Like it or not, this is their choice. Some will fall, some will rise, but there’s no turning back now.
 
-All the recruits are now inside of the medical facility, Eric notices that inside building is massive, the celling is beyond reach, with this huge space empty field to fit all the recruits, even though it's inside a building the light is almost as bright as the sunlight outside, instruction to stop and maintain position was given by officer that each of the group follows. The foremost position of the recruits notice that not far on the front there are some figures, they come in pair with each of them standing beside a bed that attached in some kind of machinery.
+All the recruits are now inside of the medical facility, [[Eric Rossvolt|Eric]] notices that inside building is massive, the celling is beyond reach, with this huge space empty field to fit all the recruits, even though it's inside a building the light is almost as bright as the sunlight outside, instruction to stop and maintain position was given by officer that each of the group follows. The foremost position of the recruits notice that not far on the front there are some figures, they come in pair with each of them standing beside a bed that attached in some kind of machinery.
 
 Mutters and whispers humming in the crowd of recruits.
 
-"Wait why they need priestess there? What is she supposed to do" a skinny man in not so far group from Eric muttered.
+"Wait why they need priestess there? What is she supposed to do" a skinny man in not so far group from [[Eric Rossvolt|Eric]] muttered.
 
 "Eh? Probably for emotional and spiritual support? I mean people get nervous and you heard the rumor right? People could died because of the serum" replied a ill postured man from the back of the skinny man's.
 
@@ -193,31 +193,31 @@ Mutters and whispers humming in the crowd of recruits.
 
 The skinny man looks worried but no further wants to continue the conversation.
 
-Eric, take a glance for a second to see what people are muttering about, he lift his head and lean a bit to the side and look at the front and sees exactly what they're saying before, Eric position is number 12 in his group line, the distance is not that far to see what is in front of recruit groups. As he focus his sight he sees there are dozens tactical dress medic, equipped with full suit with googles and wearing facemask , not far beside the medics there are what seems to be a priestess wearing a black robe with white laces and their half-up of their faces are blocked by visor.
+[[Eric Rossvolt|Eric]], take a glance for a second to see what people are muttering about, he lift his head and lean a bit to the side and look at the front and sees exactly what they're saying before, [[Eric Rossvolt|Eric]] position is number 12 in his group line, the distance is not that far to see what is in front of recruit groups. As he focus his sight he sees there are dozens tactical dress medic, equipped with full suit with googles and wearing facemask , not far beside the medics there are what seems to be a priestess wearing a black robe with white laces and their half-up of their faces are blocked by visor.
 
-"Why the priestess even there? And what is with the medic full tactical suit?" Eric muttered in his mind.
+"Why the priestess even there? And what is with the medic full tactical suit?" [[Eric Rossvolt|Eric]] muttered in his mind.
 
-Beside them both there's the bed that attached to some kind of machinery, Eric best guest that it would be the machine to inject the serum and bed indicates that each person need to be lying down in order for the serum to be administered.
+Beside them both there's the bed that attached to some kind of machinery, [[Eric Rossvolt|Eric]] best guest that it would be the machine to inject the serum and bed indicates that each person need to be lying down in order for the serum to be administered.
 
-Eric also noticed the big screen behind where the medic and priestess are standing, not long after he noticed that, the screen flickered to life, revealing what it seems to be a holographic avatar, stylized like a cartoonish cat girl with blue colored ears twitching rhythmically. The design of the avatar perfectly matched a the height of a girl around eighteen to twenty years old, the body is what people would describe as a fit, with not too slender but not too much muscles and weight, her oversized eyes yellow eyes are giving this glowing like rift-energy, her tail that swished back and forth, and a voice that sounded like honey poured over static.
+[[Eric Rossvolt|Eric]] also noticed the big screen behind where the medic and priestess are standing, not long after he noticed that, the screen flickered to life, revealing what it seems to be a holographic avatar, stylized like a cartoonish cat girl with blue colored ears twitching rhythmically. The design of the avatar perfectly matched a the height of a girl around eighteen to twenty years old, the body is what people would describe as a fit, with not too slender but not too much muscles and weight, her oversized eyes yellow eyes are giving this glowing like rift-energy, her tail that swished back and forth, and a voice that sounded like honey poured over static.
 
 "Hiiii, recruits! 🎀 I’m [[Negi-chan]], your favorite Vtuber! Here to guide all of you!!" she chirped, her avatar bouncing in a way that to seems like celebration opening of a show. And then rainbow sparks and gas started to come out below the screen to seems like a celebration mark.
 
-"Today’s Negi-chan will guide everyone to finish the medical procedure! Be sure to stays calm and keep your spirit up! And no need worry! The procedure is super safe and super fun! Just lie back, take a deep breath, and let Kaelion Industry’s patented Vita-Serum work its magic!"
+"Today’s [[Negi-chan]] will guide everyone to finish the medical procedure! Be sure to stays calm and keep your spirit up! And no need worry! The procedure is super safe and super fun! Just lie back, take a deep breath, and let [[Kaelion Industry]]’s patented [[Vita-Serum]] work its magic!"
 
 Behind her, a CGI animation showed smiling soldiers transforming into glowing, muscular heroes while a jingle played: "From despair to hero's destiny!, Kaelion’s got your back—yay!"
 
-The scarred man near Eric snorted, his voice dripping with disdain. “The fuck is this shit? They mocking us?”
+The scarred man near [[Eric Rossvolt|Eric]] snorted, his voice dripping with disdain. “The fuck is this shit? They mocking us?”
 
 The wiry woman with the scarred cheek, rolled her eyes. “Kaelion’s always gotta brand everything. Even our deaths.”
 
-The guy with the jagged scar, grinned despite the tension. “Yo, that’s Negi-chan! She’s got 100 million subs on XeonTube. Didn’t know she did corpo ads too.”
+The guy with the jagged scar, grinned despite the tension. “Yo, that’s [[Negi-chan]]! She’s got 100 million subs on XeonTube. Didn’t know she did corpo ads too.”
 
 One muscular guy from the back was crying and screaming "NEGIII CHANNN!!!! MY IDOLLL!! OHHH MY GOOOD!!!! I WAS NOT ABLE TO ATTEND YOUR IDOL MEET!! BUT NOW I'M GLAD I COME HERE!!! I DON'T CARE IF I'M DYING OR NOT AS LONG AS NEGI CHAN IS HERE!!!". Everyone seems to be surprised and and some are weird out with his reaction 
 
-A wiry recruit near Eric shuddered, his voice trembling. “Why’s her voice sound like that? Like… wrong?”
+A wiry recruit near [[Eric Rossvolt|Eric]] shuddered, his voice trembling. “Why’s her voice sound like that? Like… wrong?”
 
-Negi-chan’s tail glitched for half a second before snapping back to normal. "Everybody must be worried about the rumored side effects yes? Well I'm here to inform everyone that less than 0.01% of recruits experience temporary side effects!  So you can rest assure that it would be fine! Because i will be here with all of you! Nyan!" she winks her left eye while making a pose where her hand make peace sign on the top of her right eye.
+[[Negi-chan]]’s tail glitched for half a second before snapping back to normal. "Everybody must be worried about the rumored side effects yes? Well I'm here to inform everyone that less than 0.01% of recruits experience temporary side effects!  So you can rest assure that it would be fine! Because i will be here with all of you! Nyan!" she winks her left eye while making a pose where her hand make peace sign on the top of her right eye.
 
 "💉 But don’t worry! If your body destabilizes, you’ll receive a generous compensation package and free rehab at a Kaelion wellness center! And get paid as sick duty too!" as she continue her lines while resetting her position back to standing normally.
 
@@ -231,7 +231,7 @@ A annoyed recruit near the front of the line muttered under his breath, his voic
 
 The recruits shuffled forward, the line inching closer to the medics and their ominous machines. The air was thick with tension, the kind that made your skin crawl and your stomach churn.
 
-Negi-chan’s smile stretched too wide, her teeth sharpening briefly into needlepoints. "Remember, guys! 🌟 All of you are the hope that will bring humanity closer to conquer the Unknown! Think of the adventure! Think of the credit bonuses! Now, say ‘nyaa~’ and let’s get started!"
+[[Negi-chan]]’s smile stretched too wide, her teeth sharpening briefly into needlepoints. "Remember, guys! 🌟 All of you are the hope that will bring humanity closer to conquer the Unknown! Think of the adventure! Think of the credit bonuses! Now, say ‘nyaa~’ and let’s get started!"
 
 The screen flashed a card that says “Start!”.
 

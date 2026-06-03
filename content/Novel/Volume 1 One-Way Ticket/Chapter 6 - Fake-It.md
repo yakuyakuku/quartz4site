@@ -1,7 +1,7 @@
 
 She's unresponsive and shaking while also avoiding eye contact with me.
 
-"Uh Ilsa? You're good?"
+"Uh [[Ilsa Ryzelia|Ilsa]]? You're good?"
 
 "Uh.. Yes.. I'm good, I have something to do bye" she rushes quickly past me with her hand trembling and shaking.
 
@@ -13,7 +13,7 @@ And then professor Hugo appears at the end of the corridor, and she lunges to hi
 
 "Huh, weird, I guess she just don't want to see my anymore??"
 
-I didn't think anything of it and just moved on. Not long after my work hours ended, I packed my things up at the campus to go home. But this time, I was in the mood to enjoy the campus scenery and clear my head, so I wandered around. When I passed the Research of the Mind department, I walked by to see if Ilsa was still around, just to see her one more time before leaving. I don't know why I did this, but once again, it just my concern perhaps. When I was almost near her research room, which she and Hugo shared, I heard voices coming from inside.
+I didn't think anything of it and just moved on. Not long after my work hours ended, I packed my things up at the campus to go home. But this time, I was in the mood to enjoy the campus scenery and clear my head, so I wandered around. When I passed the Research of the Mind department, I walked by to see if [[Ilsa Ryzelia|Ilsa]] was still around, just to see her one more time before leaving. I don't know why I did this, but once again, it just my concern perhaps. When I was almost near her research room, which she and Hugo shared, I heard voices coming from inside.
 
 "Dr Hugo, she's gorgeous yo! Hahahaha i couldn't believe you would get this beauty in this shithole planet hahaha".
 
@@ -25,11 +25,11 @@ What the hell is this voice? I started to listening closely and moving closer wi
 
 "Now, now doctor, shall we do it together all of us in here??" this one seems like the first voice that talked before.
 
-"Of course, right Ilsa?" Hugo speaks again.
+"Of course, right [[Ilsa Ryzelia|Ilsa]]?" Hugo speaks again.
 
-"Y-yes.. Please.. Please give me....." This time it's Ilsa, it's definitely Ilsa.
+"Y-yes.. Please.. Please give me....." This time it's [[Ilsa Ryzelia|Ilsa]], it's definitely [[Ilsa Ryzelia|Ilsa]].
 
-Hearing Ilsa's voice, I quickly peeked through the slit window in the room. There, inside, were three men. One was Hugo, and the other two I didn't recognize. Their pants were off, and there was Ilsa. She was chained like a pet, wearing cat-ear headbands. Her expression, her eyes, were those of a nearly hypnotized person, and she was giggling while looking at the lower halves of the three men. I was furious at the sight of this scene. And then, one of the men said...
+Hearing Ilsa's voice, I quickly peeked through the slit window in the room. There, inside, were three men. One was Hugo, and the other two I didn't recognize. Their pants were off, and there was [[Ilsa Ryzelia|Ilsa]]. She was chained like a pet, wearing cat-ear headbands. Her expression, her eyes, were those of a nearly hypnotized person, and she was giggling while looking at the lower halves of the three men. I was furious at the sight of this scene. And then, one of the men said...
 
 "Come my kitty, swallow mine, hahahaha" and then they all laughed.
 
@@ -37,13 +37,13 @@ I couldn't hold my rage no more, i furiously slammed the door to the room quickl
 
 "BASTARD!! WHAT THE FUCK ARE ALL OF YOU THINKING!!"
 
-All of them were looking at me, including Ilsa. I glanced at Ilsa for a second and then focused my attention on the three men. I clenched my fists, ready to fight these assholes, but they just laughed at me.
+All of them were looking at me, including [[Ilsa Ryzelia|Ilsa]]. I glanced at [[Ilsa Ryzelia|Ilsa]] for a second and then focused my attention on the three men. I clenched my fists, ready to fight these assholes, but they just laughed at me.
 
 "Look someone wants to join, hahahaha" said one of the man
 
 "Ohh you should've told us we have more company Hugo" said another one.
 
-"Ohh pardon my immodesty gents, and of course Eric Rossvolt, i didn't know why you still on campus but if you want to join us, come in Hahahahaha" said Hugo while laughing at me.
+"Ohh pardon my immodesty gents, and of course [[Eric Rossvolt]], i didn't know why you still on campus but if you want to join us, come in Hahahahaha" said Hugo while laughing at me.
 
 "FUCK OFF, LET HER GO RIGHT NOW!!"
 
@@ -60,7 +60,7 @@ I was shocked and dumbfounded, standing still. Memories flashed before me: the t
 
 "to cope the pain...." 
 
-"so it was from that time... Why don't you ask for help... Ilsa..." echoes in my head.
+"so it was from that time... Why don't you ask for help... [[Ilsa Ryzelia|Ilsa]]..." echoes in my head.
 
 "AGGHHHHHHHHHHH!!! FUCK OFF ALL OF YOU!!!" I scream as I lunge toward one of the man.
 
@@ -74,9 +74,9 @@ But as soon as I lunged, one of the men grabbed my neck and strangled me. He was
 
 "You can't win Mr. Rossvolt, these two are military general, they have artifacts and they were superficially enhanced human that went to the moon, you basically grant yourself a death ticket" said Hugo.
 
-While amidst all of this Ilsa continue to please Hugo while i was seeing it strangled.
+While amidst all of this [[Ilsa Ryzelia|Ilsa]] continue to please Hugo while i was seeing it strangled.
 
-"OOOHHH, that's right Ilsa, don't stop, just ignore him hahaha" Hugo respond to her action.
+"OOOHHH, that's right [[Ilsa Ryzelia|Ilsa]], don't stop, just ignore him hahaha" Hugo respond to her action.
 
 Meanwhile, i.. I was almost certain i would be dead here, strangled by this man in this forsaken place, with the girl that I consider as a friend having to please assholes in the front of me, while they're laughing at my misery.
 
@@ -138,7 +138,7 @@ The medic then turns to the priestess,
 The priestess, with her face displayed a surprised expression, shakes her head. 
 "No," she whispers. 
 
-"This is unprecedented, i have never seen anything like this before, was it the same as the one named Jaxon before?"
+"This is unprecedented, i have never seen anything like this before, was it the same as the one named [[Jaxon Pyre|Jaxon]] before?"
 
 The medic then replied,
 “The previous one before has an error indicator, the indicator said the serum successfully injected but the effect would’ve taken more time to adjust to the person’s body”
@@ -171,7 +171,7 @@ And then Eric goes to the back of the facility to begin the next phase. After so
 
 The medic lifts their masked and googles, revealing the long tied black hair, tired looking lady, while the priestess also disable their visor and it also open up her face, they started conversation.
 
-“Hey, Ms. Yori, do you think something unusual about recruit number 785, the one named Eric Rossvolt” ask the priestess to the medic.
+“Hey, Ms. Yori, do you think something unusual about recruit number 785, the one named [[Eric Rossvolt]]” ask the priestess to the medic.
 
 “He’s the unusual one, but the serum still works so no protocol needed for any abnormalities” said the medic back to the priestess.
 
@@ -189,9 +189,9 @@ The medic lifts their masked and googles, revealing the long tied black hair, ti
 
 “I hope that recruit get a good artifact later so he doesn’t ended-up in the shittiest place on the moon” the medic chuckles as she said this.
 
-Now, on the back of the facility there’s a lift that will take everyone down to the bottom of the base, everyone who passed the serum injection phase will be carried by this lift, above the lift there’s hologram of Kaelion Enterprise symbol lights up by the laser below around the edge of the front side, as all the recruit who passed are lined up again, now the numbers are almost the same as before, with few of the people who were there missing, this due to the side effect, so some people will get rehabilitated first before continuing the phase, in the line there are Eric, Darius, Lena, Jaxon and Jin among the others. The hologram changes, revealing once again the familiar figure, it was.
+Now, on the back of the facility there’s a lift that will take everyone down to the bottom of the base, everyone who passed the serum injection phase will be carried by this lift, above the lift there’s hologram of [[Kaelion Enterprise]] symbol lights up by the laser below around the edge of the front side, as all the recruit who passed are lined up again, now the numbers are almost the same as before, with few of the people who were there missing, this due to the side effect, so some people will get rehabilitated first before continuing the phase, in the line there are Eric, [[Darius Kroll|Darius]], [[Lena Rynalla|Lena]], [[Jaxon Pyre|Jaxon]] and [[Jin]] among the others. The hologram changes, revealing once again the familiar figure, it was.
 
-“Hellooooo, everyone!!! Congratulations to all of you in here who passed the injection phase!!, now now we will shortly begin the next phase!! So don’t forget to lift your spirit up!! Cuz after this we are going to fly!!!! To the space!!!” Negi-chan appeared again and cheering for the recruits.
+“Hellooooo, everyone!!! Congratulations to all of you in here who passed the injection phase!!, now now we will shortly begin the next phase!! So don’t forget to lift your spirit up!! Cuz after this we are going to fly!!!! To the space!!!” [[Negi-chan]] appeared again and cheering for the recruits.
 
 
 
