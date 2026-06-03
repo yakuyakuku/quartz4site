@@ -1,18 +1,32 @@
-# n8n & WAHA (WhatsApp HTTP API) Production Integration Guide
+# Self-Hosting WAHA & n8n in Production: A Complete Setup & Backup Guide
 
-Integrating **n8n** with **WAHA (WhatsApp HTTP API)** is a powerful way to build robust, scalable chat automation, customer service bots, and notification systems. However, moving this setup to production requires careful planning around session persistence, Docker networking, anti-ban protections, and n8n scalability (Queue Mode).
+Self-hosting **WAHA (WhatsApp HTTP API)** alongside **n8n** gives you full control over your customer automation pipeline, keeps your data private, and eliminates monthly subscription fees. However, running these services in production requires a solid self-hosted deployment strategy, automated backup procedures, and anti-ban safeguards.
 
-This guide explains how these systems interact, provides a visual architecture diagram, details production best practices, and includes a reference `docker-compose.yml` setup.
+This guide focuses on deploying a self-hosted stack using the lightweight **BAILEYS** engine and setting up automated backups.
 
 ---
 
-## 1. System Architecture & Data Flow
+## 1. Engine Selection: WEBJS vs. BAILEYS
 
-At its core, WAHA acts as an API gateway that translates standard HTTP requests and Webhooks into the WhatsApp web/socket protocol, while n8n serves as the orchestrator logic.
+When self-hosting WAHA, choosing the right WhatsApp driver (engine) is the most critical decision for server resource consumption:
 
-### Obsidian-Compatible Architecture Diagram
+| Feature         | `WEBJS` Engine (Playwright/Chrome)            | `BAILEYS` Engine (WebSockets)                          |
+| :-------------- | :-------------------------------------------- | :----------------------------------------------------- |
+| **Technology**  | Headless Chrome (via Puppeteer/Playwright)    | Pure Node.js WebSocket implementation                  |
+| **RAM Usage**   | **High** (~300MB - 500MB per active session)  | **Very Low** (~50MB - 100MB per active session)        |
+| **CPU Usage**   | High (rendering pages, running layout engine) | Minimal (only processes network messages)              |
+| **VPS Fit**     | Requires a VPS with 2GB+ RAM                  | Runs comfortably on a 1GB RAM $5 VPS                   |
+| **Stability**   | Very high (mimics a real browser)             | High (requires updates when WhatsApp protocol changes) |
+| **Persistence** | Large folder structure (browser profile)      | Tiny JSON state & LevelDB files                        |
 
-The diagram below shows how WAHA, n8n, Redis, and PostgreSQL interact within an internal Docker network, utilizing n8n's **Queue Mode** for high throughput.
+> [!TIP]
+> **For self-hosting on lightweight VPS instances, the `BAILEYS` engine is highly recommended.** It uses a fraction of the memory and CPU, allowing you to run multiple WhatsApp sessions on cheap hardware.
+
+---
+
+## 2. Infrastructure Architecture
+
+The diagram below shows how WAHA, n8n, Redis, and PostgreSQL communicate over a private, internal Docker network. Webhooks and API calls bypass the public internet entirely to reduce latency and enhance security.
 
 ```mermaid
 graph TD
@@ -37,112 +51,9 @@ graph TD
 
 ---
 
-## 2. Production Best Practices
+## 3. Self-Hosted Stack Configuration (`docker-compose.yml`)
 
-### A. Session Persistence
-When you scan a QR code in WAHA to authenticate a WhatsApp number, a **Session** is created. If the WAHA container restarts and you haven't configured persistence, the session is lost, forcing you to re-scan the QR code.
-
-*   **Host Volume Mounts:** You must persist the directory where WAHA stores local authentication data. Mount a local directory to `/data` in the WAHA container.
-    *   *Path inside container:* `/data` (where WhatsApp session state, keys, and temporary downloaded files are stored).
-*   **Engine-Specific Considerations:**
-    *   **`WEBJS` (default Playwright engine):** Stores sessions inside a Chrome profile structure under `/data/waha/sessions`. It is highly sensitive to filesystem locks and permissions. Ensure the host folder has correct read/write permissions (`chmod -R 777` or matching container UID/GID).
-    *   **`BAILEYS` (socket-based engine):** Generally faster and uses less CPU/RAM, but sessions are stored as raw JSON/LevelDB files. Ensure regular backups of your session folders.
-*   **Backups:** Periodically compress and backup the session directory. If a VPS crashes, restoring the session folder to a new instance will resume operations immediately without re-pairing.
-
----
-
-### B. Network Resolution (Internal Docker Routing)
-In production, you want to minimize latency, avoid roundtrips to the public internet, and prevent security vulnerabilities by using Docker's internal DNS resolution.
-
-*   **The Webhook Loop Problem:** By default, n8n generates webhook URLs based on the `WEBHOOK_URL` environment variable (e.g., `https://n8n.yourcompany.com`). If you register this public URL in WAHA, WAHA will send webhooks out to the internet, through your reverse proxy, and back down to n8n.
-*   **Docker DNS Resolution:**
-    *   Run WAHA and n8n on the same Docker network (e.g., `waha-net`).
-    *   Point WAHA's webhook target directly to the n8n webhook instance using the Docker container name:
-        `WAHA_WEBHOOK_URL=http://n8n-webhook:5678/webhook/` (for active workflows) or use internal n8n service routing.
-    *   Point n8n's HTTP Request nodes to WAHA using the hostname `http://waha:3000` rather than its public DNS.
-*   **SSL/TLS Configuration:** Since the internal Docker network is isolated and trusted, you can use plain `http` between containers, bypassing SSL overhead. Secure the ingress at your reverse proxy (e.g., Nginx, Caddy, Traefik) which faces the public internet.
-
----
-
-### C. Anti-Ban Defenses (Rate Limiting & Human Simulation)
-WhatsApp uses machine learning and behavior analysis to detect and ban automated bots. Your integration must mimic human behavior as closely as possible.
-
-> [!WARNING]
-> Sending bulk automated template messages to cold leads who did not opt-in is the quickest way to get a permanent number ban.
-
-#### 1. Simulate Human Typing & Presence
-Before sending a message, trigger presence actions using the WAHA API. In your n8n workflow, build the following sequence:
-
-```mermaid
-flowchart TD
-    Start([Start]) --> Online[Presence: Set 'Online']
-    Online --> Wait1[Delay: 1-2s]
-    Wait1 --> Typing[Chat State: Set 'Typing']
-    Typing --> Wait2[Delay: 3-5s based on length]
-    Wait2 --> Send[Send Message]
-    Send --> Offline[Presence: Set 'Offline']
-```
-
-*   **API Calls for Simulation:**
-    *   Use `POST /api/presence` to set the presence state to `online`.
-    *   Use `POST /api/chat/startTyping` to show the "typing..." indicator.
-    *   Wait a calculated delay (e.g., 50ms per character of the message).
-    *   Send the message via `POST /api/sendText`.
-    *   Use `POST /api/presence` to set status back to `offline` or let it time out.
-
-#### 2. Rate Limiting & Randomized Delays
-*   Do not send messages instantly back-to-back.
-*   Use n8n's **Wait Node** with a dynamic code block to randomize the duration:
-    ```javascript
-    // Calculate a random delay between 2000ms and 5000ms
-    return {
-      delayMs: Math.floor(Math.random() * (5000 - 2000 + 1)) + 2000
-    };
-    ```
-*   Implement a token bucket or queue in n8n using Redis or an external queue if you have campaigns that push notifications out to hundreds of users.
-
-#### 3. Message Personalization (Variability)
-*   **Spin Syntax (Spintax):** Avoid sending the exact same text template. Rotate greetings, sign-offs, and sentence structures.
-    *   *Example:* `[Hello|Hi|Greetings] {{ $json.name }}, [how can I help you today?|what can I do for you?]`
-*   Use LLM API nodes (OpenAI, Anthropic) in n8n to rewrite notifications dynamically to maintain a completely unique conversational fingerprint.
-*   **Verify Number Validity:** Check if a number is active on WhatsApp using `POST /api/contacts/check` before sending. Attempting to message non-existent numbers flags your account for spam.
-
----
-
-### D. n8n Queue Mode (Scaling for Spikes)
-WAHA webhooks can be extremely chatty. When an active WhatsApp account joins a busy group, or when a user syncs historical chats, WAHA fires hundreds of webhooks per minute. A single-instance n8n (using default SQLite) will encounter database locks, run out of memory, or drop connections.
-
-#### Why Queue Mode is Required
-In **Queue Mode**, n8n separates responsibilities into distinct container roles:
-1.  **n8n Main (Editor):** Serves the UI, schedules cron jobs, and saves configurations.
-2.  **n8n Webhook Processors:** Ultra-lightweight containers dedicated exclusively to receiving incoming webhook HTTP calls from WAHA. They put the webhook payload into a Redis queue immediately and respond to WAHA with a `200 OK`, ensuring WAHA doesn't timeout or retry.
-3.  **Redis:** Acts as a broker, queueing executions.
-4.  **n8n Workers:** Grab executions from the Redis queue and process the heavy logic (database queries, AI APIs, HTTP calls to WAHA). You can scale workers up or down independently of webhooks.
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant WAHA as WAHA
-    participant WH as n8n Webhook
-    participant Redis as Redis
-    participant Worker as Worker
-
-    WAHA->>WH: Webhook POST (Message)
-    Note over WH: Fast Ingestion
-    WH->>Redis: Push Execution
-    WH-->>WAHA: 200 OK
-    
-    Note over Worker: Worker Active
-    Worker->>Redis: Pop Task
-    Worker->>Worker: Run Workflow (AI/logic)
-    Worker->>WAHA: API POST (Send message)
-```
-
----
-
-## 3. Reference Production `docker-compose.yml`
-
-This setup provisions a production-ready, highly available structure on a single host. It configures WAHA with local persistence and provisions n8n in **Queue Mode** with a PostgreSQL database and a Redis backend.
+Save this configuration as `docker-compose.yml` in your stack directory. It configures WAHA to use the light **BAILEYS** engine and sets up n8n in **Queue Mode** with PostgreSQL and Redis.
 
 ```yaml
 version: '3.8'
@@ -166,9 +77,9 @@ services:
     container_name: postgres
     restart: always
     environment:
-      POSTGRES_USER: n8n_admin
-      POSTGRES_PASSWORD: SecretSecurePasswordChangeMe!
-      POSTGRES_DB: n8n_prod
+      POSTGRES_USER: ${POSTGRES_USER:-n8n_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-SecretSecurePasswordChangeMe!}
+      POSTGRES_DB: ${POSTGRES_DB:-n8n_prod}
     volumes:
       - db_data:/var/lib/postgresql/data
     networks:
@@ -198,23 +109,21 @@ services:
       retries: 5
 
   # ----------------------------------------------------
-  # WAHA (WhatsApp HTTP API)
+  # WAHA (WhatsApp HTTP API using BAILEYS Engine)
   # ----------------------------------------------------
   waha:
     image: devlikeapro/waha:latest
     container_name: waha
     restart: always
     ports:
-      - "3000:3000" # Expose API locally/internally
+      - "3000:3000" # Swagger UI access
     environment:
-      - WAHA_ENGINE=WEBJS # Choose: WEBJS (Playwright) or BAILEYS (Sockets)
-      # Point to internal docker webhook receiver
+      - WAHA_ENGINE=BAILEYS # Optimized socket-based engine
       - WAHA_WEBHOOK_URL=http://n8n-webhook:5678/webhook/waha-trigger
       - WAHA_WEBHOOK_EVENTS=message,message.any,state.change
-      # Security (Protect your API with a key)
-      - WAHA_API_KEY=WAHA_SUPER_SECRET_KEY
+      - WAHA_API_KEY=${WAHA_API_KEY:-WAHA_SUPER_SECRET_KEY}
     volumes:
-      - waha_data:/data # Crucial for session persistence
+      - waha_data:/data # Critical: Stores Baileys JSON authentication keys
     networks:
       - waha-net
     depends_on:
@@ -229,25 +138,22 @@ services:
     container_name: n8n-main
     restart: always
     ports:
-      - "5678:5678" # Expose UI/Editor (behind reverse proxy)
+      - "5678:5678" # Main Web Interface
     environment:
-      - N8N_HOST=n8n.yourdomain.com
+      - N8N_HOST=${N8N_DOMAIN:-n8n.yourdomain.com}
       - N8N_PORT=5678
       - N8N_PROTOCOL=https
       - NODE_ENV=production
-      # DB Settings
       - DB_TYPE=postgresdb
       - DB_POSTGRESDB_HOST=postgres
       - DB_POSTGRESDB_PORT=5432
-      - DB_POSTGRESDB_DATABASE=n8n_prod
-      - DB_POSTGRESDB_USER=n8n_admin
-      - DB_POSTGRESDB_PASSWORD=SecretSecurePasswordChangeMe!
-      # Queue Configuration
+      - DB_POSTGRESDB_DATABASE=${POSTGRES_DB:-n8n_prod}
+      - DB_POSTGRESDB_USER=${POSTGRES_USER:-n8n_admin}
+      - DB_POSTGRESDB_PASSWORD=${POSTGRES_PASSWORD:-SecretSecurePasswordChangeMe!}
       - EXECUTIONS_MODE=queue
       - QUEUE_BULL_REDIS_HOST=redis
       - QUEUE_BULL_REDIS_PORT=6379
-      # Encryption Key
-      - N8N_ENCRYPTION_KEY=GenerateAStrongRandomStringHere!
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY:-GenerateAStrongRandomStringHere!}
     volumes:
       - n8n_shared:/home/node/.n8n
     networks:
@@ -267,18 +173,18 @@ services:
     restart: always
     command: webhook
     environment:
-      - N8N_HOST=n8n.yourdomain.com
+      - N8N_HOST=${N8N_DOMAIN:-n8n.yourdomain.com}
       - NODE_ENV=production
       - DB_TYPE=postgresdb
       - DB_POSTGRESDB_HOST=postgres
       - DB_POSTGRESDB_PORT=5432
-      - DB_POSTGRESDB_DATABASE=n8n_prod
-      - DB_POSTGRESDB_USER=n8n_admin
-      - DB_POSTGRESDB_PASSWORD=SecretSecurePasswordChangeMe!
+      - DB_POSTGRESDB_DATABASE=${POSTGRES_DB:-n8n_prod}
+      - DB_POSTGRESDB_USER=${POSTGRES_USER:-n8n_admin}
+      - DB_POSTGRESDB_PASSWORD=${POSTGRES_PASSWORD:-SecretSecurePasswordChangeMe!}
       - EXECUTIONS_MODE=queue
       - QUEUE_BULL_REDIS_HOST=redis
       - QUEUE_BULL_REDIS_PORT=6379
-      - N8N_ENCRYPTION_KEY=GenerateAStrongRandomStringHere!
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY:-GenerateAStrongRandomStringHere!}
     volumes:
       - n8n_shared:/home/node/.n8n
     networks:
@@ -291,7 +197,6 @@ services:
   # ----------------------------------------------------
   n8n-worker:
     image: docker.n8n.io/n8nio/n8n:latest
-    # container_name omitted to allow scaling using --scale
     restart: always
     command: worker
     environment:
@@ -299,117 +204,207 @@ services:
       - DB_TYPE=postgresdb
       - DB_POSTGRESDB_HOST=postgres
       - DB_POSTGRESDB_PORT=5432
-      - DB_POSTGRESDB_DATABASE=n8n_prod
-      - DB_POSTGRESDB_USER=n8n_admin
-      - DB_POSTGRESDB_PASSWORD=SecretSecurePasswordChangeMe!
+      - DB_POSTGRESDB_DATABASE=${POSTGRES_DB:-n8n_prod}
+      - DB_POSTGRESDB_USER=${POSTGRES_USER:-n8n_admin}
+      - DB_POSTGRESDB_PASSWORD=${POSTGRES_PASSWORD:-SecretSecurePasswordChangeMe!}
       - EXECUTIONS_MODE=queue
       - QUEUE_BULL_REDIS_HOST=redis
       - QUEUE_BULL_REDIS_PORT=6379
-      - N8N_ENCRYPTION_KEY=GenerateAStrongRandomStringHere!
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY:-GenerateAStrongRandomStringHere!}
     volumes:
       - n8n_shared:/home/node/.n8n
     networks:
       - waha-net
     depends_on:
       - n8n-main
+```
 
 ---
 
-## 4. Setup & Deployment Guide
+## 4. Self-Hosted Data Persistence & Backups
 
-Deploying this entire stack in a single `docker-compose.yml` ensures all services boot in the correct dependency order, share internal DNS names, and are isolated within the same private network.
+When running this stack, your critical database states and WhatsApp connection keys must be preserved. If your server dies and you lose the WAHA directory, **your WhatsApp accounts will disconnect, forcing you to manually re-scan the QR code for every device**.
 
-### Step 1: Prepare the Directories & Host Environment
-On your server (e.g. `Battlemage`), create a folder for the stack and initialize the local directories to ensure Docker has write access:
+### What Needs to be Backed Up?
+1.  **WAHA Session Storage:** In `BAILEYS` mode, this is the `waha_data` directory. It contains session keys, JSON credentials, and local caching.
+2.  **n8n Configuration & History:** Stored in the PostgreSQL database (`db_data` volume) and n8n shared static assets (`n8n_shared`).
 
-```bash
-mkdir -p ~/waha-n8n-stack/waha_data
-mkdir -p ~/waha-n8n-stack/n8n_shared
-cd ~/waha-n8n-stack
-```
+### Automated Backup Strategy
+We can write a backup script that runs nightly via `cron`. It exports a database snapshot and compresses the local volumes, then optionally pushes the backup file to remote storage (e.g. AWS S3, Cloudflare R2, Backblaze B2, or another server) to avoid data loss in the event of local VPS hardware failure.
 
-Ensure permissions are open for container-mount directories if you run into permissions errors (especially on Linux setups with non-root Docker engines):
-```bash
-chmod -R 777 waha_data n8n_shared
-```
-
-### Step 2: Configure Environment Secrets
-Create a `.env` file in `~/waha-n8n-stack/.env` to separate passwords and keys from the `docker-compose.yml` file.
-
-```ini
-# Database configuration
-POSTGRES_USER=n8n_admin
-POSTGRES_PASSWORD=UseAStrongPassword123!
-POSTGRES_DB=n8n_prod
-
-# WAHA configuration
-WAHA_API_KEY=YourWahaSuperSecretKeyGoesHere
-
-# n8n configuration
-N8N_ENCRYPTION_KEY=YourUniqueN8nEncryptionSecretKey
-N8N_DOMAIN=n8n.yourdomain.com
-```
-
-> [!NOTE]
-> Update the environment variables in your `docker-compose.yml` to reference these `.env` variables (e.g., `${POSTGRES_USER}`, `${WAHA_API_KEY}`, etc.) to keep your credentials secure and decoupled.
-
-### Step 3: Run the Stack
-Deploy the stack in detached mode:
+#### 1. Setup the Backup Script
+Create a script on your host machine named `backup.sh` in your stack folder:
 
 ```bash
-docker compose up -d
+#!/bin/bash
+# backup.sh - Automated Backup Script for WAHA and n8n
+
+# --- Configuration ---
+STACK_DIR="/home/yaku/waha-n8n-stack"
+BACKUP_DIR="/backups"
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+RETENTION_DAYS=7
+
+# Load variables from .env
+if [ -f "$STACK_DIR/.env" ]; then
+    export $(grep -v '^#' "$STACK_DIR/.env" | xargs)
+fi
+
+DB_USER=${POSTGRES_USER:-n8n_admin}
+DB_NAME=${POSTGRES_DB:-n8n_prod}
+
+mkdir -p "$BACKUP_DIR"
+
+echo "[$(date)] Starting Backup..."
+
+# 1. Hot-export the PostgreSQL database state
+docker exec postgres pg_dump -U "$DB_USER" "$DB_NAME" > "$BACKUP_DIR/n8n_db_$TIMESTAMP.sql"
+
+# 2. Archive WAHA session folder & n8n shared files
+# Docker volumes usually mount in /var/lib/docker/volumes/
+# If using local directories in docker-compose, archive directly from STACK_DIR:
+tar -czf "$BACKUP_DIR/waha_sessions_$TIMESTAMP.tar.gz" -C "$STACK_DIR" waha_data n8n_shared
+
+# 3. Compress database dump to save space
+gzip "$BACKUP_DIR/n8n_db_$TIMESTAMP.sql"
+
+# 4. Optional: Upload to remote cloud storage using rclone (S3/B2/R2)
+# Ensure rclone is configured on the host machine: 'rclone config'
+# rclone copy "$BACKUP_DIR/*_$TIMESTAMP*" remote:my-bucket-name/backups/
+
+# 5. Clean up local backups older than RETENTION_DAYS
+find "$BACKUP_DIR" -type f -mtime +$RETENTION_DAYS -delete
+
+echo "[$(date)] Backup Completed successfully."
 ```
 
-Docker Compose will:
-1. Create the internal bridge network `waha-net`.
-2. Spin up `postgres` and `redis`, waiting for their health checks to pass.
-3. Boot up the WAHA container, n8n-main (Editor), n8n-webhook (Receiver), and n8n-worker (Executor).
+#### 2. Schedule the Script
+Make the script executable:
+```bash
+chmod +x ~/waha-n8n-stack/backup.sh
+```
 
-### Step 4: Scale the n8n Workers
-If your WhatsApp automation processes high message volume (e.g. sending bulk updates, heavy AI response generations, or multiple media downloads), you can scale your n8n Workers instantly.
+Add it to your system's `cron` jobs to run daily at 2:00 AM. Open the crontab editor:
+```bash
+crontab -e
+```
 
-Because we omitted the `container_name` from the `n8n-worker` service, Docker Compose can run multiple instances:
+Add the following line:
+```cron
+0 2 * * * /home/yaku/waha-n8n-stack/backup.sh >> /var/log/waha_backup.log 2>&1
+```
+
+---
+
+## 5. Disaster Recovery: Restoring Your Sessions
+
+If you need to migrate to a new server or recover from a server crash:
+
+1.  Set up the folder structure on the new server:
+    ```bash
+    mkdir -p ~/waha-n8n-stack
+    ```
+2.  Restore the configuration files (`docker-compose.yml` and your `.env`).
+3.  Extract the session archive back into the stack directory:
+    ```bash
+    tar -xzf waha_sessions_YYYYMMDD_HHMMSS.tar.gz -C ~/waha-n8n-stack/
+    ```
+4.  Start the database container first to prepare for import:
+    ```bash
+    docker compose up -d postgres
+    ```
+5.  Restore the database dump:
+    ```bash
+    gunzip n8n_db_YYYYMMDD_HHMMSS.sql.gz
+    docker cp n8n_db_YYYYMMDD_HHMMSS.sql postgres:/tmp/restore.sql
+    docker exec -it postgres psql -U n8n_admin -d n8n_prod -f /tmp/restore.sql
+    ```
+6.  Start the rest of the stack:
+    ```bash
+    docker compose up -d
+    ```
+
+Because the BAILEYS keys in `waha_data` match the session signature, WAHA will connect instantly without needing to scan QR codes.
+
+---
+
+## 6. Network Resolution (Internal Docker Routing)
+
+To prevent security vulnerabilities and reduce request times, internal communication must stay inside the Docker bridge network.
+
+*   **Webhook Destination (WAHA -> n8n):**
+    WAHA sends events to n8n. Instead of using your public domain (e.g. `https://n8n.domain.com`), point WAHA to the internal container host:
+    `WAHA_WEBHOOK_URL=http://n8n-webhook:5678/webhook/waha-trigger`
+*   **API Calls (n8n -> WAHA):**
+    When n8n workers send a message back via WAHA, the HTTP Request nodes in n8n should call the internal name:
+    `http://waha:3000/api/sendText`
+*   **External Access (Reverse Proxy):**
+    Use a reverse proxy (Nginx, Traefik, or Caddy) to expose the main editor (`n8n-main:5678`) and the WAHA documentation page (`waha:3000`) securely to the web with SSL/TLS certificates.
+
+---
+
+## 7. Anti-Ban Defenses (Rate Limiting & Human Simulation)
+
+WhatsApp uses AI algorithms to analyze user behaviors. If your automated bot acts like a script, it will get banned.
+
+### 1. Presence & Typing Simulation Flow
+Always simulate human presence actions before sending message data:
+
+```mermaid
+flowchart TD
+    Start([Start]) --> Online[Presence: Set 'Online']
+    Online --> Wait1[Delay: 1-2s]
+    Wait1 --> Typing[Chat State: Set 'Typing']
+    Typing --> Wait2[Delay: 3-5s based on length]
+    Wait2 --> Send[Send Message]
+    Send --> Offline[Presence: Set 'Offline']
+```
+
+*   **API Actions:**
+    *   Set status to `online` (`POST /api/presence`).
+    *   Turn on the `typing...` status (`POST /api/chat/startTyping`).
+    *   Set a delay of a few seconds (mimicking typing speed).
+    *   Send the text (`POST /api/sendText`).
+    *   Turn off typing and return status to `offline`.
+
+### 2. Randomized Delay in n8n
+Do not reply instantly. Add a **Wait Node** in n8n and use a dynamic code block to randomize the wait time (e.g. between 2 to 5 seconds):
+
+```javascript
+return {
+  delayMs: Math.floor(Math.random() * (5000 - 2000 + 1)) + 2000
+};
+```
+
+---
+
+## 8. n8n Queue Mode Operation
+
+Running n8n in Queue Mode ensures that webhook floods (e.g. when your WhatsApp account receives messages from busy groups) are loaded into **Redis** rather than overwhelming n8n's main memory or locking database tables.
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant WAHA as WAHA
+    participant WH as n8n Webhook
+    participant Redis as Redis
+    participant Worker as Worker
+
+    WAHA->>WH: Webhook POST (Message)
+    Note over WH: Fast Ingestion
+    WH->>Redis: Push Execution
+    WH-->>WAHA: 200 OK
+    
+    Note over Worker: Worker Active
+    Worker->>Redis: Pop Task
+    Worker->>Worker: Run Workflow (AI/logic)
+    Worker->>WAHA: API POST (Send message)
+```
+
+### Scaling Worker Instances
+If your queues get congested, scale the number of execution workers dynamically from your host server:
 
 ```bash
-# Scale to 3 active worker containers running concurrently
 docker compose up -d --scale n8n-worker=3
 ```
-
-This will run `waha-n8n-stack-n8n-worker-1`, `waha-n8n-stack-n8n-worker-2`, and `waha-n8n-stack-n8n-worker-3`. They will automatically register with Redis and start processing queued events from the n8n-webhook container.
-
-### Step 5: Connecting WAHA to n8n
-To complete the loop, n8n must listen to webhooks fired by WAHA.
-
-1. Open your **n8n Editor** (e.g. at `https://n8n.yourdomain.com`).
-2. Create a new Workflow and add a **Webhook Node**.
-   * Set the HTTP Method to `POST`.
-   * Set the Path to `waha-trigger` (matching the `WAHA_WEBHOOK_URL` suffix).
-   * Note the Webhook URL. It will look like `http://n8n-webhook:5678/webhook/waha-trigger` from within the Docker network.
-3. Save and **Activate** the workflow in n8n.
-4. Open the WAHA API Swagger UI (typically at `http://YOUR_SERVER_IP:3000` or via reverse proxy).
-5. If not set via docker-compose environment variables, register the webhook using the `POST /api/webhooks` endpoint:
-   ```json
-   {
-     "url": "http://n8n-webhook:5678/webhook/waha-trigger",
-     "events": ["message", "message.any", "state.change"],
-     "enabled": true
-   }
-   ```
-
-### Step 6: Verify Queue Execution
-To verify that n8n Queue Mode is functioning correctly:
-1. Check the logs of the webhook container:
-   ```bash
-   docker logs n8n-webhook
-   ```
-   You should see logs indicating the webhook container started in `webhook` mode.
-2. Check the logs of your workers to see them pulling tasks from the queue:
-   ```bash
-   docker logs -f waha-n8n-stack-n8n-worker-1
-   ```
-3. To inspect the active Redis queue, run:
-   ```bash
-   docker exec -it redis redis-cli KEYS "bull:*"
-   ```
-   If Redis contains keys starting with `bull:queue` (n8n's queue engine), the queue broker is configured and active.
-
+This deploys three parallel worker containers that consume tasks from Redis simultaneously, ensuring that message processing times remain low under heavy loads.
