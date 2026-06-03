@@ -61,8 +61,8 @@ graph TD
     end
 
     %% Routing Bridges
-    NPM -->|http://n8n-main:5678| Main
-    NPM -->|http://waha:3000| WAHA
+    NPM -->|n8n-main:5678| Main
+    NPM -->|waha:3000| WAHA
     
     WAHA -->|Webhook| WH
     WH -->|Queue Job| Redis
