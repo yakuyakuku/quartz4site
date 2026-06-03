@@ -17,46 +17,22 @@ The diagram below shows how WAHA, n8n, Redis, and PostgreSQL interact within an 
 ```mermaid
 graph TD
     %% Styling
-    classDef external fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef frontend fill:#bbf,stroke:#333,stroke-width:1px;
+    classDef ext fill:#f9f,stroke:#333,stroke-width:1px;
+    classDef proxy fill:#bbf,stroke:#333,stroke-width:1px;
     classDef waha fill:#f96,stroke:#333,stroke-width:1px;
-    classDef database fill:#9f9,stroke:#333,stroke-width:1px;
-    classDef queue fill:#ff9,stroke:#333,stroke-width:1px;
-    classDef n8n fill:#9ff,stroke:#333,stroke-width:2px;
+    classDef db fill:#9f9,stroke:#333,stroke-width:1px;
+    classDef redis fill:#ff9,stroke:#333,stroke-width:1px;
+    classDef n8n fill:#9ff,stroke:#333,stroke-width:1px;
 
-    %% Nodes
-    WA[WhatsApp Server]:::external
-    User[User Device]:::external
-    Proxy[Reverse Proxy / Nginx / Traefik]:::frontend
-    
-    subgraph Docker Bridge Network [Docker Internal Network: waha-net]
-        WAHA[WAHA Container: waha:3000]:::waha
-        
-        subgraph n8n Scaling Group [n8n Queue Mode]
-            n8nWeb[n8n Webhook Node: n8n-webhook:5678]:::n8n
-            n8nMain[n8n Editor / Main: n8n-main:5678]:::n8n
-            n8nWorker[n8n Worker Nodes]:::n8n
-        end
-        
-        Redis[(Redis Queue)]:::queue
-        DB[(PostgreSQL)]:::database
-    end
-
-    %% Network Connections
-    User <-->|Message| WA
-    WA <-->|Secure Socket| WAHA
-    
-    Proxy -->|https://n8n.domain.com| n8nMain
-    
-    WAHA -->|Webhook: POST http://n8n-webhook:5678| n8nWeb
-    
-    n8nWeb -->|Push Execution| Redis
-    n8nWorker -->|Pull Execution| Redis
-    
-    n8nWorker -->|Read/Write State| DB
-    n8nMain -->|Read/Write Config| DB
-    
-    n8nWorker -->|API Call: POST http://waha:3000| WAHA
+    %% Nodes & Flow
+    Proxy[Reverse Proxy]:::proxy --> Main[n8n-main Editor]:::n8n
+    WA[WhatsApp]:::ext <--> WAHA[WAHA API]:::waha
+    WAHA -->|Webhook| WH[n8n-webhook]:::n8n
+    WH -->|Queue Job| Redis[(Redis)]:::redis
+    Worker[n8n-worker]:::n8n -->|Pull Job| Redis
+    Worker -->|API Call| WAHA
+    Worker -->|State| DB[(PostgreSQL)]:::db
+    Main -->|Config| DB
 ```
 
 ---
@@ -98,8 +74,8 @@ WhatsApp uses machine learning and behavior analysis to detect and ban automated
 Before sending a message, trigger presence actions using the WAHA API. In your n8n workflow, build the following sequence:
 
 ```mermaid
-flowchart LR
-    Start[Start Event] --> Online[Presence: Set 'Online']
+flowchart TD
+    Start([Start]) --> Online[Presence: Set 'Online']
     Online --> Wait1[Delay: 1-2s]
     Wait1 --> Typing[Chat State: Set 'Typing']
     Typing --> Wait2[Delay: 3-5s based on length]
@@ -146,22 +122,20 @@ In **Queue Mode**, n8n separates responsibilities into distinct container roles:
 ```mermaid
 sequenceDiagram
     autonumber
-    participant WAHA as WAHA Container
-    participant WH as n8n Webhook Instance
-    participant Redis as Redis Queue
-    participant Worker as n8n Worker
-    participant DB as PostgreSQL DB
+    participant WAHA as WAHA
+    participant WH as n8n Webhook
+    participant Redis as Redis
+    participant Worker as Worker
 
-    WAHA->>WH: POST /webhook/whatsapp-event
-    Note over WH: Ultra-fast ingestion
-    WH->>Redis: Push Execution Task
-    WH-->>WAHA: 200 OK Response
+    WAHA->>WH: Webhook POST (Message)
+    Note over WH: Fast Ingestion
+    WH->>Redis: Push Execution
+    WH-->>WAHA: 200 OK
     
-    Note over Worker: Idle Worker detects task
+    Note over Worker: Worker Active
     Worker->>Redis: Pop Task
-    Worker->>DB: Fetch Workflow Config
-    Worker->>Worker: Run nodes (AI, logic, delays)
-    Worker->>DB: Save Execution History
+    Worker->>Worker: Run Workflow (AI/logic)
+    Worker->>WAHA: API POST (Send message)
 ```
 
 ---
