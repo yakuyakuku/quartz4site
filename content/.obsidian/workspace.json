@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/private/WAHA n8n.md",
+                "file": "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAHA n8n"
+              "title": "Chapter 1 - The One-Way Ticket"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300
   },
   "right": {
     "id": "90a44a01c31563d6",
@@ -237,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +253,7 @@
   },
   "active": "792e3841d0c005dd",
   "lastOpenFiles": [
-    "Novel/private/Lore Stuff/The Execution of Evan Yushong and Rumia Valzvein.md",
-    "Novel/private/explanation.md",
+    "Lunaris Empire.md",
     "Novel/private/Warp Cli Stuff.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 11 -.md",
     "conflict-files-obsidian-git.md",
@@ -284,6 +282,7 @@
     "Novel/Volume 1 One-Way Ticket/Chapter 6 - Fake-It.md",
     "Novel/Database/Character/Tusk.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 5 - Will You Accept.md",
+    "Novel/Database/Character/Elara.md",
     "Novel/Database/Character",
     "Novel/Database",
     "Novel/private/Unused and Tips/Untitled.base",
