@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04f93147175d2cdb",
+        "id": "603b941fb704092f",
         "type": "tabs",
         "children": [
           {
-            "id": "1829f53e99363198",
+            "id": "d6cbc00fb72a8dde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Novel/private/Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/Novel/private/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/Novel/private/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "content/Novel/private/Test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1829f53e99363198",
+  "active": "d6cbc00fb72a8dde",
   "lastOpenFiles": [
+    "content/Novel/private/WAHA n8n.md",
     "Untitled.base"
   ]
 }
