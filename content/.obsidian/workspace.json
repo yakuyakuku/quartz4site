@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
+                "file": "Novel/private/git-mess-explanation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - The One-Way Ticket"
+              "title": "git-mess-explanation"
             }
           }
         ],
@@ -253,10 +253,11 @@
   },
   "active": "792e3841d0c005dd",
   "lastOpenFiles": [
+    "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
+    "Novel/private/git-mess-explanation.md",
     "conflict-files-obsidian-git.md",
     "Novel/private/explanation.md",
     "Novel/private/WAHA n8n.md",
-    "Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
     "Lunaris Empire.md",
     "Novel/private/Warp Cli Stuff.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 11 -.md",
@@ -282,7 +283,6 @@
     "Novel/Volume 1 One-Way Ticket/Chapter 7 - There is No Sanctuary.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 8 - The Shape of Your Soul.md",
     "Novel/Volume 1 One-Way Ticket/Chapter 6 - Fake-It.md",
-    "Novel/Database/Character/Tusk.md",
     "Novel/Database/Character",
     "Novel/Database",
     "Novel/private/Unused and Tips/Untitled.base",
