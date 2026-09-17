@@ -1,4 +1,4 @@
-The hum of moving vehicle filled my ears. Emotions surged through my head, a tense calm settled over me, soon it begin twisting, I begin to move my fingers, in rhythm, reaching to my other hand, combine them together and release and went back to move my fingers again and doing the same action as before in repetition. In my mind I was wondering, why I sat here, and have nothing planned for the future.
+ The hum of moving vehicle filled my ears. Emotions surged through my head, a tense calm settled over me, soon it begin twisting, I begin to move my fingers, in rhythm, reaching to my other hand, combine them together and release and went back to move my fingers again and doing the same action as before in repetition. In my mind I was wondering, why I sat here, and have nothing planned for the future.
 
 "Well, the future that has already been set in stone is hard to change anyway". as I sighed, my lips were shut, only air coming out through my nose.
 
