@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Novel/private/Test.md",
+                "file": "content/Bullshit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Bullshit"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -181,7 +183,23 @@
   },
   "active": "d6cbc00fb72a8dde",
   "lastOpenFiles": [
+    "content/Novel/private/Lore Stuff/Background.md",
+    "CODE_OF_CONDUCT.md",
     "content/Novel/private/WAHA n8n.md",
+    "content/private/Untitled.md",
+    "content/Novel/private/Test.md",
+    "content/Novel/private/explanation.md",
+    "content/Bullshit.md",
+    "content/Novel/private/Warp Cli Stuff.md",
+    "content/Lunaris Empire.md",
+    "/content/Lunaris Empire.md",
+    "/content/Novel/private/git-mess-explanation.md",
+    "content/Novel/private/git-mess-explanation.md",
+    "/content/Novel/private",
+    "/content/Novel/Volume 1 One-Way Ticket/Chapter 1 - The One-Way Ticket.md",
+    "/content/Novel/Volume 1 One-Way Ticket",
+    "/content/Novel",
+    "/content",
     "Untitled.base"
   ]
 }
